@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ripple Project page
 layout: post
 ---
