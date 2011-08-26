@@ -1,10 +1,10 @@
----
+﻿---
 title: BlackBerry Open Source
 layout: default
 ---
 # Research In Motion at GitHub
 
-Welcome to the home for [RIM](http://rim.com) projects at GitHub.  
+Welcome to the home for [RIM](http://rim.com) projects at GitHub.
 
 The first repository in this [organization](https://github.com/blog/674-introducing-organizations) was [WebWorks](https://github.com/blackberry/WebWorks/commit/1a7373cb155756fb6be7ccce893d6d790ec10abf), created during [DevCon 2010](http://devblog.blackberry.com/2010/09/blackberry-webworks-and-the-open-source-community/).  Since then we have added six more repositories covering runtimes, tools, documentation, and code samples and we expect more projects to follow.
 For the latest, and an archive of older, news, check [here](news); also see the official [BlackBerry DevBlog](http://devblog.blackberry.com/).
@@ -47,10 +47,12 @@ Projects are encouraged to maintain information in these pages.  Using WebWorks 
 ### Ripple Emulator
 1. [Ripple-Framework](https://github.com/blackberry/Ripple-Framework) - Basic Framework for the Ripple Emulator
 1. [Ripple-UI](https://github.com/blackberry/Ripple-UI) - Presentation elements for Ripple.
-
 ### WebKit
 1. [WebKit-SmartPhone](https://github.com/blackberry/WebKit-Smartphone) - RIM contributions to WebKit for BlackBerry Smartphones.
 
-WebWorks and Ripple are RIM-led projects.  These repositories are the "master" repositories.
+### Alice
+1. [Alice](https://github.com/blackberry/Alice) - (A Lightweight Independent CSS Engine) is a micro JavaScript library for generating rich visual effects in modern browsers.
+
+WebWorks, Ripple, and Alice are RIM-led projects.  These repositories are the "master" repositories.
 WebKit is maintained by the [WebKit.org](http://webkit.org) community.
 
