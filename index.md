@@ -47,12 +47,12 @@ Projects are encouraged to maintain information in these pages.  Using WebWorks 
 ### Ripple Emulator
 1. [Ripple-Framework](https://github.com/blackberry/Ripple-Framework) - Basic Framework for the Ripple Emulator
 1. [Ripple-UI](https://github.com/blackberry/Ripple-UI) - Presentation elements for Ripple.
-### WebKit
-1. [WebKit-SmartPhone](https://github.com/blackberry/WebKit-Smartphone) - RIM contributions to WebKit for BlackBerry Smartphones.
 
 ### Alice
 1. [Alice.js](https://github.com/blackberry/Alice) - (A Lightweight Independent CSS Engine) is a micro JavaScript library for generating rich visual effects in modern browsers.
 
+### WebKit
+1. [WebKit-SmartPhone](https://github.com/blackberry/WebKit-Smartphone) - RIM contributions to WebKit for BlackBerry Smartphones.
+
 WebWorks, Ripple, and Alice are RIM-led projects.  These repositories are the "master" repositories.
 WebKit is maintained by the [WebKit.org](http://webkit.org) community.
-
