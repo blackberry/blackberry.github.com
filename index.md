@@ -51,7 +51,7 @@ Projects are encouraged to maintain information in these pages.  Using WebWorks 
 1. [WebKit-SmartPhone](https://github.com/blackberry/WebKit-Smartphone) - RIM contributions to WebKit for BlackBerry Smartphones.
 
 ### Alice
-1. [Alice](https://github.com/blackberry/Alice) - (A Lightweight Independent CSS Engine) is a micro JavaScript library for generating rich visual effects in modern browsers.
+1. [Alice.js](https://github.com/blackberry/Alice) - (A Lightweight Independent CSS Engine) is a micro JavaScript library for generating rich visual effects in modern browsers.
 
 WebWorks, Ripple, and Alice are RIM-led projects.  These repositories are the "master" repositories.
 WebKit is maintained by the [WebKit.org](http://webkit.org) community.
