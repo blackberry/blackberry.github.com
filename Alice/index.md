@@ -45,7 +45,7 @@ The [demos](http://blackberry.github.com/Alice/demos.html) are separated in two 
     <th>Contributors</th>
   </tr>
   <tr>
-    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/Alice" target="_blank">Alice.js</a></td>
+    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/Alice" target="_blank">Alice</a></td>
     <td>Contains the source code for the Alice.js project</td>
     <td style="text-align:center"><a href="https://github.com/blackberry/Alice/contributors">See List</a></td>
   </tr>
