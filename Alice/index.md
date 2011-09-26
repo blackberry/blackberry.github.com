@@ -33,6 +33,8 @@ Alice.js is distributed under the [Apache 2.0 license](http://www.apache.org/lic
 
 **Demos:**
 
+<button onclick="location.href='http://blackberry.github.com/Alice/demos.html'">View Demos</button>
+
 The [demos](http://blackberry.github.com/Alice/demos.html) are separated in two sections. Bounce, Toss, Wobble, Spring, Fade, Rotate are all working and fairly stable effects. They should be usable in an application although of course the library is still in early alpha stages. The second section features effects such as Carousel, Cube, Page Flip, Fold, Flip, and Flip2 that are in themselves more experimental and contain several known bugs.
 
 
