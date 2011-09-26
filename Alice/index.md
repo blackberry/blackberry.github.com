@@ -21,7 +21,7 @@ Alice.js is distributed under the [Apache 2.0 license](http://www.apache.org/lic
 
 **Roadmap:**
 
-* [The Roadmap for Alice.js](https://github.com/blackberry/Alice/issues/milestones)
+* [Roadmap for Alice.js](https://github.com/blackberry/Alice/issues/milestones)
 
 **Feature Requests:**
 
