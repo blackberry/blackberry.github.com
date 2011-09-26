@@ -7,10 +7,52 @@ layout: default
 
 Alice.js - (A Lightweight Independent CSS Engine) is a micro JavaScript library focused on using hardware-accelerated capabilities (in particular CSS3 features) in modern browsers for generating high-quality, high-end visual effects.
 
+**License:**
+
+Alice.js is distributed under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0.html) and is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+
+
 **Author(s):**
 
 * [Laurent Hasson](https://github.com/ldhasson) ([@ldhasson](http://twitter.com/ldhasson), ldhasson at rim dot com)
 * [Jim Ing](https://github.com/psiborg) ([@jim_ing](http://twitter.com/jim_ing), jing at rim dot com)
+
+
+**Roadmap:**
+
+* [Roadmap for Alice.js](https://github.com/blackberry/Alice/issues/milestones)
+
+**Feature Requests:**
+
+* [Feature Requests for Alice.js](https://github.com/blackberry/Alice/issues?sort=created&labels=Request&direction=desc&state=open)
+
+**Forums:**
+
+* [User Forums](http://supportforums.blackberry.com/t5/Web-Development/bd-p/browser_dev)
+
+**Demos:**
+
+<button onclick="location.href='http://blackberry.github.com/Alice/demos.html'">View Demos</button>
+
+The [demos](http://blackberry.github.com/Alice/demos.html) are separated in two sections. Bounce, Toss, Wobble, Spring, Fade, Rotate are all working and fairly stable effects. They should be usable in an application although of course the library is still in early alpha stages. The second section features effects such as Carousel, Cube, Page Flip, Fold, Flip, and Flip2 that are in themselves more experimental and contain several known bugs.
+
+
+## Source Repositories
+
+<table class="outlined">
+  <tr>
+    <th>Repository</th>
+    <th>Description</th>
+    <th>Contributors</th>
+  </tr>
+  <tr>
+    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/Alice" target="_blank">Alice</a></td>
+    <td>Contains the source code for the Alice.js project</td>
+    <td style="text-align:center"><a href="https://github.com/blackberry/Alice/contributors">See List</a></td>
+  </tr>
+</table>
+
 
 **Introduction:**
 
@@ -20,9 +62,6 @@ So I decided to explore the ability to package such animations in a very lightwe
 
 We are experimenting with many UI components, with tying in sensors, adding physics, and even organics. This is perhaps one of the more exciting feature of Alice.js. The human eye is very good at spotting differences in movement. Something so subtle as a millisecond difference can be perceived. Achieving natural/organic randomness is at the heart of most high-end visual effects in Hollywood blockbuster films. The beauty is that we don't need to reach that level of sophistication to give an effect some variability so that during the lifetime of the application, things don't feel repetitive. Varying just slightly the speed, perspective, and over-rotation on a flip effect adds a degree of subtle "freshness" every time it comes up.
 
-**Demos:**
-
-The [demos](http://blackberry.github.com/Alice/) are separated in two sections. Bounce, Toss, Wobble, Spring, Fade, Rotate are all working and fairly stable effects. They should be usable in an application although of course the library is still in early alpha stages. The second section features effects such as Carousel, Cube, Page Flip, Fold, Flip, and Flip2 that are in themselves more experimental and contain several known bugs.
 
 **Implementation:**
 
@@ -80,18 +119,3 @@ Finally, although we focus primarily on hardware-accelerated CSS at this point, 
 
 The library is intended to work at least on Chrome (V13 or V14-beta because of hardware-acceleration requirements), iOS, and BlackBerry platforms. As the library evolves and more people participate, it's our goal to support all major platforms the best way we can.
 
-**Roadmap:**
-
-[The Roadmap is tracked in GitHub](https://github.com/blackberry/Alice/issues/milestones)
-
-**Feature Requests:**
-
-[Feature Requests](https://github.com/blackberry/Alice/issues?sort=created&labels=Request&direction=desc&state=open)
-
-**Forums:**
-
-* [User Forums](http://supportforums.blackberry.com/t5/Web-Development/bd-p/browser_dev)
-
-**License:**
-
-Alice.js is distributed under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0.html) and is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
