@@ -5,7 +5,7 @@ layout: default
 
 # Ripple
 
-
+<table>
 <tr>
 	<td><img src="../images/logo_hippo.png"/></td>
 	<td valign="top" style="padding-top:15px">
@@ -14,7 +14,7 @@ layout: default
 	This project is open sourced under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html" target="_blank">Apache 2.0 license</a>.
 	</td>
 </tr>
-
+</table>
 
 **Roadmap:**
 
