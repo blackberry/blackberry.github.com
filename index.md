@@ -1,4 +1,4 @@
-﻿---
+---
 title: BlackBerry Open Source
 layout: default
 ---
