@@ -40,21 +40,25 @@ Projects are encouraged to maintain information in these pages.  Using WebWorks 
 ## List of Repositories
 
 ### WebWorks
-1. [WebWorks](http://github.com/blackberry/WebWorks) - The runtime for the BlackBerry OS Platform.
-2. [WebWorks-TabletOS](http://github.com/blackberry/WebWorks-TabletOS) - The runtime for the QNX-based BlackBerry Tablet OS Platform.
-3. [WebWorks-API-Docs](https://github.com/blackberry/WebWorks-API-Docs) - The official API documentation.
-4. [WebWorks-Samples](https://github.com/blackberry/WebWorks-Samples) - RIM and Community-provided samples for WebWorks.
-5. [WebWorks-Community-APIs](http://github.com/blackberry/WebWorks-Community-APIs) - New APIs, contributed by RIM and the Community, that could be considered for move to the official APIs.
+
+* [WebWorks](http://github.com/blackberry/WebWorks) - The runtime for the BlackBerry OS Platform.
+* [WebWorks-TabletOS](http://github.com/blackberry/WebWorks-TabletOS) - The runtime for the QNX-based BlackBerry Tablet OS Platform.
+* [WebWorks-API-Docs](https://github.com/blackberry/WebWorks-API-Docs) - The official API documentation.
+* [WebWorks-Samples](https://github.com/blackberry/WebWorks-Samples) - RIM and Community-provided samples for WebWorks.
+* [WebWorks-Community-APIs](http://github.com/blackberry/WebWorks-Community-APIs) - New APIs, contributed by RIM and the Community, that could be considered for move to the official APIs.
 
 ### Ripple Emulator
-1. [Ripple-Framework](https://github.com/blackberry/Ripple-Framework) - Basic Framework for the Ripple Emulator
-2. [Ripple-UI](https://github.com/blackberry/Ripple-UI) - Presentation elements for Ripple.
+
+* [Ripple-Framework](https://github.com/blackberry/Ripple-Framework) - Basic Framework for the Ripple Emulator
+* [Ripple-UI](https://github.com/blackberry/Ripple-UI) - Presentation elements for Ripple.
 
 ### Alice
-1. [Alice.js](https://github.com/blackberry/Alice) - (A Lightweight Independent CSS Engine) is a micro JavaScript library for generating rich visual effects in modern browsers.
+
+* [Alice.js](https://github.com/blackberry/Alice) - (A Lightweight Independent CSS Engine) is a micro JavaScript library for generating rich visual effects in modern browsers.
 
 ### WebKit
-1. [WebKit-SmartPhone](https://github.com/blackberry/WebKit-Smartphone) - RIM contributions to WebKit for BlackBerry Smartphones.
+
+* [WebKit-SmartPhone](https://github.com/blackberry/WebKit-Smartphone) - RIM contributions to WebKit for BlackBerry Smartphones.
 
 WebWorks, Ripple, and Alice are RIM-led projects.  These repositories are the "master" repositories.
 WebKit is maintained by the [WebKit.org](http://webkit.org) community.
