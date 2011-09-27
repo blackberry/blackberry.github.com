@@ -5,17 +5,24 @@ layout: default
 
 # Ripple
 
-Ripple is a platform agnostic mobile application development and emulation tool.  It allows a web developer to work in a browser-like testing environment, preserving the typical edit and refresh cycle, while exposing advanced debugging tools such as web inspector on their application content. Combined with the BlackBerry&reg; WebWorks&trade; SDK, the tool also allows application build and deploy for last mile packaging and testing.
-<br/><br/>
-The project is open sourced under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html" target="_blank">Apache 2.0 license</a>.
+
+<tr>
+	<td><img src="../images/logo_hippo.png"/></td>
+	<td valign="top" style="padding-top:15px">
+		Ripple is a platform agnostic mobile application development and emulation tool.  It allows a web developer to work in a browser-like testing environment, preserving the typical edit and refresh cycle, while exposing advanced debugging tools such as web inspector on their application content. Combined with the BlackBerry&reg; WebWorks&trade; SDK, the tool also allows application build and deploy for last mile packaging and testing.
+	<br/><br/>
+	This project is open sourced under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html" target="_blank">Apache 2.0 license</a>.
+	</td>
+</tr>
+
 
 **Roadmap:**
 
-[The Roadmap is tracked in GitHub](https://github.com/blackberry/Ripple-UI/issues/milestones)
+* [Roadmap for Ripple](https://github.com/blackberry/Ripple-UI/issues/milestones)
 
 **Feature Requests:**
 
-[Feature Requests](https://github.com/blackberry/Ripple-UI/issues?sort=created&labels=Request&direction=desc&state=open)
+* [Feature Requests for Ripple](https://github.com/blackberry/Ripple-UI/issues?sort=created&labels=Request&direction=desc&state=open)
 
 **Forums:**
 
