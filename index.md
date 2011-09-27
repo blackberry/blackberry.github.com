@@ -2,6 +2,7 @@
 title: BlackBerry Open Source
 layout: default
 ---
+
 # Research In Motion at GitHub
 
 Welcome to the home for [RIM](http://rim.com) projects at GitHub.
