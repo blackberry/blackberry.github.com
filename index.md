@@ -22,6 +22,7 @@ Projects fall into one of the following categories:
 
 Participation details at [How to Contribute](howToContribute.html).  Note that contributions from non-RIM employees require an agreement like at ASF: [CCLA](http://www.blackberry.com/legal/pdfs/webworks/Research_In_Motion_Limited_CCLA_021811_cl.pdf), [ICLA](http://www.blackberry.com/legal/pdfs/webworks/Research_In_Motion_Limited_ICLA_021811_cl.pdf).
 
+
 **RIM-Sponsored Projects** - These are non-RIM-led Open Source projects in which RIM participates actively.  In general RIM will participate in the relevant open source community, but some projects may also be listed here for several reasons.  More information on this category shortly.
 
 ## A Tour through a Project
