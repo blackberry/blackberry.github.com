@@ -60,7 +60,7 @@ The ported code is available at [github.com/blackberry/Box2D](http://github.com/
 Also see [Box2D.org](http://box2d.org/)
 
 <a name="Bullet"/>
-***Bullet Physics***
+**Bullet Physics**  
 Bullet Physics is a is an open source physics engine featuring 3D collision detection, soft body dynamics, and rigid body dynamics.  
 The ported code is available at [github.com/blackberry/Bullet](http://github.com/blackberry/Bullet).  
 Also see [BulletPhysics.org](http://bulletphysics.org/wordpress/)
