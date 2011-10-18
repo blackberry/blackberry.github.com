@@ -44,9 +44,9 @@ We include a comprehensive list of code samples, all available under an [ASL2](h
 * [PlayWav](https://github.com/blackberry/NDK-Samples/tree/master/PlayWav/) - how to play
  a WAV file using the sound library.
 * [ScreenTemplate](https://github.com/blackberry/NDK-Samples/tree/master/ScreenTemplate/) - how to set up your application
- to use the BPS infrastructure and receive screen events.
+ to use BPS and receive screen events using libscreen.
 * [TemplateBps](https://github.com/blackberry/NDK-Samples/tree/master/TemplateBps/) - how to set up your application
- to use the BPS infrastructure.
+ to use the BPS infrastructure using OpenGL ES.
 * [VideoPlaybackTutorial](https://github.com/blackberry/NDK-Samples/tree/master/VideoPlaybackTutorial/) - how to use
  some of the multimedia capabilities of the Native SDK.
 
