@@ -80,7 +80,7 @@ Also see [Cocos2D-X.org](http://www.cocos2d-x.org/)
 **GamePlay**  
 GamePlay is a new open-source, cross-platform 3D native gaming framework making it easy
 to learn and write mobile and desktop games.  
-The code is available at [github.com/blackberry/GamePlay](http://github.com/blackberry/GamePlay).  
+The code will soon be available at [github.com/blackberry/GamePlay](http://github.com/blackberry/GamePlay).  
 
   &nbsp;  
 
