@@ -114,7 +114,7 @@ The following components are general purpose libraries and frameworks:
 <a name="Qt"/>
 **Qt**  
 Qt is a cross-platform application and UI framework with APIs for C++ programming and Qt Quick for rapid UI creation.  
-The ported code will (soon) be available at [github.com/blackberry/Qt](http://github.com/blackberry/Qt).  
+An initial, partial but including all of Qt core, port is available at [github.com/blackberry/Qt](http://github.com/blackberry/Qt).  
 Also see [Qt.Nokia.Com](http://qt.nokia.com/products/)
 
 <a name="Boost"/>
@@ -148,7 +148,7 @@ The following components are languages:
 <a name="Erlang-OTP"/>
 **Erlang-OTP**  
 Erlang-OTP is Erlang libraries and design principles.  
-The ported code is available at [github.com/blackberry/Erlang-OTP](http://github.com/blackberry/Erlang-OTP).  
+The ported code is currently available at [github.com/pelegri/Erlang-OTP](http://github.com/pelegri/Erlang-OTP) but should move "soon" to [github.com/blackberry/Erlang-OTP](http://github.com/blackberry/Erlang-OTP).  
 Also see [Erlang.org](http://erlang.org/).
 
 <a name="Lua"/>
