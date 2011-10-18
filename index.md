@@ -3,63 +3,66 @@ title: BlackBerry Open Source
 layout: default
 ---
 
-# Research In Motion at GitHub
+# Announcing the Native Open Source Components Initiative
 
-Welcome to the home for [RIM](http://rim.com) projects at GitHub.
+(Oct 18th, 2011) Today [Research in Motion](http://rim.com) announced its Native Open Source Components Initiative at DevCon 2011 America.
+As part of this initiative, RIM is contributing initial ports
+of commonly used Open Source Libraries and Games to the QNX-based BlackBerry&copy; Tablet OS,
+to be used in conjuction with the
+[BlackBerry Native SDK for Tablet OS](http://blackberry.developer.com/native) (NDK).
+Following this release, RIM will collaborate with the existing open source communities to
+incorporate these changes into the upstream repositories.
 
-The first repository in this [organization](https://github.com/blog/674-introducing-organizations) was [WebWorks](https://github.com/blackberry/WebWorks/commit/1a7373cb155756fb6be7ccce893d6d790ec10abf), created during [DevCon 2010](http://devblog.blackberry.com/2010/09/blackberry-webworks-and-the-open-source-community/).  Since then we have added six more repositories covering runtimes, tools, documentation, and code samples and we expect more projects to follow.
-For the latest, and an archive of older, news, check [here](news); also see the official [BlackBerry DevBlog](http://devblog.blackberry.com/).
+RIM is also releasing under an Open Source license some new convenience libraries and frameworks and some samples that show how
+to use all this components to create applications for the BlackBerry&copy; PlayBook.
 
-Projects fall into one of the following categories:
+These components extend an already very comprehensive list of [libraries available with Tablet OS](http://developer.blackberry.com/native/documentation/com.qnx.doc.native_sdk.devguide/com.qnx.doc.native_sdk.devguide/topic/libraries.html).
 
-**RIM-led Projects** - In these projects:
+The initial list of new components added through the initiative include:
 
-* The overal direction of the project is under RIM leadership,
-* RIM assigns a _technical lead_ to represent it in the project,
-* RIM assigns several of its engineers to contribute to the project.
-* We welcome and encourage participation from non-RIM employees at any level.
-* The majority (all so far) of the projects are licensed under ASL2 ([wikipedia](http://en.wikipedia.org/wiki/Apache_Software_License), [Apache](http://www.apache.org/licenses/)).
-* We strive to operate transparently
+**Media Components**
 
-Participation details at [How to Contribute](howToContribute.html).  Note that contributions from non-RIM employees require an agreement like at ASF: [CCLA](http://www.blackberry.com/legal/pdfs/webworks/Research_In_Motion_Limited_CCLA_021811_cl.pdf), [ICLA](http://www.blackberry.com/legal/pdfs/webworks/Research_In_Motion_Limited_ICLA_021811_cl.pdf).
+The following compoments are related to multi-media processing:
+
+* [OpenAL](ndk/components.html#OpenAL) (Open Audio Library) - an efficient multichannel 3D positional audio library.
+* [ALUT](ndk/components.html#ALUT) (OpenAL Utility Toolkit) - popular companion library to OpenAL.
+* [SDL](ndk/components.html#SDL) (Simple DirectMedia Layer) - a simple interface to graphics, sound and input devices.
+
+**Gaming Components**
+
+The following components are Physics Engines, Game Engines or Games:
+
+* [Box2D](ndk/components.html#Box2D) - a 2D rigid body simulation physics library for games.
+* [Bullet](ndk/components.html#Bullet) - a professional free 3D game multi-physics library.
+* [Cocos2D-X](ndk/components.html#Cocos2D-X) - an open-source, C++ based, mobile 2D game engine.
+* [GamePlay](ndk/components.html#GamePlay) - a new open-source, cross-platform 3D native gaming framework.
+* [OpenTTD](ndk/components.html#OpenTTD) - a simulation game originally based on Transport Tycoon Deluxe.
+* [DosBox](ndk/components.html#DosBox) - a MS-DOS emulator used to play older games and applications meant to run on DOS.
+* [Wesnoth](ndk/components.html#Wesnoth) - the Battle for Wesnoth is a turn-based, tactical strategy game. 
+
+**General Libraries**
+
+The following components are general purpose libraries, languages, or frameworks:
+
+* [Qt](ndk/components.html#Qt) - a popular cross-platform application framework.
+* [Boost](ndk/components.html#Boost) - a popular set of C++ libraries.
+* [Lua](ndk/components.html#Lua) - a powerful, fast, lightweight, embeddable scripting language.
+* [PCRE](ndk/components.html#PCRE) - regular expression pattern matching using the same syntax and semantics as Perl 5.
+* [Erlang-OTP](ndk/components.html#Erlang-OTP) - Erlang libraries and design principles.
+* [SpiderMonkey](ndk/components.html#SpiderMonkey) - Mozilla's JavaScript engine.
+* [TouchControlOverlay](ndk/components.html#TouchControlOverlay) - a translation layer from touch inputs to mouse and keyboard events.
+
+**Samples**
+
+The [NDK](http://blackberry.developer.com/native) bundles a small number (4) of samples, but many more are available here, including some showing integration
+with the [ScoreLoop SDK](http://developer.blackberry.com/native/documentation/scoreloop.html).
+
+* [NDK-Samples](ndk/samples.html) - a collection of samples (21, and growing!) to use with the NDK.
 
 
-**RIM-Sponsored Projects** - These are non-RIM-led Open Source projects in which RIM participates actively.  In general RIM will participate in the relevant open source community, but some projects may also be listed here for several reasons.  More information on this category shortly.
+We hope you will find these components useful and we encourate your participation to improve them.
+You can also help us determine which other components to port;
+some already announced but not yet delivered are described [here](commingSoon.html).
 
-## A Tour through a Project
 
-Projects are encouraged to maintain information in these pages.  Using WebWorks as an example:
-
-* Top Project [description page](webworks/index.html).
-* The master [Git](http://en.wikipedia.org/wiki/Git_%28software%29) repository at GitHub at [blackberry/webworks](http://github.com/blackberry/WebWorks), including:
-* The usual GitHub features, like [pulls](https://github.com/blackberry/WebWorks/pulls), [commit history](https://github.com/blackberry/WebWorks/commits/master), [network graph](https://github.com/blackberry/WebWorks/network), etc.
-* The list of [Contributors to WebWorks](https://github.com/blackberry/WebWorks/contributors),
-* A Project [Roadmap](https://github.com/blackberry/WebWorks/issues/milestones),
-* Defect tracking via [GitHub Issues](https://github.com/blackberry/WebWorks/issues)
-
-## List of Repositories
-
-### WebWorks
-
-* [WebWorks](http://github.com/blackberry/WebWorks) - The runtime for the BlackBerry OS Platform.
-* [WebWorks-TabletOS](http://github.com/blackberry/WebWorks-TabletOS) - The runtime for the QNX-based BlackBerry Tablet OS Platform.
-* [WebWorks-API-Docs](https://github.com/blackberry/WebWorks-API-Docs) - The official API documentation.
-* [WebWorks-Samples](https://github.com/blackberry/WebWorks-Samples) - RIM and Community-provided samples for WebWorks.
-* [WebWorks-Community-APIs](http://github.com/blackberry/WebWorks-Community-APIs) - New APIs, contributed by RIM and the Community, that could be considered for move to the official APIs.
-
-### Ripple Emulator
-
-* [Ripple-Framework](https://github.com/blackberry/Ripple-Framework) - Basic Framework for the Ripple Emulator
-* [Ripple-UI](https://github.com/blackberry/Ripple-UI) - Presentation elements for Ripple.
-
-### Alice
-
-* [Alice.js](https://github.com/blackberry/Alice) - (A Lightweight Independent CSS Engine) is a micro JavaScript library for generating rich visual effects in modern browsers.
-
-### WebKit
-
-* [WebKit-SmartPhone](https://github.com/blackberry/WebKit-Smartphone) - RIM contributions to WebKit for BlackBerry Smartphones.
-
-WebWorks, Ripple, and Alice are RIM-led projects.  These repositories are the "master" repositories.
-WebKit is maintained by the [WebKit.org](http://webkit.org) community.
-
+... Now you can navigate back to our [normal Index page](oldIndex.html).
