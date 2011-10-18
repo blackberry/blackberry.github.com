@@ -114,13 +114,13 @@ The following components are general purpose libraries and frameworks:
 <a name="Qt"/>
 **Qt**  
 Qt is a cross-platform application and UI framework with APIs for C++ programming and Qt Quick for rapid UI creation.  
-An initial, partial but including all of Qt core, port is available at [github.com/blackberry/Qt](http://github.com/blackberry/Qt).  
+An initial port is available at [github.com/blackberry/Qt](http://github.com/blackberry/Qt). 
 Also see [Qt.Nokia.Com](http://qt.nokia.com/products/)
 
 <a name="Boost"/>
 **Boost**  
 Boost is a collection of free peer-reviewed portable C++ source libraries.  
-The latest release (1.47) runs correctly on Tablet OS; instructions for compiling it will be posted soon.  
+The latest release (1.47) runs correctly on Tablet OS; instructions for compiling it will be posted soon to [github.com/blackberry/Boost](http://github.com/blackberry/Boost).  
 Also see [Boost.org](http://boost.org/).
 
   &nbsp;  
