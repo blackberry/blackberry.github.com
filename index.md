@@ -62,7 +62,7 @@ with the [ScoreLoop SDK](http://developer.blackberry.com/native/documentation/sc
 
 We hope you will find these components useful and we encourate your participation to improve them.
 You can also help us determine which other components to port;
-some already announced but not yet delivered are described [here](commingSoon.html).
+some already announced but not yet delivered are described [here](comingSoon.html).
 
 
 ... Now you can navigate back to our [normal Index page](oldIndex.html).
