@@ -54,7 +54,7 @@ The following components are general purpose libraries, languages, or frameworks
 
 **Samples**
 
-The [NDK](http://blackberry.developer.com/native) bundles a small number (4) of samples, but many more are available here, including some showing integration
+The [NDK](http://developer.blackberry.com/native) bundles a small number (4) of samples, but many more are available here, including some showing integration
 with the [ScoreLoop SDK](http://developer.blackberry.com/native/documentation/scoreloop.html).
 
 * [NDK-Samples](ndk/samples.html) - a collection of samples (21, and growing!) to use with the NDK.
