@@ -15,6 +15,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 * [Lukasz Dzierzak](https://github.com/ddluk)
 * [Peter Newhook](https://github.com/pnewhook)
 * [Jerome Carty](https://github.com/jcarty)
+* [Adam Wisniewski](https://github.com/adamw523)
 
 ## Corporate Signatories
 
