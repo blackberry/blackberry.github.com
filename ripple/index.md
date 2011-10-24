@@ -31,7 +31,7 @@ layout: default
 
 **Downloads:**
 
-To get an idea of what Ripple provides, you can take a look at the current [Google Chrome extension version of ripple](http://ripple.tinyhippos.com).  Keep an eye on the roadmap section of GitHub (linked above) to see where we are heading.
+* [Download Ripple](http://developer.blackberry.com/html5/download/ripple)
 
 
 
