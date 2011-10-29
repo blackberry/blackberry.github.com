@@ -4,7 +4,7 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>BlackBerry GitHub News</title>
+ <title>BlackBerry Open Source News</title>
  <link href="http://blackberry.github.com/atom.xml" rel="self"/>
  <link href="http://blackberry.github.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
