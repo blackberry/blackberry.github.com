@@ -47,6 +47,12 @@ SDL (Simple DirectMedia Layer) is a cross-platform multimedia library designed t
 The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
 Also see [LibSDL.org](http://www.libsdl.org/).
 
+<a name="OggVorbis"/>
+**Ogg Vorbis**  
+Ogg Vorbis is an open, patent-free, professional audio encoding and streaming technology with all the benefits of Open Source.
+The ported code is available at [github.com/blackberry/OggVorbis](http://github.com/blackberry/OggVorbis).  
+Also see [Vorbis.com](http://vorbis.com).
+
   &nbsp;  
 
 <a name="gaming"/>
