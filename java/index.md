@@ -53,12 +53,17 @@ layout: default
 
 **The BlackBerry Samples-for-Java** repository includes samples from a variety of sources starting with the following. More will be released over time.
 
-# [Advanced UI](https://github.com/blackberry/Samples-for-Java/tree/master/Advanced%20UI) - a collection of buttons, managers and other UI components many of which can be customized, and all can be used immediately in your projects. Supports multiple SDKs through preprocessor directives.
+1. **[Advanced UI](https://github.com/blackberry/Samples-for-Java/tree/master/Advanced%20UI)**
+A collection of buttons, managers and other UI components many of which can be customized, and all can be used immediately in your projects. Supports multiple SDKs through preprocessor directives.
 
-# [Analytics](https://github.com/blackberry/Samples-for-Java/tree/master/Analytics) - the sample app that is provided with the BlackBerry Analytics SDK.
+2. **[Analytics](https://github.com/blackberry/Samples-for-Java/tree/master/Analytics)**
+The sample app that is provided with the BlackBerry Analytics SDK.
 
-# [Simple Location API](https://github.com/blackberry/Samples-for-Java/tree/master/Simple%20Location%20API) - a library that simplifies the use of Geolocation in your application.
+3. **[Simple Location API](https://github.com/blackberry/Samples-for-Java/tree/master/Simple%20Location%20API)**
+A library that simplifies the use of Geolocation in your application.
 
-# [Titlebar](https://github.com/blackberry/Samples-for-Java/tree/master/Titlebar) - a library that provides an API similar to the OS6 Titlebar API for projects built with SDK 4.2.1 through 5.0.
+4. **[Titlebar](https://github.com/blackberry/Samples-for-Java/tree/master/Titlebar)**
+A library that provides an API similar to the OS6 Titlebar API for projects built with SDK 4.2.1 through 5.0.
 
-# [YouTube Client](https://github.com/blackberry/Samples-for-Java/tree/master/YouTube%20Client) - a sample that shows how to work with the YouTube Data API using the BlackBerry OS6 Communication API.
+5. **[YouTube Client](https://github.com/blackberry/Samples-for-Java/tree/master/YouTube%20Client)**
+A sample that shows how to work with the YouTube Data API using the BlackBerry OS6 Communication API.
