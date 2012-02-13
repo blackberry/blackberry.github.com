@@ -35,7 +35,7 @@ AliceJS is distributed under the [Apache 2.0 license](http://www.apache.org/lice
 
 <button onclick="location.href='http://blackberry.github.com/Alice/demos/index.html'">View Demos</button>
 
-The [demos](http://blackberry.github.com/Alice/demos.html) are separated into two sections: (1) basic demos where you can interactively adjust settings, and (2) more demos that show how AliceJS can be used in more complex use cases. These effects should be usable in an application, but the library is still in early alpha stages.
+The [demos](http://blackberry.github.com/Alice/demos/index.html) are separated into two sections: (1) basic demos where you can interactively adjust settings, and (2) more demos that show how AliceJS can be used in more complex use cases. These effects should be usable in an application, but the library is still in early alpha stages.
 
 
 ## Source Repositories
