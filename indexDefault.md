@@ -45,6 +45,7 @@ Projects are encouraged to maintain information in these pages.  Using WebWorks 
 * [WebWorks-TabletOS](http://github.com/blackberry/WebWorks-TabletOS) - The runtime for the QNX-based BlackBerry Tablet OS Platform.
 * [WebWorks-API-Docs](https://github.com/blackberry/WebWorks-API-Docs) - The official API documentation.
 * [WebWorks-Samples](https://github.com/blackberry/WebWorks-Samples) - RIM and Community-provided samples for WebWorks.
+* [bbUI.js](https://github.com/blackberry/bbUI.js) - BlackBerry UI Look and Feel JavaScript toolkit for WebWorks.
 * [WebWorks-Community-APIs](http://github.com/blackberry/WebWorks-Community-APIs) - New APIs, contributed by RIM and the Community, that could be considered for move to the official APIs.
 
 ### Ripple Emulator
@@ -59,7 +60,19 @@ Projects are encouraged to maintain information in these pages.  Using WebWorks 
 ### WebKit
 
 * [WebKit-SmartPhone](https://github.com/blackberry/WebKit-Smartphone) - RIM contributions to WebKit for BlackBerry Smartphones.
+* [WebKit-PlayBook](https://github.com/blackberry/WebKit-PlayBook) - RIM contributions to WebKit for BlackBerry PlayBook.
 
 WebWorks, Ripple, and Alice are RIM-led projects.  These repositories are the "master" repositories.
 WebKit is maintained by the [WebKit.org](http://webkit.org) community.
+
+### Native
+
+There is large set of native components for BlackBerry PlayBook. A full list is available at:
+
+* [Components](ndk/components.html) - Components group by functionality
+* [Samples](ndk/samples.html) - Samples currently available.
+
+We hope you will find these components useful and we encourate your participation to improve them.
+You can also help us determine which other components to port;
+some already announced but not yet delivered are described [here](comingSoon.html).
 

@@ -5,9 +5,9 @@ layout: default
 
 # Samples for the Native SDK for BlackBerry&reg; Tablet OS
 
-We include a comprehensive list of code samples, all available under an [ASL2](http://www.apache.org/licenses/LICENSE-2.0.html) license.
+## NDK-Samples
 
-## Samples
+The [NDK-Samples](http://github.com/blackberry/NDK-Samples) repository includes a comprehensive list of code samples, all available under an [ASL2](http://www.apache.org/licenses/LICENSE-2.0.html) license.
 
 * [AccelerometerSample](https://github.com/blackberry/NDK-Samples/tree/master/AccelerometerSample/) - how to 
  handle updates from the accelerometer sensor.
@@ -50,3 +50,6 @@ We include a comprehensive list of code samples, all available under an [ASL2](h
 * [VideoPlaybackTutorial](https://github.com/blackberry/NDK-Samples/tree/master/VideoPlaybackTutorial/) - how to use
  some of the multimedia capabilities of the Native SDK.
 
+## OpenGL ES Samples
+
+The [OpenGLES-Samples](http://github.com/blackberry/OpenGLES-Samples) repository provides a port of the samples in the popular [OpenGL ES 2.0 Programming Guide](http://opengles-book.com/) book.
