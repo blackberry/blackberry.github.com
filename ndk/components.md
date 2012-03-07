@@ -111,6 +111,12 @@ The Battle for Wesnoth is a Free, turn-based tactical strategy game with a high 
 The ported code is available at [github.com/blackberry/Wesnoth](http://github.com/blackberry/Wesnoth).  
 Also see [Wesnoth.org](http://wesnoth.org/).
 
+<a name="Quake3"/>
+**Quake 3**
+Quake III Arena is a multiplayer first-person shooter video game developed by id Software.  The engine is open source and has been ported to the PlayBook.  You will need maps to run this game.  
+The ported code is available at [github.com/blackberry/Quake3](http://github.com/blackberry/Quake3).  
+Also see [Official Site](http://www.quake3arena.com/)
+
   &nbsp;  
 
 <a name="libraries"/>
@@ -126,7 +132,7 @@ Also see [Qt.Nokia.Com](http://qt.nokia.com/products/)
 <a name="Boost"/>
 **Boost**  
 Boost is a collection of free peer-reviewed portable C++ source libraries.  
-The latest release (1.47) runs correctly on Tablet OS; instructions for compiling it will be posted soon to [github.com/blackberry/Boost](http://github.com/blackberry/Boost).  
+The latest release (1.47) runs correctly on Tablet OS; instructions for compiling it will be posted soon to [github.com/blackberry/Boost](http://github.com/blackberry/Boost).  *Update* (Mar 7, 2012) After a delay, we are now back working on this.
 Also see [Boost.org](http://boost.org/).
 
   &nbsp;  
@@ -154,7 +160,7 @@ The following components are languages:
 <a name="Erlang-OTP"/>
 **Erlang-OTP**  
 Erlang-OTP is Erlang libraries and design principles.  
-The ported code is currently available at [github.com/pelegri/Erlang-OTP](http://github.com/pelegri/Erlang-OTP) but should move "soon" to [github.com/blackberry/Erlang-OTP](http://github.com/blackberry/Erlang-OTP).  
+The ported code is available at [github.com/blackberry/Erlang-OTP](http://github.com/blackberry/Erlang-OTP).  
 Also see [Erlang.org](http://erlang.org/).
 
 <a name="Lua"/>
@@ -169,6 +175,32 @@ Mozilla SpiderMonkey is  Mozilla's JavaScript engine.
 The ported code is available at [github.com/blackberry/SpiderMonkey](http://github.com/blackberry/SpiderMonkey).  
 Also see [developer.Mozilla.org](https://developer.mozilla.org/en/SpiderMonkey).
 
+<a name="v8"/>
+**v8**  
+v8 is Google's open source JavaScript engine.  
+The ported code is available at [github.com/blackberry/v8](http://github.com/blackberry/v8).  
+Also see [v8 at Google code](https://code.google.com/p/v8)
 
 
+  &nbsp;  
 
+**Other Components**  
+Other native components include:
+
+<a name="CouchDB"/>
+**CouchDB**  
+This is a port of the Apache CouchDB, the open source document-oriented database written mostly in the Erlang programming language.  
+The ported code is available at [github.com/blackberry/CouchDB](http://github.com/blackberry/CouchDB).  
+Also see [CouchDB.Apache.org](http://couchdb.apache.org)
+
+<a name="GetOpt"/>
+**GetOpt**  
+A port of a popular reimplementation of getopt(1).  
+The ported code is available at [github.com/blackberry/GetOpt](http://github.com/blackberry/GetOpt).  
+Also see [GetOpt Home page](http://software.frodo.looijaard.name/getopt/)
+
+<a name="JSON_parser"/>
+**JSON_parser**  
+A port of a fast, C-based, JSON parser.  
+The ported code is available at [github.com/blackberry/JSON_parser](http://github.com/blackberry/JSON_parser).  
+Also see JSON_parser's [README](https://github.com/blackberry/JSON_parser#readme)
