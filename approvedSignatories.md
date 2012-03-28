@@ -17,7 +17,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 * [Lukasz Dzierzak](https://github.com/ddluk)
 * [Martin Kleinschrodt](https://github.com/MaKleSoft)
 * [Peter Newhook](https://github.com/pnewhook)
-* [Roy Craig-Barnes](https://github.com/glasspear)
+* [Rory Craig-Barnes](https://github.com/glasspear)
 
 ## Corporate Signatories
 
