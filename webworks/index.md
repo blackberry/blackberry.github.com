@@ -84,6 +84,16 @@ layout: default
     <td>Home for sample applications built with using the WebGL technology</td>
   <td style="text-align:center"><a href="https://github.com/blackberry/WebGL-Samples/contributors">See List</a></td>
   </tr>
+  <tr>  
+    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/jQuery-Mobile-Samples" target="_blank">jQuery-Mobile-Samples</a></td>
+    <td>Samples to be used in the jQuery Mobile Cookbook project</td>
+  <td style="text-align:center"><a href="https://github.com/blackberry/jQuery-Mobile-Samples/contributors">See List</a></td>
+  </tr>
+  <tr>  
+    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/PictureWall" target="_blank">PictureWall</a></td>
+    <td>A sample application that displays a collection of pictures onto a “wall” of BlackBerry PlayBook tablets</td>
+  <td style="text-align:center"><a href="https://github.com/blackberry/PictureWall/contributors">See List</a></td>
+  </tr>
 </table>
 
 

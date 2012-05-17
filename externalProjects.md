@@ -1,11 +1,11 @@
 ---
-title: Coming Soon
+title: External Projects
 layout: default
 ---
 
-# Coming Soon
+# External Projects
 
-Below are some Open Source activities we have already announced collected for your convenience.
+Below are some key Open Source projects where RIM participates
 
 ## WebKit
 
