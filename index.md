@@ -5,18 +5,25 @@ layout: default
 
 # Research In Motion at GitHub
 
-Welcome to the [BlackBerry organization](https://github.com/blog/674-introducing-organizations),
-the home for [RIM](http://rim.com) projects at GitHub.
+This is the official main website for [RIM](http://rim.com) projects at GitHub.
 
-Our first repository
-was [WebWorks](https://github.com/blackberry/WebWorks/commit/1a7373cb155756fb6be7ccce893d6d790ec10abf),
-created in [September 2010](http://devblog.blackberry.com/2010/09/blackberry-webworks-and-the-open-source-community/) and
-today, May 2012, we have 56 repositories covering runtimes, tools, documentation, and code samples.
+### News
+
 We continuously add new projects and add content to our existing projects;
-keep up with the news at [DevBlog](http://devblog.blackberry.com/)
-and  at [Community News](news).
+keep up with the news at [DevBlog](http://devblog.blackberry.com/),
+at [Community News](http://blackberry.github.com/Community/news/)
+and at [Latest News](http://blackberry.github.com/Community/news/Latest_News.html).
 
-### Projects at GitHub
+### Community Wiki
+
+Also check out [Community Wiki](http://blackberry.github.com/Community/); although it is still
+at an alpha development stage, it includes
+[Wiki Pages](http://blackberry.github.com/Community/All_Pages.html),
+[News](http://blackberry.github.com/Community/news/index.html),
+and
+[Presentations](http://blackberry.github.com/Community/slides/All_Slides.html).
+
+## Projects
 
 Projects in the BlackBerry Organization at GitHub fall into one of the following categories:
 *RIM-led Projects* or *RIM-sponsored Projects*.
@@ -27,10 +34,8 @@ the release schedule and key features.
 Development in these projects is transparent, and we [welcome contributions](howToContribute.html).
 
 **RIM-Sponsored Projects** - These are non-RIM-led Open Source projects in which RIM participates actively.
-A typical example is a port of a component to the BlackBerry 10 platform.
-In some cases, these projects have transient goals; the goal of a port is to upstream the change to the main
-community and after that the project will just point there, but some other projects may be hosted in this
-organization for a long period for a variety of reasons.
+Some projects are transient; for instance, after completing a port and upstreaming the changes,
+a project may just point to the upstream community.
 
 The majority of Rim-led projects are licensed under ASL2
 ([wikipedia](http://en.wikipedia.org/wiki/Apache_Software_License), [Apache](http://www.apache.org/licenses/));
@@ -63,15 +68,27 @@ Using WebWorks as an example:
 
 ## List of Repositories
 
-GitHub provides the up-to-date [List of Repositories](https://github.com/blackberry/repositories),
-including the following repos:
+Our first repository
+was [WebWorks](https://github.com/blackberry/WebWorks/commit/1a7373cb155756fb6be7ccce893d6d790ec10abf),
+created in [September 2010](http://devblog.blackberry.com/2010/09/blackberry-webworks-and-the-open-source-community/) and
+today, May 2012, we have 56 repositories covering runtimes, tools, documentation, and code samples.
+
+GitHub provides the up-to-date [List of Repositories](https://github.com/blackberry/repositories).
+
+### Website and Community Wiki
+
+These repositories do not directly correspond to code repositories
+
+* [blackberry.github.com](http://github.com/blackberry/blackberry.github.com) - BlackBerry at GitHub
+* [Community](http://github.com/blackberry/Community) - Community Pages, including Wiki
+
+### Code Repositories
 
 * [Alice](http://github.com/blackberry/Alice) - AliceJS - (A Lightweight Independent CSS Engine) is a micro JavaScript library.
 * [ALUT](http://github.com/blackberry/ALUT) - OpenAL Utility Toolkit
 * [BB10-WebWorks-Framework](http://github.com/blackberry/BB10-WebWorks-Framework) - The BB10 WebWorks Framework is packaged within an application BAR file to run on a BB10 device (or simulator)
 * [BB10-Webworks-Packager](http://github.com/blackberry/BB10-Webworks-Packager) - The BB10 WebWorks Packager bundles the App content with the BB10 WebWorks Framework to create a BAR to run on the BB10 Device (or simulator)
 * [bbUI.js](http://github.com/blackberry/bbUI.js) - BlackBerry UI look and feel JavaScript toolkit for WebWorks
-* [blackberry.github.com](http://github.com/blackberry/blackberry.github.com) - BlackBerry Open Source Wiki
 * [Boost](http://github.com/blackberry/Boost) - The Boost C++ Libraries
 * [Box2D](http://github.com/blackberry/Box2D) - Box2D is a 2D rigid body simulation physics library for games
 * [Bullet](http://github.com/blackberry/Bullet) - Bullet is a professional free 3D game multi-physics library
@@ -79,7 +96,6 @@ including the following repos:
 * [Cascades-Community-Samples](http://github.com/blackberry/Cascades-Community-Samples) - Samples authored by the Community showing how to use Cascades
 * [Cascades-Samples](http://github.com/blackberry/Cascades-Samples) - Main set of Samples for Cascades
 * [Cocos2D-X](http://github.com/blackberry/Cocos2D-X) - cocos2d-x is an open-source, C++ based, mobile 2D game engine.
-* [Community](http://github.com/blackberry/Community) - Community Pages, including Wiki
 * [CouchDB](http://github.com/blackberry/CouchDB) - Mirror of Apache CouchDB
 * [CppUnit](http://github.com/blackberry/CppUnit) - CppUnit implementation
 * [DosBox](http://github.com/blackberry/DosBox) - A MS-DOS emulator used to play older games and applications
