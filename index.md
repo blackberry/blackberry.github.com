@@ -10,18 +10,17 @@ This is the official main website for [RIM](http://rim.com) projects at GitHub.
 ### News
 
 We continuously add new projects and add content to our existing projects;
-keep up with the news at [DevBlog](http://devblog.blackberry.com/),
-at [Community News](http://blackberry.github.com/Community/news/)
-and at [Latest News](http://blackberry.github.com/Community/news/Latest_News.html).
+keep up with the news at [DevBlog](http://devblog.blackberry.com/)
+and at our [Community News](http://blackberry.github.com/Community/news/).
 
 ### Community Wiki
 
-Also check out [Community Wiki](http://blackberry.github.com/Community/); although it is still
+Also check out [Community Wiki](http://blackberry.github.com/Community/Community_Wiki.html); although it is still
 at an alpha development stage, it includes
 [Wiki Pages](http://blackberry.github.com/Community/All_Pages.html),
 [News](http://blackberry.github.com/Community/news/index.html),
 and
-[Presentations](http://blackberry.github.com/Community/slides/All_Slides.html).
+[Presentations](http://blackberry.github.com/Community/slides/index.html).
 
 ## Projects
 
@@ -53,7 +52,7 @@ In addition to projects at GitHub, RIM also actively participate in a number of 
 ## A Tour through a Project
 
 We are in the process of defining the exact role that
-the [Community Wiki](http://blackberry.github.com/Community/) will play in documenting these projects.
+the [Community Wiki](http://blackberry.github.com/Community/Community_Wiki.html) will play in documenting these projects.
 Currently, most of the desdcription of the RIM-led projects is kept in these pages and in the repository projects
 directly.
 
