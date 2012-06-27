@@ -12,14 +12,25 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 
 ## Individual Signatories
 
-* [Adam Wisniewski](https://github.com/adamw523)
-* [Brandon Slack](https://github.com/bslack)
-* [Jerome Carty](https://github.com/jcarty)
-* [Justin Tokarchuk](https://github.com/jtokarchuk)
-* [Lukasz Dzierzak](https://github.com/ddluk)
-* [Martin Kleinschrodt](https://github.com/MaKleSoft)
-* [Peter Newhook](https://github.com/pnewhook)
-* [Rory Craig-Barnes](https://github.com/glasspear)
+<div id="col3">
+ <a href="https://github.com/adamw523">Adam Wisniewski</a>
+<br/>
+ <a href="https://github.com/bslack">Brandon Slack</a>
+<br/>
+ <a href="https://github.com/jcarty">Jerome Carty</a>
+<br/>
+ <a href="https://github.com/jtokarchuk">Justin Tokarchuk</a>
+<br/>
+ <a href="https://github.com/ddluk">Lukasz Dzierzak</a>
+<br/>
+ <a href="https://github.com/MaKleSoft">Martin Kleinschrodt</a>
+<br/>
+ <a href="https://github.com/pnewhook">Peter Newhook</a>
+<br/>
+ <a href="https://github.com/glasspear">Rory Craig-Barnes</a>
+<br/>
+ <a href="https://github.com/SCrid2000">Shane Cridlebaugh</a>
+</div>
 
 ## Corporate Signatories
 
