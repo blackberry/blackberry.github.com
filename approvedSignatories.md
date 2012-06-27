@@ -34,21 +34,29 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 
 ## Corporate Signatories
 
+<div id="col2">
 <table>
   <tr>
     <td>
       <a href="http://pyxismobile.com/" target="_blank"><img src="../images/logo_pyxis.jpg" border="0"/></a>
     </td>
-    <td>
-      <a href="http://www.nitobi.com/" target="_blank"><img src="../images/logo_nitobi.png" border="0"/></a>
-    </td>
-  </tr>
+   </tr>
   <tr>
     <td valign="top">
       <ul>
         <li><a href="https://github.com/Muerl">Matthew Haag</a></li>
       </ul>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="http://www.nitobi.com/" target="_blank"><img src="../images/logo_nitobi.png" border="0"/></a>
+    </td>
+  </tr>
+  <tr>
     <td valign="top">
       <ul>
         <li><a href="https://github.com/davejohnson">Dave Johnson</a></li>
@@ -58,3 +66,4 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
     </td>
   </tr>
 </table>
+</div>
