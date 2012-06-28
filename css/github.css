@@ -173,3 +173,10 @@ a.newsPost:visited
   -webkit-column-count: 3;
   padding-top: 10px;
 }
+
+#col2 {
+  column-count: 2;
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+  padding-top: 10px;
+}
