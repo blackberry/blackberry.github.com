@@ -19,6 +19,8 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <br/>
  <a href="https://twitter.com/blkscorp33">Don Berzley</a>
 <br/>
+ <a href="https://twitter.com/berryinformed/">Jeremy Duke</a>
+<br/>
  <a href="https://github.com/jcarty">Jerome Carty</a>
 <br/>
  <a href="https://github.com/jtokarchuk">Justin Tokarchuk</a>
