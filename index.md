@@ -116,8 +116,6 @@ These repositories do not directly correspond to code repositories
 * [PCRE](http://github.com/blackberry/PCRE) - PCRE is a library that implements regular expression pattern matching using the same syntax and semantics as Perl 5
 * [PictureWall](http://github.com/blackberry/PictureWall) - Control a Collection of BlackBerry PlayBooks to Display One or Multiple Images
 * [Qt](http://github.com/blackberry/Qt) - A popular cross-platform application framework
-* [Qt-Cascades-Examples-Private](http://github.com/blackberry/Qt-Cascades-Examples-Private) - Examples using Cascades and Qt - Used for collaboration with KDAB
-* [Qt-Cascades-Samples](http://github.com/blackberry/Qt-Cascades-Samples) - Port of Qt Samples to use Cascades
 * [Quake3](http://github.com/blackberry/Quake3) - GPL sources for Quake
 * [RecastNavigation](http://github.com/blackberry/RecastNavigation) - Navigation-mesh Construction Toolset for Games
 * [Ripple-Framework](http://github.com/blackberry/Ripple-Framework) - A browser-like framework component that hosts the Ripple UI tooling and provides services required for emulation
