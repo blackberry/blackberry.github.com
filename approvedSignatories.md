@@ -15,37 +15,37 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <!-- pull requests with better HTML gratefully accepted -->
 <div id="col3">
  Adam Wisniewski
-<span style="margin-left:4px"><a href="https://github.com/adamw523"><img src="http://github.com/favicon.ico"/></a></span>
+<span style="margin-left:4px"><a href="https://github.com/adamw523"><img src="images/github-favicon.png"/></a></span>
 <br/>
  Brandon Slack
-<span style="margin-left:4px"><a href="http://github.com/bslack"><img src="http://github.com/favicon.ico"/></a><a href="https://twitter.com/bslack"><img src="https://twitter.com/images/three_circles/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/bslack"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/bslack"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://opensourcebb.com">Don Berzley</a>
-<span style="margin-left:4px"><a href="https://twitter.com/blkscorp33"><img src="https://twitter.com/images/three_circles/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="https://twitter.com/blkscorp33"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://opensourcebb.com">Jeremy Duke</a>
-<span style="margin-left:4px"><a href="https://twitter.com/berryinformed"><img src="https://twitter.com/images/three_circles/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="https://twitter.com/berryinformed"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://kisailabs.com">Jerome Carty</a>
-<span style="margin-left:4px"><a href="github.com/jcarty"><img src="http://github.com/favicon.ico"/></a><a href="https://twitter.com/jcarty"><img src="https://twitter.com/images/three_circles/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="github.com/jcarty"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/jcarty"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://jtdev.blogspot.ca">Justin Tokarchuk</a>
-<span style="margin-left:4px"><a href="http://github.com/jtokarchuk"><img src="http://github.com/favicon.ico"/></a><a href="https://twitter.com/jtokarchuk"><img src="https://twitter.com/images/three_circles/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/jtokarchuk"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/jtokarchuk"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://blogplay.eu">Lukasz Dzierzak</a>
-<span style="margin-left:4px"><a href="http://github.com/ddluk"><img src="http://github.com/favicon.ico"/></a><a href="https://twitter.com/ddluk"><img src="https://twitter.com/images/three_circles/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/ddluk"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/ddluk"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://MaKleSoft.com">Martin Kleinschrodt</a>
-<span style="margin-left:4px"><a href="http://github.com/maklesoft"><img src="http://github.com/favicon.ico"/></a><a href="https://twitter.com/berryinformed"><img src="https://twitter.com/images/three_circles/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/maklesoft"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/berryinformed"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="https://peternewhook.com">Peter Newhook</a>
-<span style="margin-left:4px"><a href="http://github.com/pnewhook"><img src="http://github.com/favicon.ico"/></a><a href="https://twitter.com/p337er"><img src="https://twitter.com/images/three_circles/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/pnewhook"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/p337er"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://rorycraigbarnes.com">Rory Craig-Barnes</a>
-<span style="margin-left:4px"><a href="http://github.com/glasspear"><img src="http://github.com/favicon.ico"/></a><a href="https://twitter.com/roryboy"><img src="https://twitter.com/images/three_circles/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/glasspear"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/roryboy"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://www.opensourcebb.com">Shane Cridlebaugh</a>
-<span style="margin-left:4px"><a href="http://github.com/SCrid2000"><img src="http://github.com/favicon.ico"/></a><a href="https://twitter.com/GSchaneC"><img src="https://twitter.com/images/three_circles/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/SCrid2000"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/GSchaneC"><img src="images/twitter-bird-16x16.png"/></a></span>
 </div>
 
 ## Corporate Signatories
@@ -61,7 +61,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
     <td valign="top">
       <ul>
         <li>Matthew Haag
-<span style="margin-left:4px"><a href="http://github.com/Muerl"><img src="http://github.com/favicon.ico"/></a><a href="https://twitter.com/muerl"><img src="https://twitter.com/images/three_circles/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/Muerl"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/muerl"><img src="images/twitter-bird-16x16.png"/></a></span>
 </li>
       </ul>
     </td>
@@ -78,13 +78,13 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
     <td valign="top">
       <ul>
         <li><a href="https://nullisnotanobject.com">Dave Johnson</a>
-<span style="margin-left:4px"><a href="http://github.com/davejohnson"><img src="http://github.com/favicon.ico"/></a><a href="https://twitter.com/davejohnson"><img src="https://twitter.com/images/three_circles/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/davejohnson"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/davejohnson"><img src="images/twitter-bird-16x16.png"/></a></span>
 </li>
         <li><a href="https://michaelbrooks.ca">Michael Brooks</a>
-<span style="margin-left:4px"><a href="http://github.com/mwbrooks"><img src="http://github.com/favicon.ico"/></a><a href="https://twitter.com/mwbrooks"><img src="https://twitter.com/images/three_circles/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/mwbrooks"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mwbrooks"><img src="images/twitter-bird-16x16.png"/></a></span>
 </li>
         <li>Filip Maj
-<span style="margin-left:4px"><a href="http://github.com/filmaj"><img src="http://github.com/favicon.ico"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/filmaj"><img src="images/github-favicon.png"/></a></span>
 </li>
       </ul>
     </td>
