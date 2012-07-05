@@ -81,7 +81,7 @@ layout: default
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebGL-Samples" target="_blank">WebGL-Samples</a></td>
-    <td>Home for sample applications built with using the WebGL technology</td>
+    <td>Home for sample applications built with using the WebGL technology.  Current samples include TunnelTilt.</td>
   <td style="text-align:center"><a href="https://github.com/blackberry/WebGL-Samples/contributors">See List</a></td>
   </tr>
   <tr>  
