@@ -46,6 +46,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <br/>
  <a href="http://www.opensourcebb.com">Shane Cridlebaugh</a>
 <span style="margin-left:4px"><a href="http://github.com/SCrid2000"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/GSchaneC"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ <a href="http://wesquire.ca/">Wes Johnson</a>
+<span style="margin-left:4px"><a href="http://github.com/sterlingwes"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/sterlingwes"><img src="images/twitter-bird-16x16.png"/></a></span>
 </div>
 
 ## Corporate Signatories
