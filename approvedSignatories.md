@@ -74,7 +74,8 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <table>
   <tr>
     <td>
-      <a href="http://www.nitobi.com/" target="_blank"><img src="../images/logo_nitobi.png" border="0"/></a>
+      <a href="http://adobe.com" target="_blank" style="text-decoration:none; font-size: 200%">Adobe Systems Inc.</a>
+<br/>(originally as <a href="http://www.nitobi.com/">Nitobi</a>)
     </td>
   </tr>
   <tr>
