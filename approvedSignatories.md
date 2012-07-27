@@ -62,7 +62,11 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 
 ## Corporate Signatories
 
-<div id="col2">
+<table style="border-spacing: 5pt 0pt">
+<tr>
+
+<td valign="top"> <!-- start of LEFT -->
+
 <table>
   <tr>
     <td>
@@ -78,6 +82,14 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
       </ul>
     </td>
   </tr>
+</table>
+
+</td> <!-- end of LEFT -->
+
+
+<td valign="top"> <!-- start of CENTER -->
+
+<table>
   <tr>
     <td>
       <a href="http://mappau.com" target="_blank" style="text-decoration:none; font-size: 200%">mappau OG</a>
@@ -86,11 +98,21 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
   <tr>
     <td valign="top">
       <ul>
-      <!-- none so far -->
+        <li><a href="http://www.mappau.com">Peter Aldrian</a>
+</li>
+        <li><a href="https://www.mappau.com">Uwe Meier</a>
+</li>
+        <li><a href="https://www.mappau.com">Andre Pura</a>
+</li>
       </ul>
     </td>
   </tr>
 </table>
+
+</td> <!-- end of CENTER -->
+
+
+<td valign="top"> <!-- start of RIGHT -->
 
 <table>
   <tr>
@@ -115,4 +137,8 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
     </td>
   </tr>
 </table>
-</div>
+
+</td> <!-- end of RIGHT -->
+
+</tr>
+</table>
