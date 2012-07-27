@@ -35,6 +35,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="http://blogplay.eu">Lukasz Dzierzak</a>
 <span style="margin-left:4px"><a href="http://github.com/ddluk"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/ddluk"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://TBD">Mark Dineen</a>
+<span style="margin-left:4px"><a href="http://github.com/mdineen"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/dineenma"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://MaKleSoft.com">Martin Kleinschrodt</a>
 <span style="margin-left:4px"><a href="http://github.com/maklesoft"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/berryinformed"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
