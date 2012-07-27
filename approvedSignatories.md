@@ -78,6 +78,18 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="http://mappau.com" target="_blank" style="text-decoration:none; font-size: 200%">mappau OG</a>
+    </td>
+   </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+      <!-- none so far -->
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <table>
