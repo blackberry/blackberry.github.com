@@ -101,13 +101,13 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
   <tr>
     <td valign="top">
       <ul>
-        <li><a href="http://www.mappau.com">Peter Aldrian</a>
+        <li><a href="https://www.mappau.com">Andre Pura</a>
 <span style="margin-left:4px"><a href="http://github.com/andrepura"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
 </li>
-        <li><a href="https://www.mappau.com">Uwe Meier</a>
+        <li><a href="http://www.mappau.com">Peter Aldrian</a>
 <span style="margin-left:4px"><a href="http://github.com/paldrian"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
 </li>
-        <li><a href="https://www.mappau.com">Andre Pura</a>
+        <li><a href="https://www.mappau.com">Uwe Meier</a>
 <span style="margin-left:4px"><a href="http://github.com/uwemeier"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
 </li>
       </ul>
