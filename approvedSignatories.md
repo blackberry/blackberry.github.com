@@ -42,7 +42,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <span style="margin-left:4px"><a href="http://github.com/mdineen"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/dineenma"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://MaKleSoft.com">Martin Kleinschrodt</a>
-<span style="margin-left:4px"><a href="http://github.com/maklesoft"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/berryinformed"><img src="images/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/maklesoft"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/maklesoft"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://thebbthing.wordpress.com/">Nuno Da Silva Donato</a>
 <span style="margin-left:4px"><a href="http://github.com/nunodonato"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/nunodonato"><img src="images/twitter-bird-16x16.png"/></a></span>
