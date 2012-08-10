@@ -23,6 +23,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="http://mydbobjects.com">David Guimard</a>
 <span style="margin-left:4px"><a href="http://github.com/dgu123"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/1dgu"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://bag-of-holding.com/">David Sauve</a>
+<span style="margin-left:4px"><a href="http://github.com/notanumber"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/notanumber"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://hecgeek.blogspot.com">Derek Konigsberg</a>
 <span style="margin-left:4px"><a href="http://github.com/dkonigsberg"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/dkonigs"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
