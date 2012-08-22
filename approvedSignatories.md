@@ -35,6 +35,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="http://mortoray.com">Edaqa Mortoray</a>
 <span style="margin-left:4px"><a href="http://github.com/mortoray"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/edaqa"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://opensourcebb.com">Ekke Gentz</a>
+<span style="margin-left:4px"><a href="http://github.com/ekke"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/ekkescorner"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://opensourcebb.com">Jeremy Duke</a>
 <span style="margin-left:4px"><a href="https://twitter.com/berryinformed"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
