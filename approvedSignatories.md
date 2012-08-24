@@ -17,6 +17,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  Adam Wisniewski
 <span style="margin-left:4px"><a href="https://github.com/adamw523"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ <a href="http://bbcascadescode.tumblr.com/">Brian Scheirer</a>
+<span style="margin-left:4px"><!-- <a href="http://github.com/TBD"><img src="images/github-favicon.png"/></a> --><a href="https://twitter.com/BrianScheirer"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Brandon Slack
 <span style="margin-left:4px"><a href="http://github.com/bslack"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/bslack"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
