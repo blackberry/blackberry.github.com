@@ -107,6 +107,20 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="http://neuronasistemas.com/" target="_blank"><img src="../images/logo-neurona-168x60.jpeg" border="0"/></a>
+    </td>
+   </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><a href="http://miblackberry.com">Josep Maria Herrando</a>
+<span style="margin-left:4px"><a href="http://github.com/miamon"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/miblackberry"><img src="images/twitter-bird-16x16.png"/></a></span>
+</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 </td> <!-- end of LEFT -->
@@ -117,7 +131,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <table>
   <tr>
     <td>
-      <a href="http://mappau.com" target="_blank" style="text-decoration:none; font-size: 200%">mappau OG</a>
+     <a href="http://mappau.com" target="_blank" style="text-decoration:none; font-size: 200%">mappau OG</a>
     </td>
    </tr>
   <tr>
