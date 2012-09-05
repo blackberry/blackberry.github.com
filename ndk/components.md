@@ -41,17 +41,17 @@ ALUT (OpenAL Utility Toolkit) is a companion toolkit to OpenAL; its often bundle
 The ported code is available at [github.com/blackberry/ALUT](http://github.com/blackberry/ALUT).
 *Also see* - [ALUT at CreativeLabs](http://connect.creativelabs.com/openal/Documentation/The%20OpenAL%20Utility%20Toolkit.htm)
 
-<a name="SDL"/>
-**SDL**  
-SDL (Simple DirectMedia Layer) is a cross-platform multimedia library designed to provide low level access to audio, keyboard, mouse, joystick, 3D hardware via OpenGL, and 2D video framebuffer.
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-*Also see* - [LibSDL.org](http://www.libsdl.org/).
-
 <a name="OggVorbis"/>
 **Ogg Vorbis**  
 Ogg Vorbis is an open, patent-free, professional audio encoding and streaming technology with all the benefits of Open Source.
 The ported code is available at [github.com/blackberry/OggVorbis](http://github.com/blackberry/OggVorbis).  
 *Also see* - [Vorbis.com](http://vorbis.com).
+
+<a name="SDL"/>
+**SDL**  
+SDL (Simple DirectMedia Layer) is a cross-platform multimedia library designed to provide low level access to audio, keyboard, mouse, joystick, 3D hardware via OpenGL, and 2D video framebuffer.
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+*Also see* - [LibSDL.org](http://www.libsdl.org/).
 
   &nbsp;  
 
@@ -82,12 +82,6 @@ A partial port is available at [github.com/blackberry/OpenCV](http://github.com/
 Recast is a _navigation mesh_ construction toolset for games.
 The ported code is available at [github.com/blackberry/RecastNavigation](http://github.com/blackberry/RecastNavigation).  
 *Also see* - [RecastNavigation at Google Code](http://code.google.com/p/recastnavigation/)
-
-<a name="DosBox"/>
-**DosBox**  
-DosBox is an open source DOS emulator for BeOS, Linux, Mac OS X, OS/2, and Windows. Primarily focuses on running DOS Games.
-The ported code is available at [github.com/blackberry/DosBox](http://github.com/blackberry/DosBox).  
-*Also see* - [DosBox.com](http://www.dosbox.com/)
 
   &nbsp;  
 
@@ -217,6 +211,12 @@ The ported code is available at [github.com/blackberry/ZXing](http://github.com/
 **Other Ports**  
 The following are ports of popular open source projects that showcase the platform  
 
+<a name="DosBox"/>
+**DosBox**  
+DosBox is an open source DOS emulator for BeOS, Linux, Mac OS X, OS/2, and Windows. Primarily focuses on running DOS Games.
+The ported code is available at [github.com/blackberry/DosBox](http://github.com/blackberry/DosBox).  
+*Also see* - [DosBox.com](http://www.dosbox.com/)
+
 <a name="OpenTTD"/>
 **OpenTTD**  
 OpenTTD is a simulation game based on Transport Tycoon Deluxe.
@@ -229,7 +229,7 @@ The Battle for Wesnoth is a Free, turn-based tactical strategy game with a high 
 The ported code is available at [github.com/blackberry/Wesnoth](http://github.com/blackberry/Wesnoth).  
 *Also see* - [Wesnoth.org](http://wesnoth.org/).
 
-Both OpenTTD and Wesnoth, as well as DosBox use this small library
+DosBox, OpenTTD and Wesnoth use this small library
 
 <a name="TouchControlOverlay"/>
 **TouchControlOverlay**  
