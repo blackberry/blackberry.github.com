@@ -122,6 +122,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
       <a href="http://pyxismobile.com/" target="_blank"><img src="../images/logo_pyxis.jpg" border="0"/></a>
     </td>
    </tr>
+<!-- DELETE
   <tr>
     <td valign="top">
       <ul>
@@ -131,11 +132,13 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
       </ul>
     </td>
   </tr>
+-->
   <tr>
     <td>
       <a href="http://neuronasistemas.com/" target="_blank"><img src="../images/logo-neurona-168x60.jpeg" border="0"/></a>
     </td>
    </tr>
+<!-- DELETE
   <tr>
     <td valign="top">
       <ul>
@@ -145,6 +148,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
       </ul>
     </td>
   </tr>
+-->
 </table>
 
 </td> <!-- end of LEFT -->
@@ -158,6 +162,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
      <a href="http://mappau.com" target="_blank" style="text-decoration:none; font-size: 200%">mappau OG</a>
     </td>
    </tr>
+<!-- DELETE
   <tr>
     <td valign="top">
       <ul>
@@ -173,6 +178,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
       </ul>
     </td>
   </tr>
+-->
 </table>
 
 </td> <!-- end of CENTER -->
@@ -187,6 +193,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <br/>(originally as <a href="http://www.nitobi.com/">Nitobi</a>)
     </td>
   </tr>
+<!-- DELETE
   <tr>
     <td valign="top">
       <ul>
@@ -202,6 +209,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
       </ul>
     </td>
   </tr>
+-->
 </table>
 
 </td> <!-- end of RIGHT -->
