@@ -20,9 +20,8 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="https://www.mappau.com">Andre Pura</a>
 <span style="margin-left:4px"><a href="http://github.com/andrepura"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
- Angel Sanchez Morales
-<!-- REMOVE FOR NOW
-<span style="margin-left:4px"><a href="http://github.com/TBD"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a></span> -->
+ <a href="http://salemixu.com">Angel Sanchez Morales</a>
+<span style="margin-left:4px"><a href="http://github.com/salemixu"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/angelmixu"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://bbcascadescode.tumblr.com/">Brian Scheirer</a>
 <span style="margin-left:4px"><a href="http://github.com/bcs925"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/BrianScheirer"><img src="images/twitter-bird-16x16.png"/></a></span>
