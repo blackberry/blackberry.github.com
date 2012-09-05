@@ -41,22 +41,22 @@ ALUT (OpenAL Utility Toolkit) is a companion toolkit to OpenAL; its often bundle
 The ported code is available at [github.com/blackberry/ALUT](http://github.com/blackberry/ALUT).
 *Also see* - [ALUT at CreativeLabs](http://connect.creativelabs.com/openal/Documentation/The%20OpenAL%20Utility%20Toolkit.htm)
 
-<a name="SDL"/>
-**SDL**  
-SDL (Simple DirectMedia Layer) is a cross-platform multimedia library designed to provide low level access to audio, keyboard, mouse, joystick, 3D hardware via OpenGL, and 2D video framebuffer.
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-*Also see* - [LibSDL.org](http://www.libsdl.org/).
-
 <a name="OggVorbis"/>
 **Ogg Vorbis**  
 Ogg Vorbis is an open, patent-free, professional audio encoding and streaming technology with all the benefits of Open Source.
 The ported code is available at [github.com/blackberry/OggVorbis](http://github.com/blackberry/OggVorbis).  
 *Also see* - [Vorbis.com](http://vorbis.com).
 
+<a name="SDL"/>
+**SDL**  
+SDL (Simple DirectMedia Layer) is a cross-platform multimedia library designed to provide low level access to audio, keyboard, mouse, joystick, 3D hardware via OpenGL, and 2D video framebuffer.
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+*Also see* - [LibSDL.org](http://www.libsdl.org/).
+
   &nbsp;  
 
 <a name="gaming"/>
-**Gaming Components - Physics Engines**  
+**Gaming Middleware**  
 The following components are Physics Engines and other components:
 
 <a name="Box2D"/>
@@ -85,7 +85,7 @@ The ported code is available at [github.com/blackberry/RecastNavigation](http://
 
   &nbsp;  
 
-**Gaming Components - Game Engines**  
+**Game Engines**  
 The following components are Game Engines:
 
 <a name="Cocos2D-X"/>
@@ -102,36 +102,14 @@ to learn and write mobile and desktop games.
 The code is available at [github.com/blackberry/GamePlay](http://github.com/blackberry/GamePlay).  
 *Also see* - We are working on a micro-site at [gameplay3d.org](http://gameplay3d.org)
 
-  &nbsp;  
-
-**Gaming Components - Games**  
-The following components are Games:
-
-<a name="OpenTTD"/>
-**OpenTTD**  
-OpenTTD is a simulation game based on Transport Tycoon Deluxe.
-The ported code is available at [github.com/blackberry/OpenTTD](http://github.com/blackberry/OpenTTD).  
-*Also see* - [OpenTTD.org](http://www.openttd.org/en/)
-
-<a name="DosBox"/>
-**DosBox**  
-DosBox is an open source DOS emulator for BeOS, Linux, Mac OS X, OS/2, and Windows. Primarily focuses on running DOS Games.
-The ported code is available at [github.com/blackberry/DosBox](http://github.com/blackberry/DosBox).  
-*Also see* - [DosBox.com](http://www.dosbox.com/)
-
-<a name="Wesnoth"/>
-**The Battle of Wesnoth**  
-The Battle for Wesnoth is a Free, turn-based tactical strategy game with a high fantasy theme, featuring both single-player, and online/hotseat multiplayer combat.
-The ported code is available at [github.com/blackberry/Wesnoth](http://github.com/blackberry/Wesnoth).  
-*Also see* - [Wesnoth.org](http://wesnoth.org/).
-
 <a name="Quake3"/>
-**Quake 3**
+**Quake 3**   
 Quake III Arena is a multiplayer first-person shooter video game developed by id Software.  The engine is open source and has been ported to the PlayBook.  You will need maps to run this game.
 The ported code is available at [github.com/blackberry/Quake3](http://github.com/blackberry/Quake3).  
 *Also see* - [Official Site](http://www.quake3arena.com/)
 
   &nbsp;  
+
 
 <a name="libraries"/>
 **Libraries - General Purpose**  
@@ -149,21 +127,11 @@ Boost is a collection of free peer-reviewed portable C++ source libraries.
 The latest release (1.47) runs correctly on Tablet OS using both GNU and Dinkum C++ libraries.  
 *Also see* - [Boost.org](http://boost.org/).
 
-  &nbsp;  
-
-**Libraries - Utilities**  
-The following components are utilities:
-
 <a name="PCRE"/>
 **PCRE**  
 The PCRE (Perl Compatible Regular Expressions) library is a set of functions that implement regular expression pattern matching using the same syntax and semantics as Perl 5.
 The ported code is available at [github.com/blackberry/PCRE](http://github.com/blackberry/PCRE).  
 *Also see* - [PCRE.org](http://pcre.org/).
-
-<a name="TouchControlOverlay"/>
-**TouchControlOverlay**  
-This library takes touchscreen input and converts it into keyboard and mouse events in a predefined way.
-The ported code is available at [github.com/blackberry/TouchControlOverlay](http://github.com/blackberry/TouchControlOverlay).  
 
   &nbsp;  
 
@@ -237,3 +205,36 @@ The ported code is available at [github.com/blackberry/JSON_parser](http://githu
 A port of ZXing (Zebra Crossing) the multi-format 1D/2D barcode image processing library.
 The ported code is available at [github.com/blackberry/ZXing](http://github.com/blackberry/ZXing).  
 *Also see* - [ZXing at Google Code](https://code.google.com/p/zxing)
+
+&nbsp;
+
+**Other Ports**  
+The following are ports of popular open source projects that showcase the platform  
+
+<a name="DosBox"/>
+**DosBox**  
+DosBox is an open source DOS emulator for BeOS, Linux, Mac OS X, OS/2, and Windows. Primarily focuses on running DOS Games.
+The ported code is available at [github.com/blackberry/DosBox](http://github.com/blackberry/DosBox).  
+*Also see* - [DosBox.com](http://www.dosbox.com/)
+
+<a name="OpenTTD"/>
+**OpenTTD**  
+OpenTTD is a simulation game based on Transport Tycoon Deluxe.
+The ported code is available at [github.com/blackberry/OpenTTD](http://github.com/blackberry/OpenTTD).  
+*Also see* - [OpenTTD.org](http://www.openttd.org/en/)
+
+<a name="Wesnoth"/>
+**The Battle of Wesnoth**  
+The Battle for Wesnoth is a Free, turn-based tactical strategy game with a high fantasy theme, featuring both single-player, and online/hotseat multiplayer combat.
+The ported code is available at [github.com/blackberry/Wesnoth](http://github.com/blackberry/Wesnoth).  
+*Also see* - [Wesnoth.org](http://wesnoth.org/).
+
+DosBox, OpenTTD and Wesnoth use this small library
+
+<a name="TouchControlOverlay"/>
+**TouchControlOverlay**  
+This library takes touchscreen input and converts it into keyboard and mouse events in a predefined way.
+The ported code is available at [github.com/blackberry/TouchControlOverlay](http://github.com/blackberry/TouchControlOverlay).  
+
+  &nbsp;  
+
