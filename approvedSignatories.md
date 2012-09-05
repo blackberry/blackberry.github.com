@@ -10,7 +10,7 @@ This page lists the persons and companies who have signed and submitted [Contrib
 ### Research In Motion Contributor Agreement Signatories
 The Research In Motion Contributor Agreement covers contributions to all RIM open source projects, not just BlackBerry WebWorks. All Research In Motion Contributor Agreement signatories are listed below:
 
-## Individual Signatories
+## Individuals
 
 <!-- pull requests with better HTML gratefully accepted -->
 <div id="col3">
@@ -109,7 +109,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <span style="margin-left:4px"><a href="http://github.com/natsumesou"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/natsumesou"><img src="images/twitter-bird-16x16.png"/></a></span>
 </div>
 
-## Corporate Signatories
+## Corporations
 
 <table style="border-spacing: 5pt 0pt">
 <tr>
