@@ -104,6 +104,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="https://www.mappau.com">Uwe Meier</a>
 <span style="margin-left:4px"><a href="http://github.com/uwemeier"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://www.codeplex.com/site/users/view/rcmaniac25">Vincent Simonetti</a>
+<span style="margin-left:4px"><a href="http://github.com/rcmaniac25"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/rcmaniac25"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://wesquire.ca/">Wes Johnson</a>
 <span style="margin-left:4px"><a href="http://github.com/sterlingwes"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/sterlingwes"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
