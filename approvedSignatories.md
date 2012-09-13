@@ -65,6 +65,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="http://jtdev.blogspot.ca">Justin Tokarchuk</a>
 <span style="margin-left:4px"><a href="http://github.com/jtokarchuk"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/jtokarchuk"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Hidaya SEKKAL
+<span style="margin-left:4px"><a href="http://github.com/sekkalhidaya"><img src="images/github-favicon.png"/></a><!-- <a href="https://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a> --></span>
+<br/>
  <a href="http://escapekey.ca">Karan Khiani</a>
 <span style="margin-left:4px"><a href="http://github.com/karancan"><img src="images/github-favicon.png"/></a><!-- <a href="https://twitter.com/jtokarchuk"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
