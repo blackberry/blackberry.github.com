@@ -111,7 +111,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <span style="margin-left:4px"><a href="http://github.com/john852"><img src="images/github-favicon.png"/></a><!-- <a href="https://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a> --></span>
 <br/>
  <a href="http://www.opensourcebb.com">Shane Cridlebaugh</a>
-<span style="margin-left:4px"><a href="http://github.com/SCrid2000"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/GSchaneC"><img src="images/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/SCrid2000"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/GShaneC"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://www.opensourcebb.com/osbbx">Thomas Wolcott</a>
 <span style="margin-left:4px"><a href="http://github.com/osbbx-ph03n1x"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/ph03n1x"><img src="images/twitter-bird-16x16.png"/></a></span>
