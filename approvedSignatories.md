@@ -20,6 +20,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="https://www.mappau.com">Andre Pura</a>
 <span style="margin-left:4px"><a href="http://github.com/andrepura"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Andy (Xiang) WU
+<span style="margin-left:4px"><a href="http://github.com/andywu89"><img src="images/github-favicon.png"/></a><!-- <a href="https://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a>--></span>
+<br/>
  <a href="http://salemixu.com">Angel Sanchez Morales</a>
 <span style="margin-left:4px"><a href="http://github.com/salemixu"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/angelmixu"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -31,6 +34,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <br/>
  <a href="https://nullisnotanobject.com">Dave Johnson</a>
 <span style="margin-left:4px"><a href="http://github.com/davejohnson"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/davejohnson"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ David Clarke
+<span style="margin-left:4px"><a href="http://github.com/xandOr"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/xandOr"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://mydbobjects.com">David Guimard</a>
 <span style="margin-left:4px"><a href="http://github.com/dgu123"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/1dgu"><img src="images/twitter-bird-16x16.png"/></a></span>
@@ -73,6 +79,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <br/>
  <a href="http://escapekey.ca">Karan Khiani</a>
 <span style="margin-left:4px"><a href="http://github.com/karancan"><img src="images/github-favicon.png"/></a><!-- <a href="https://twitter.com/jtokarchuk"><img src="images/twitter-bird-16x16.png"/></a>--></span>
+<br/>
+ <a href="http://karlquinsland.com">Karl Quinsland</a>
+<span style="margin-left:4px"><a href="http://github.com/kquinsland"><img src="images/github-favicon.png"/></a><!-- <a href="https://twitter.com/kquinsland"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
  <a href="http://www.opensourcebb.com/osbbx">Lloyd Summers</a>
 <span style="margin-left:4px"><a href="http://github.com/KermEd"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/kerm_ed"><img src="images/twitter-bird-16x16.png"/></a></span>
