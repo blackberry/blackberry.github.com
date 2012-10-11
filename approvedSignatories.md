@@ -83,6 +83,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="http://escapekey.ca">Karan Khiani</a>
 <span style="margin-left:4px"><a href="http://github.com/karancan"><img src="images/github-favicon.png"/></a><!-- <a href="https://twitter.com/jtokarchuk"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
+ <a href="http://kariem2k.blogspot.ca">Karim Ahmed</a>
+<span style="margin-left:4px"><a href="http://github.com/kariem2k"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/kariem2k"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://karlquinsland.com">Karl Quinsland</a>
 <span style="margin-left:4px"><a href="http://github.com/kquinsland"><img src="images/github-favicon.png"/></a><!-- <a href="https://twitter.com/kquinsland"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
@@ -115,6 +118,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <br/>
  <a href="https://peternewhook.com">Peter Newhook</a>
 <span style="margin-left:4px"><a href="http://github.com/pnewhook"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/p337er"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Richard Joseph
+<span style="margin-left:4px"><a href="http://github.com/sixman9"><img src="images/github-favicon.png"/></a><!-- <a href="https://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
  <a href="http://rorycraigbarnes.com">Rory Craig-Barnes</a>
 <span style="margin-left:4px"><a href="http://github.com/glasspear"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/roryboy"><img src="images/twitter-bird-16x16.png"/></a></span>
