@@ -8,7 +8,7 @@ layout: default
 This page lists the persons and companies who have signed and submitted [Contributor Agreement](howToContribute.html) forms to Research In Motion.
 
 ### Research In Motion Contributor Agreement Signatories
-The Research In Motion Contributor Agreement covers contributions to all RIM open source projects, not just BlackBerry WebWorks. All Research In Motion Contributor Agreement signatories are listed below:
+The Research In Motion Contributor Agreement covers contributions to all RIM open source projects, not just BlackBerry WebWorks. All Research In Motion Contributor Agreement signatories are listed below (also see the [JSON file](Signatories.json)).
 
 ## Individuals
 
@@ -25,6 +25,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <br/>
  <a href="http://salemixu.com">Angel Sanchez Morales</a>
 <span style="margin-left:4px"><a href="http://github.com/salemixu"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/angelmixu"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ <a href="http://arturolinar.es/">Arturo Linares</a>
+<span style="margin-left:4px"><a href="http://github.com/arturolinares"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/arturo_linares"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://bbcascadescode.tumblr.com/">Brian Scheirer</a>
 <span style="margin-left:4px"><a href="http://github.com/bcs925"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/BrianScheirer"><img src="images/twitter-bird-16x16.png"/></a></span>
