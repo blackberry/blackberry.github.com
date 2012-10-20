@@ -1,0 +1,266 @@
+{
+    "Full_Name": {
+	"name": "legal name",
+	"github": "GitHub id",
+	"twitter": "Twitter id (optional)",
+	"website": "URL (optional)",
+	"notes": "optional",
+	"location": "optional and tbd"
+    },
+    "Adam Wisniewski": {
+	"name": "Adam Wisniewski",
+	"github": "https://github.com/adamw523",
+	"twitter": "https://twitter.com/adamw523",
+	"website": "http://adamw523.com"
+    },
+    "Andre Pura": {
+	"name": "Andre Pura",
+	"github": "http://github.com/andrepura",
+	"twitter": "https://twitter.com/mappau",
+	"website": "https://www.mappau.com"
+    },
+    "Andy (Xiang) WU": {
+	"name": "Andy (Xiang) WU",
+	"github": "http://github.com/andywu89"
+    },
+    "Angel Sanchez Morales": {
+	"name": "Angel Sanchez Morales",
+	"github": "http://github.com/salemixu",
+	"twitter": "https://twitter.com/angelmixu",
+	"website": "http://salemixu.com"
+    },
+    "Brian Scheirer": {
+	"name": "Brian Scheirer",
+	"github": "http://github.com/bcs925",
+	"twitter": "https://twitter.com/BrianScheirer",
+	"website": "http://bbcascadescode.tumblr.com/"
+    },
+    "Brandon Slack": {
+	"name": "Brandon Slack",
+	"github": "http://github.com/bslack",
+	"twitter": "https://twitter.com/bslack"
+    },
+    "Dave Johnson": {
+	"name": "Dave Johnson",
+	"github": "http://github.com/davejohnson",
+	"twitter": "https://twitter.com/davejohnson",
+	"website": "https://nullisnotanobject.com"
+    },
+    "David Clarke": {
+	"name": "David Clarke",
+	"github": "http://github.com/xandOr",
+	"twitter": "https://twitter.com/xandOr"
+    },
+    "David Guimard": {
+	"name": "David Guimard",
+	"github": "http://github.com/dgu123",
+	"twitter": "https://twitter.com/1dgu",
+	"website": "http://mydbobjects.com"
+    },
+    "David Sauve": {
+	"name": "David Sauve",
+	"github": "http://github.com/notanumber",
+	"twitter": "https://twitter.com/notanumber",
+	"website": "http://bag-of-holding.com/"
+    },
+    "Derek Konigsberg": {
+	"name": "Derek Konigsberg",
+	"github": "http://github.com/dkonigsberg",
+	"twitter": "https://twitter.com/dkonigs",
+	"website": "http://hecgeek.blogspot.com"
+    },
+    "Don Berzley": {
+	"name": "Don Berzley",
+	"twitter": "https://twitter.com/blkscorp33",
+	"website": "http://opensourcebb.com",
+    },
+    "Edaqa Mortoray": {
+	"name": "Edaqa Mortoray",
+	"github": "http://github.com/mortoray",
+	"twitter": "https://twitter.com/edaqa",
+	"website": "http://mortoray.com"
+    },
+    "Evgeny Yurchenko": {
+	"name": "Evgeny Yurchenko",
+	"github": "http://github.com/BGmot",
+	"twitter": "https://twitter.com/evgenyyurchenko",
+	"website": 
+    },
+    "Ekke Gentz": {
+	"name": "Ekke Gentz",
+	"github": "http://github.com/ekke",
+	"twitter": "https://twitter.com/ekkescorner",
+	"website": "http://opensourcebb.com"
+    },
+    "Filip Maj": {
+	"name": "Filip Maj",
+	"github": "http://github.com/filmaj"
+    },
+    "Jeremy Duke": {
+	"name": "Jeremy Duke",
+	"twitter": "https://twitter.com/berryinformed",
+	"website": "http://opensourcebb.com"
+    },
+    "Jerome Carty": {
+	"name": "Jerome Carty",
+	"github": "http://github.com/jcarty",
+	"twitter": "https://twitter.com/jcarty",
+	"website": "http://kisailabs.com"
+    },
+    "Josep Maria Herrando": {
+	"name": "Josep Maria Herrando",
+	"github": "http://github.com/miamon",
+	"twitter": "https://twitter.com/miblackberry",
+	"website": "http://miblackberry.com"
+    },
+    "Justin Tokarchuk": {
+	"name": "Justin Tokarchuk",
+	"github": "http://github.com/jtokarchuk",
+	"twitter": "https://twitter.com/jtokarchuk",
+	"website": "http://jtdev.blogspot.ca"
+    },
+    "Justin DaSilva": {
+	"name": "Justin DaSilva",
+	"github": "http://github.com/lyricidal",
+	"twitter": "https://twitter.com/theiexplorers",
+	"website": "http://www.opensourcebb.com/osbbx"
+    },
+    "Hidaya SEKKAL": {
+	"name": "Hidaya SEKKAL",
+	"github": "http://github.com/sekkalhidaya"
+    },
+    "Karan Khiani": {
+	"name": "Karan Khiani",
+	"github": "http://github.com/karancan",
+	"website": "http://escapekey.ca"
+    },
+    "Karim Ahmed": {
+	"name": "Karim Ahmed",
+	"github": "http://github.com/kariem2k",
+	"twitter": "https://twitter.com/kariem2k",
+	"website": "http://kariem2k.blogspot.ca"
+    },
+    "Karl Quinsland": {
+	"name": "Karl Quinsland",
+	"github": "http://github.com/kquinsland",
+	"website": "http://karlquinsland.com"
+    },
+    "Lloyd Summers": {
+	"name": "Lloyd Summers",
+	"github": "http://github.com/KermEd",
+	"twitter": "https://twitter.com/kerm_ed",
+	"website": "http://www.opensourcebb.com/osbbx"
+    },
+    "Lukasz Dzierzak": {
+	"name": "Lukasz Dzierzak",
+	"github": "http://github.com/ddluk",
+	"twitter": "https://twitter.com/ddluk",
+	"website": "http://blogplay.eu"
+    },
+    "Mark Dineen": {
+	"name": "Mark Dineen",
+	"github": "http://github.com/mdineen",
+	"twitter": "https://twitter.com/dineenma"
+    },
+    "Matthew Haag": {
+	"name": "Matthew Haag",
+	"github": "http://github.com/Muerl",
+	"twitter": "https://twitter.com/muerl"
+    },
+    "Martin Kleinschrodt": {
+	"name": "Martin Kleinschrodt",
+	"github": "http://github.com/maklesoft",
+	"twitter": "https://twitter.com/maklesoft",
+	"website": "http://MaKleSoft.com"
+    },
+    "Michael Brooks": {
+	"name": "Michael Brooks",
+	"github": "http://github.com/mwbrooks",
+	"twitter": "https://twitter.com/mwbrooks",
+	"website": "https://michaelbrooks.ca"
+    },
+    "Michael Robinson": {
+	"name": "Michael Robinson",
+	"github": "http://github.com/badtoyz",
+	"twitter": "https://twitter.com/badtoyz",
+	"website": "https://badtoyz.tumblr.com"
+    },
+    "Nuno Da Silva Donato": {
+	"name": "Nuno Da Silva Donato",
+	"github": "http://github.com/nunodonato",
+	"twitter": "https://twitter.com/nunodonato",
+	"website": "http://thebbthing.wordpress.com/"
+    },
+    "Peter Aldrian": {
+	"name": "Peter Aldrian",
+	"github": "http://github.com/paldrian",
+	"twitter": "https://twitter.com/mappau",
+	"website": "http://www.mappau.com"
+    },
+    "Peter Newhook": {
+	"name": "Peter Newhook",
+	"github": "http://github.com/pnewhook",
+	"twitter": "https://twitter.com/p337er",
+	"website": "https://peternewhook.com"
+    },
+    "Richard Joseph": {
+	"name": "Richard Joseph",
+	"github": "http://github.com/sixman9"
+    },
+    "Rory Craig-Barnes": {
+	"name": "Rory Craig-Barnes",
+	"github": "http://github.com/glasspear",
+	"twitter": "https://twitter.com/roryboy",
+	"website": "http://rorycraigbarnes.com"
+    },
+    "Ruo Jin YAN": {
+	"name": "Ruo Jin YAN",
+	"github": "http://github.com/john852"
+    },
+    "Shane Cridlebaugh": {
+	"name": "Shane Cridlebaugh",
+	"github": "http://github.com/SCrid2000",
+	"twitter": "https://twitter.com/GShaneC",
+	"website": "http://www.opensourcebb.com"
+    },
+    "Thomas Wolcott": {
+	"name": "Thomas Wolcott",
+	"github": "http://github.com/osbbx-ph03n1x",
+	"twitter": "https://twitter.com/ph03n1x",
+	"website": "http://www.opensourcebb.com/osbbx"
+    },
+    "Timothy Costigan": {
+	"name": "Timothy Costigan",
+	"github": "http://github.com/costigt",
+	"twitter": "https://twitter.com/costigt",
+	"website": "http://www.timvelopment.com/"
+    },
+    "Uwe Meier": {
+	"name": "Uwe Meier",
+	"github": "http://github.com/uwemeier",
+	"twitter": "https://twitter.com/mappau",
+	"website": "https://www.mappau.com"
+    },
+    "Vincent Simonetti": {
+	"name": "Vincent Simonetti",
+	"github": "http://github.com/rcmaniac25",
+	"twitter": "https://twitter.com/rcmaniac25",
+	"website": "http://www.codeplex.com/site/users/view/rcmaniac25"
+    },
+    "Wes Johnson": {
+	"name": "Wes Johnson",
+	"github": "http://github.com/sterlingwes",
+	"twitter": "https://twitter.com/sterlingwes",
+	"website": "http://wesquire.ca/"
+    },
+    "Ya Chuan ZHANG": {
+	"name": "Ya Chuan ZHANG",
+	"github": "http://github.com/windameister"
+    },
+    "Yoshiaki NATSUME": {
+	"name": "Yoshiaki NATSUME",
+	"github": "http://github.com/natsumesou",
+	"twitter": "https://twitter.com/natsumesou",
+	"website": "http://natsu.me/"
+    }
+}
