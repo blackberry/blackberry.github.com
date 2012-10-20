@@ -26,6 +26,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="http://salemixu.com">Angel Sanchez Morales</a>
 <span style="margin-left:4px"><a href="http://github.com/salemixu"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/angelmixu"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Arman Fallah
+<span style="margin-left:4px"><a href="http://github.com/starpax"><img src="images/github-favicon.png"/></a><!-- <a href="https://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a>--></span>
+<br/>
  <a href="http://arturolinar.es/">Arturo Linares</a>
 <span style="margin-left:4px"><a href="http://github.com/arturolinares"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/arturo_linares"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
