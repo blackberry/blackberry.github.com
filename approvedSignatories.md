@@ -122,7 +122,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="http://www.mappau.com">Peter Aldrian</a>
 <span style="margin-left:4px"><a href="http://github.com/paldrian"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
- <a href="https://www.engenuity.com">Peter Hansen</a>
+ <a href="http://www.engcorp.com">Peter Hansen</a>
 <span style="margin-left:4px"><a href="http://github.com/peter9477"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/peter9477"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="https://peternewhook.com">Peter Newhook</a>
