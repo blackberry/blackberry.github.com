@@ -131,6 +131,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  Richard Joseph
 <span style="margin-left:4px"><a href="http://github.com/sixman9"><img src="images/github-favicon.png"/></a><!-- <a href="https://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
+ <a href="http://blackberrydev.si">Roman Verhovsek</a>
+<span style="margin-left:4px"><a href="http://github.com/sivko2"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/sivko2"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://rorycraigbarnes.com">Rory Craig-Barnes</a>
 <span style="margin-left:4px"><a href="http://github.com/glasspear"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/roryboy"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
