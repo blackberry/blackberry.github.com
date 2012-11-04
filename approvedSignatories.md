@@ -113,6 +113,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="https://michaelbrooks.ca">Michael Brooks</a>
 <span style="margin-left:4px"><a href="http://github.com/mwbrooks"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mwbrooks"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="https://appendto.com">Mike Hostetler</a>
+<span style="margin-left:4px"><a href="http://github.com/mikehostetler"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mikehostetler"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="https://badtoyz.tumblr.com">Michael Robinson</a>
 <span style="margin-left:4px"><a href="http://github.com/badtoyz"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/badtoyz"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -130,6 +133,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <br/>
  Richard Joseph
 <span style="margin-left:4px"><a href="http://github.com/sixman9"><img src="images/github-favicon.png"/></a><!-- <a href="https://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a>--></span>
+<br/>
+ <a href="http://blackberrydev.si">Roman Verhovsek</a>
+<span style="margin-left:4px"><a href="http://github.com/sivko2"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/sivko2"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://rorycraigbarnes.com">Rory Craig-Barnes</a>
 <span style="margin-left:4px"><a href="http://github.com/glasspear"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/roryboy"><img src="images/twitter-bird-16x16.png"/></a></span>
@@ -263,6 +269,11 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
     </td>
   </tr>
 -->
+<tr>
+<td>
+<a href="http://appendto.com" target="_blank"><img src="../images/appendTo-logo.jpg"></a>
+</td>
+</tr>
 </table>
 
 </td> <!-- end of RIGHT -->
