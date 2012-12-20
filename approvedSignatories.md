@@ -221,26 +221,15 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <table>
   <tr>
     <td>
-     <a href="http://mappau.com" target="_blank" style="text-decoration:none; font-size: 200%">mappau OG</a>
+     <a href="http://mappau.com" target="_blank" style="text-decoration:none; font-size: 200%; margin-top: 80px;">mappau OG</a>
+    </td>
+    <!-- Andre Pura, Peter Aldrian, Uwe Meier -->
+   </tr>
+  <tr>
+    <td>
+     <a href="http://truphone.com" target="_blank"><img src="../images/truphone-logo-invert.png" width="160" style="margin-top: 40px"></a>
     </td>
    </tr>
-<!-- DELETE
-  <tr>
-    <td valign="top">
-      <ul>
-        <li><a href="https://www.mappau.com">Andre Pura</a>
-<span style="margin-left:4px"><a href="http://github.com/andrepura"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
-</li>
-        <li><a href="http://www.mappau.com">Peter Aldrian</a>
-<span style="margin-left:4px"><a href="http://github.com/paldrian"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
-</li>
-        <li><a href="https://www.mappau.com">Uwe Meier</a>
-<span style="margin-left:4px"><a href="http://github.com/uwemeier"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
-</li>
-      </ul>
-    </td>
-  </tr>
--->
 </table>
 
 </td> <!-- end of CENTER -->
@@ -254,27 +243,10 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
       <a href="http://adobe.com" target="_blank" style="text-decoration:none; font-size: 200%">Adobe Systems Inc.</a>
 <br/>(originally as <a href="http://www.nitobi.com/">Nitobi</a>)
     </td>
+    <!-- Dave Johnson, Michael Brooks, Filip Maj -->
   </tr>
-<!-- DELETE
-  <tr>
-    <td valign="top">
-      <ul>
-        <li><a href="https://nullisnotanobject.com">Dave Johnson</a>
-<span style="margin-left:4px"><a href="http://github.com/davejohnson"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/davejohnson"><img src="images/twitter-bird-16x16.png"/></a></span>
-</li>
-        <li><a href="https://michaelbrooks.ca">Michael Brooks</a>
-<span style="margin-left:4px"><a href="http://github.com/mwbrooks"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mwbrooks"><img src="images/twitter-bird-16x16.png"/></a></span>
-</li>
-        <li>Filip Maj
-<span style="margin-left:4px"><a href="http://github.com/filmaj"><img src="images/github-favicon.png"/></a></span>
-</li>
-      </ul>
-    </td>
-  </tr>
--->
 <tr>
 <td>
-<!-- <a href="http://appendto.com" target="_blank"><img src="../images/appendTo-logo.jpg"></a> -->
 <a href="http://appendto.com" target="_blank"><img src="../images/appendTo-logo-clean.png" width="180" style="margin-top: 20px"></a>
 </td>
 </tr>
