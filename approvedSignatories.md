@@ -119,6 +119,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="https://michaelbrooks.ca">Michael Brooks</a>
 <span style="margin-left:4px"><a href="http://github.com/mwbrooks"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mwbrooks"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://www.michaeldabydeen.com">Michael Dabydeen</a>
+<span style="margin-left:4px"><a href="http://github.com/mdabydeen"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/firelinks"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://mike-hostetler.com/">Mike Hostetler</a>
 <span style="margin-left:4px"><a href="http://github.com/mikehostetler"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/mikehostetler"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
