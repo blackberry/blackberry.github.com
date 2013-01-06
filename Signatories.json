@@ -5,362 +5,408 @@
 	"twitter": "Twitter id (optional)",
 	"website": "URL (optional)",
 	"notes": "optional",
-	"location": "optional and tbd"
+	"loc_description": "optional and tbd",
+	"loc_coordinates": "optional and tbd"
     },
     "Adam Wisniewski": {
 	"name": "Adam Wisniewski",
 	"github": "https://github.com/adamw523",
 	"twitter": "https://twitter.com/adamw523",
 	"website": "http://adamw523.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Oshawa, ON, Canada",
+	"loc_coordinates": "-78.865791,43.897095,0.000000"
     },
     "Andre Pura": {
 	"name": "Andre Pura",
 	"github": "http://github.com/andrepura",
 	"twitter": "https://twitter.com/mappau",
 	"website": "https://www.mappau.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Graz, Austria",
+	"loc_coordinates": "15.439504,47.070713,0.000000"
     },
     "Andy (Xiang) WU": {
 	"name": "Andy (Xiang) WU",
 	"github": "http://github.com/andywu89",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Angel Sanchez Morales": {
 	"name": "Angel Sanchez Morales",
 	"github": "http://github.com/salemixu",
 	"twitter": "https://twitter.com/angelmixu",
 	"website": "http://salemixu.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Barcelona, Spain",
+	"loc_coordinates": "2.173404,41.385063,0.000000"
     },
     "Arman Fallah": {
 	"name": "Arman Fallah",
 	"github": "starpax",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Arturo Linares": {
 	"name": "Arturo Linares",
 	"github": "arturolinares",
 	"twitter": "arturo_linares",
 	"website": "http://arturolinar.es",
-	"location": "Requires confirmation to release"
+	"loc_description": "Corregidora, Querétaro, Mexico",
+	"loc_coordinates": "-100.441101,20.536591,0.000000"
+    },
+    "Bob Cripps": {
+	"name": "Bob Cripps",
+	"github": "http://github.com/bobcripps",
+	"loc_description": "London, UK",
+	"loc_coordinates": "-0.127683,51.507336,0.000000"
     },
     "Brian Scheirer": {
 	"name": "Brian Scheirer",
 	"github": "http://github.com/bcs925",
 	"twitter": "https://twitter.com/BrianScheirer",
 	"website": "http://bbcascadescode.tumblr.com/",
-	"location": "Requires confirmation to release"
+	"loc_description": "Tampa, Florida, USA",
+	"loc_coordinates": "-82.457176,27.950575,0.000000"
     },
     "Brandon Slack": {
 	"name": "Brandon Slack",
 	"github": "http://github.com/bslack",
 	"twitter": "https://twitter.com/bslack",
- 	"location": "Requires confirmation to release"
+ 	"loc_description": "Requires confirmation to release"
     },
     "Dave Johnson": {
 	"name": "Dave Johnson",
 	"github": "http://github.com/davejohnson",
 	"twitter": "https://twitter.com/davejohnson",
 	"website": "https://nullisnotanobject.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "David Clarke": {
 	"name": "David Clarke",
 	"github": "http://github.com/xandOr",
 	"twitter": "https://twitter.com/xandOr",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "David Guimard": {
 	"name": "David Guimard",
 	"github": "http://github.com/dgu123",
 	"twitter": "https://twitter.com/1dgu",
 	"website": "http://mydbobjects.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Chavannes près Renens, Switzerland",
+	"loc_coordinates": "6.575433,46.532757,0.000000"
     },
     "David Sauve": {
 	"name": "David Sauve",
 	"github": "http://github.com/notanumber",
 	"twitter": "https://twitter.com/notanumber",
 	"website": "http://bag-of-holding.com/",
-	"location": "Requires confirmation to release"
+	"loc_description": "Victoria, British Columbia, Canada",
+	"loc_coordinates": "-123.365646,48.428421,0.000000"
     },
     "David Williams": {
 	"name": "David Williams",
 	"github": "DavidWilliams81",
 	"twitter": "DavidW_81",
 	"website": "www.david-williams.info",
-	"location": "Groningen, The Netherlands",
+	"loc_description": "Groningen, The Netherlands",
+	"loc_coordinates": "6.566502,53.219383,0.000000"
     },
     "Derek Konigsberg": {
 	"name": "Derek Konigsberg",
 	"github": "http://github.com/dkonigsberg",
 	"twitter": "https://twitter.com/dkonigs",
 	"website": "http://hecgeek.blogspot.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "San Jose, California, USA",
+	"loc_coordinates": "-121.894958,37.339386,0.000000"
     },
     "Don Berzley": {
 	"name": "Don Berzley",
 	"twitter": "https://twitter.com/blkscorp33",
 	"website": "http://opensourcebb.com",
-    "location": "Requires confirmation to release",
+    "loc_description": "Requires confirmation to release",
     },
     "Edaqa Mortoray": {
 	"name": "Edaqa Mortoray",
 	"github": "http://github.com/mortoray",
 	"twitter": "https://twitter.com/edaqa",
 	"website": "http://mortoray.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Evgeny Yurchenko": {
 	"name": "Evgeny Yurchenko",
 	"github": "http://github.com/BGmot",
 	"twitter": "https://twitter.com/evgenyyurchenko",
-	"website": 
-    "location": "Requires confirmation to release",
+	"loc_description": "Waterloo, Ontario, Canada",
+	"loc_coordinates": "-80.520409,43.464256,0.000000"
     },
     "Ekke Gentz": {
 	"name": "Ekke Gentz",
 	"github": "http://github.com/ekke",
 	"twitter": "https://twitter.com/ekkescorner",
 	"website": "http://opensourcebb.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Rosenheim, Germany",
+	"loc_coordinates": "12.118105,47.857128,0.000000"
     },
     "Filip Maj": {
 	"name": "Filip Maj",
 	"github": "http://github.com/filmaj",
-	"location": "Requires confirmation to release"
+	"loc_description": "Vancouver, BC, Canada",
+	"loc_coordinates": "-123.113930,49.261227,0.000000"
     },
     "Jeremy Duke": {
 	"name": "Jeremy Duke",
 	"twitter": "https://twitter.com/berryinformed",
 	"website": "http://opensourcebb.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Auburn, Alabama, USA",
+	"loc_coordinates": "-105.996094,33.431442,0.000000"
     },
     "Jerome Carty": {
 	"name": "Jerome Carty",
 	"github": "http://github.com/jcarty",
 	"twitter": "https://twitter.com/jcarty",
 	"website": "http://kisailabs.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Queens, NY, USA",
+	"loc_coordinates": "-73.794853,40.728226,0.000000"
     },
     "Josep Maria Herrando": {
 	"name": "Josep Maria Herrando",
 	"github": "http://github.com/miamon",
 	"twitter": "https://twitter.com/miblackberry",
 	"website": "http://miblackberry.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Justin Tokarchuk": {
 	"name": "Justin Tokarchuk",
 	"github": "http://github.com/jtokarchuk",
 	"twitter": "https://twitter.com/jtokarchuk",
 	"website": "http://jtdev.blogspot.ca",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Justin DaSilva": {
 	"name": "Justin DaSilva",
 	"github": "http://github.com/lyricidal",
 	"twitter": "https://twitter.com/theiexplorers",
 	"website": "http://www.opensourcebb.com/osbbx",
-	"location": "Requires confirmation to release"
+	"loc_description": "Dauphin, Manitoba, Canada",
+	"loc_coordinates": "-100.049698,51.150036,0.000000"
     },
     "Hidaya SEKKAL": {
 	"name": "Hidaya SEKKAL",
 	"github": "http://github.com/sekkalhidaya",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Karan Khiani": {
 	"name": "Karan Khiani",
 	"github": "http://github.com/karancan",
 	"website": "http://escapekey.ca",
-	"location": "Requires confirmation to release"
+	"loc_description": "Ottawa, Ontario, Canada",
+	"loc_coordinates": "-75.697189,45.421532,0.000000"
     },
     "Karim Ahmed": {
 	"name": "Karim Ahmed",
 	"github": "http://github.com/kariem2k",
 	"twitter": "https://twitter.com/kariem2k",
 	"website": "http://kariem2k.blogspot.ca",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Karl Quinsland": {
 	"name": "Karl Quinsland",
 	"github": "http://github.com/kquinsland",
 	"website": "http://karlquinsland.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Sacramento Area, California",
+	"loc_coordinates": "-121.494400,38.581573,0.000000"
     },
     "Lloyd Summers": {
 	"name": "Lloyd Summers",
 	"github": "http://github.com/KermEd",
 	"twitter": "https://twitter.com/kerm_ed",
 	"website": "http://www.opensourcebb.com/osbbx",
-	"location": "Requires confirmation to release"
+	"loc_description": "Calgary, Alberta, Canada",
+	"loc_coordinates": "-114.058098,51.045326,0.000000"
     },
     "Lukasz Dzierzak": {
 	"name": "Lukasz Dzierzak",
 	"github": "http://github.com/ddluk",
 	"twitter": "https://twitter.com/ddluk",
 	"website": "http://blogplay.eu",
-	"location": "Requires confirmation to release"
+	"loc_description": "Gliwice, Poland",
+	"loc_coordinates": "18.671379,50.294491,0.000000"
     },
     "Mark Dineen": {
 	"name": "Mark Dineen",
 	"github": "http://github.com/mdineen",
 	"twitter": "https://twitter.com/dineenma",
-	"location": "Requires confirmation to release"
+	"loc_description": "Kitchener, Ontario, Canada",
+	"loc_coordinates": "-80.477745,43.434311,0.000000"
     },
     "Matthew Haag": {
 	"name": "Matthew Haag",
 	"github": "http://github.com/Muerl",
 	"twitter": "https://twitter.com/muerl",
-	"location": "Requires confirmation to release"
+	"loc_description": "Boston, MA, USA",
+	"loc_coordinates": "-71.059776,42.358433,0.000000",
     },
     "Martin Kleinschrodt": {
 	"name": "Martin Kleinschrodt",
 	"github": "http://github.com/maklesoft",
 	"twitter": "https://twitter.com/maklesoft",
 	"website": "http://MaKleSoft.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Michael Brooks": {
 	"name": "Michael Brooks",
 	"github": "http://github.com/mwbrooks",
 	"twitter": "https://twitter.com/mwbrooks",
 	"website": "https://michaelbrooks.ca",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Michael Dabydeen": {
 	"name": "Michael Dabydeen",
 	"github": "http://github.com/mdabydeen",
 	"twitter": "https://twitter.com/firelinks",
 	"website": "https://www.michaeldabydeen.com",
-	"location": "Brampton, Ontario, Canada"
+	"loc_description": "Brampton, Ontario, Canada",
+	"loc_coordinates": "-79.766670,43.683334,0.000000"
     },
     "Michael Robinson": {
 	"name": "Michael Robinson",
 	"github": "http://github.com/badtoyz",
 	"twitter": "https://twitter.com/badtoyz",
 	"website": "https://badtoyz.tumblr.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Barrie, Ontario, Canada",
+	"loc_coordinates": "o-79.701614,44.378090,0.000000"
     },
     "Mike Hostetler": {
 	"name": "Mike Hostetler",
 	"github": "http://github.com/mikehostetler",
 	"twitter": "https://twitter.com/mikehostetler",
 	"website": "http://mike-hostetler.com/",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Nuno Da Silva Donato": {
 	"name": "Nuno Da Silva Donato",
 	"github": "http://github.com/nunodonato",
 	"twitter": "https://twitter.com/nunodonato",
 	"website": "http://thebbthing.wordpress.com/",
-	"location": "Requires confirmation to release"
+	"loc_description": "Portugal",
+	"loc_coordinates": "o-9.150036,38.725300,0.000000"
     },
     "Peter Aldrian": {
 	"name": "Peter Aldrian",
 	"github": "http://github.com/paldrian",
 	"twitter": "https://twitter.com/mappau",
 	"website": "http://www.mappau.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Peter Hansen": {
 	"name": "Peter Hansen",
 	"github": "http://github.com/peter9477",
 	"twitter": "https://twitter.com/peter9477",
 	"website": "http://peterhansen.ca/",
-	"location": "Requires confirmation to release"
+	"loc_description": "Uxbridge, Ontario, Canada",
+	"loc_coordinates": "-79.120499,44.109402,0.000000"
     },
     "Peter Newhook": {
 	"name": "Peter Newhook",
 	"github": "http://github.com/pnewhook",
 	"twitter": "https://twitter.com/p337er",
 	"website": "https://peternewhook.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Toronto, ON, Canada",
+	"loc_coordinates": "-79.385323,43.648560,0.000000"
     },
     "Richard Joseph": {
 	"name": "Richard Joseph",
 	"github": "http://github.com/sixman9",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Rod Nolan": {
 	"name": "Rod Nolan",
 	"github": "http://github.com/rodnolan",
 	"twitter": "https://twitter.com/rodnolan",
 	"website": "http://www.newyyz.com",
-	"location": "Missisauga, Ontario, Canada"
+	"loc_description": "Missisauga, Ontario, Canada",
+	"loc_coordinates": "-79.644119,43.589046,0.000000"
     },
     "Roman Verhovšek": {
 	"name": "Roman Verhovšek",
 	"github": "http://github.com/sivko2",
 	"twitter": "https://twitter.com/sivko2",
 	"website": "http://blackberrydev.si",
-	"location": "Grosuplje, Slovenia"
+	"loc_description": "Grosuplje, Slovenia",
+	"loc_coordinates": "14.658899,45.955765,0.000000"
     },
     "Rory Craig-Barnes": {
 	"name": "Rory Craig-Barnes",
 	"github": "http://github.com/glasspear",
 	"twitter": "https://twitter.com/roryboy",
 	"website": "http://rorycraigbarnes.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Toronto, ON, Canada",
+	"loc_coordinates": "-79.385323,43.648560,0.000000"
     },
     "Ruo Jin YAN": {
 	"name": "Ruo Jin YAN",
 	"github": "http://github.com/john852",
-	"location": "Requires confirmation to release"
+	"loc_description": "Vancouver, BC, Canada",
+	"loc_coordinates": "-123.113930,49.261227,0.000000"
     },
     "Shane Cridlebaugh": {
 	"name": "Shane Cridlebaugh",
 	"github": "http://github.com/SCrid2000",
 	"twitter": "https://twitter.com/GShaneC",
 	"website": "http://www.opensourcebb.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Provo, Utah, USA",
+	"loc_coordinates": "-111.658531,40.233845,0.000000"
     },
     "Thomas Wolcott": {
 	"name": "Thomas Wolcott",
 	"github": "http://github.com/osbbx-ph03n1x",
 	"twitter": "https://twitter.com/ph03n1x",
 	"website": "http://www.opensourcebb.com/osbbx",
-	"location": "Requires confirmation to release"
+	"loc_description": "Brooklyn, New York, USA",
+	"loc_coordinates": "-73.949997,40.650002,0.000000"
     },
     "Timothy Costigan": {
 	"name": "Timothy Costigan",
 	"github": "http://github.com/costigt",
 	"twitter": "https://twitter.com/costigt",
 	"website": "http://www.timvelopment.com/",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Uwe Meier": {
 	"name": "Uwe Meier",
 	"github": "http://github.com/uwemeier",
 	"twitter": "https://twitter.com/mappau",
 	"website": "https://www.mappau.com",
-	"location": "Requires confirmation to release"
+	"loc_description": "Requires confirmation to release"
     },
     "Vincent Simonetti": {
 	"name": "Vincent Simonetti",
 	"github": "http://github.com/rcmaniac25",
 	"twitter": "https://twitter.com/rcmaniac25",
 	"website": "http://www.codeplex.com/site/users/view/rcmaniac25",
-	"location": "Requires confirmation to release"
+	"loc_description": "New York, New York, USA",
+	"loc_coordinates": "-74.005974,40.714352,0.000000"
     },
     "Wes Johnson": {
 	"name": "Wes Johnson",
 	"github": "http://github.com/sterlingwes",
 	"twitter": "https://twitter.com/sterlingwes",
 	"website": "http://wesquire.ca/",
-	"location": "Requires confirmation to release"
+	"loc_description": "Oakville, Ontario, Canada",
+	"loc_coordinates": "-79.683334,43.450001,0.000000"
+    },
+    "Willie Kwok": {
+	"name": "Willie Kwok",
+	"github": "http://github.com/williekwok",
+	"loc_description": "Vancouver, BC, Canada",
+	"loc_coordinates": "-123.113930,49.261227,0.000000"
     },
     "Ya Chuan ZHANG": {
 	"name": "Ya Chuan ZHANG",
 	"github": "http://github.com/windameister",
-	"location": "Requires confirmation to release",
+	"loc_description": "Requires confirmation to release",
     },
     "Yoshiaki NATSUME": {
 	"name": "Yoshiaki NATSUME",
 	"github": "http://github.com/natsumesou",
 	"twitter": "https://twitter.com/natsumesou",
 	"website": "http://natsu.me/",
-	"location": "Requires confirmation to release",
+	"loc_description": "Requires confirmation to release",
     }
 }

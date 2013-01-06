@@ -173,6 +173,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="http://wesquire.ca/">Wes Johnson</a>
 <span style="margin-left:4px"><a href="http://github.com/sterlingwes"><img src="images/github-favicon.png"/></a><a href="https://twitter.com/sterlingwes"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Willie Kwok
+<span style="margin-left:4px"><a href="http://github.com/williekwok"><img src="images/github-favicon.png"/></a></span>
+<br/>
  Ya Chuan ZHANG
 <span style="margin-left:4px"><a href="http://github.com/windameister"><img src="images/github-favicon.png"/></a><!-- <a href="https://twitter.com/natsumesou"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
