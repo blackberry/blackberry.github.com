@@ -119,7 +119,8 @@
 	"name": "Don Berzley",
 	"twitter": "https://twitter.com/blkscorp33",
 	"website": "http://opensourcebb.com",
-    "loc_description": "Requires confirmation to release",
+	"loc_description": "Kalamazoo, Michigan, USA",
+	"loc_coordinates": "-85.587227,42.291706,0.000000"
     },
     "Edaqa Mortoray": {
 	"name": "Edaqa Mortoray",
@@ -169,7 +170,8 @@
 	"github": "http://github.com/miamon",
 	"twitter": "https://twitter.com/miblackberry",
 	"website": "http://miblackberry.com",
-	"loc_description": "Requires confirmation to release"
+	"loc_description": "Vilanova i la Geltrú, Barcelona, Catalunya",
+	"loc_coordinates": "1.727446,41.215149,0.000000"
     },
     "Justin Tokarchuk": {
 	"name": "Justin Tokarchuk",
@@ -189,7 +191,8 @@
     "Hidaya SEKKAL": {
 	"name": "Hidaya SEKKAL",
 	"github": "http://github.com/sekkalhidaya",
-	"loc_description": "Requires confirmation to release"
+	"loc_description": "Ottawa, Ontario, Canada",
+	"loc_coordinates": "-75.697189,45.421532,0.000000"
     },
     "Karan Khiani": {
 	"name": "Karan Khiani",
@@ -366,7 +369,8 @@
 	"github": "http://github.com/costigt",
 	"twitter": "https://twitter.com/costigt",
 	"website": "http://www.timvelopment.com/",
-	"loc_description": "Requires confirmation to release"
+	"loc_description": "Dublin, Ireland",
+	"loc_coordinates": "-6.260082,53.349442,0.000000"
     },
     "Uwe Meier": {
 	"name": "Uwe Meier",
