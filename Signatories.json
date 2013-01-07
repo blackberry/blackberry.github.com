@@ -16,6 +16,13 @@
 	"loc_description": "Oshawa, ON, Canada",
 	"loc_coordinates": "-78.865791,43.897095,0.000000"
     },
+    "Alex Kwan": {
+	"name": "Alex Kwan",
+	"github": "http://github.com/alexkwan0",
+	"twitter": "https://twitter.com/greentea0",
+	"loc_description": "Burnaby, British Columbia, Canada",
+	"loc_coordinates": "-123.002579,49.229492,0.000000"
+    },
     "Andre Pura": {
 	"name": "Andre Pura",
 	"github": "http://github.com/andrepura",
