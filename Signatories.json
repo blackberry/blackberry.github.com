@@ -23,6 +23,12 @@
 	"loc_description": "Burnaby, British Columbia, Canada",
 	"loc_coordinates": "-123.002579,49.229492,0.000000"
     },
+    "Amritpal Multani": {
+	"name": "Amritpal Multani",
+	"github": "http://github.com/1ap1",
+	"loc_description": "Mississauga, Ontario, Canada",
+	"loc_coordinates": "-79.644119,43.589046,0.000000"
+    },
     "Andre Pura": {
 	"name": "Andre Pura",
 	"github": "http://github.com/andrepura",
