@@ -290,7 +290,14 @@
 	"twitter": "https://twitter.com/badtoyz",
 	"website": "https://badtoyz.tumblr.com",
 	"loc_description": "Barrie, Ontario, Canada",
-	"loc_coordinates": "o-79.701614,44.378090,0.000000"
+	"loc_coordinates": "-79.701614,44.378090,0.000000"
+    },
+    "Mihail Ivanchev": {
+	"name": "Mihail Ivanchev",
+	"github": "http://github.com/MIvanchev",
+	"twitter": "https://twitter.com/mi6x3m",
+	"loc_description": "Berlin, Germany",
+	"loc_coordinates": "13.406091,52.519173,0.000000"
     },
     "Mike Hostetler": {
 	"name": "Mike Hostetler",
