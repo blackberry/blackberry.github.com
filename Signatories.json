@@ -165,6 +165,12 @@
 	"loc_description": "Vancouver, BC, Canada",
 	"loc_coordinates": "-123.113930,49.261227,0.000000"
     },
+    "Hidaya SEKKAL": {
+	"name": "Hidaya SEKKAL",
+	"github": "sekkalhidaya",
+	"loc_description": "Ottawa, Ontario, Canada",
+	"loc_coordinates": "-75.697189,45.421532,0.000000"
+    },
     "Jeremy Duke": {
 	"name": "Jeremy Duke",
 	"twitter": "berryinformed",
@@ -201,12 +207,6 @@
 	"github": "lyricidal",
 	"twitter": "theiexplorers",
 	"website": "http://www.opensourcebb.com/osbbx",
-	"loc_description": "Ottawa, Ontario, Canada",
-	"loc_coordinates": "-75.697189,45.421532,0.000000"
-    },
-    "Hidaya SEKKAL": {
-	"name": "Hidaya SEKKAL",
-	"github": "sekkalhidaya",
 	"loc_description": "Ottawa, Ontario, Canada",
 	"loc_coordinates": "-75.697189,45.421532,0.000000"
     },
