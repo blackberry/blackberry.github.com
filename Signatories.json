@@ -81,7 +81,8 @@
 	"name": "Brandon Slack",
 	"github": "http://github.com/bslack",
 	"twitter": "https://twitter.com/bslack",
- 	"loc_description": "Requires confirmation to release"
+ 	"loc_description": "Etobicoke, Ontario, Canada",
+	"loc_coordinates": "-79.513199,43.620495,0.000000"
     },
     "Dave Johnson": {
 	"name": "Dave Johnson",
