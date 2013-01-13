@@ -80,6 +80,12 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  Filip Maj
 <span style="margin-left:4px"><a href="http://github.com/filmaj"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ Haixuan Chen
+<span style="margin-left:4px"><a href="http://github.com/haixuanc"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/haixuanc"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Hidaya SEKKAL
+<span style="margin-left:4px"><a href="http://github.com/sekkalhidaya"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a> --></span>
+<br/>
  <a href="http://opensourcebb.com">Jeremy Duke</a>
 <span style="margin-left:4px"><a href="http://twitter.com/berryinformed"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -94,9 +100,6 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <br/>
  <a href="http://www.opensourcebb.com/osbbx">Justin DaSilva</a>
 <span style="margin-left:4px"><a href="http://github.com/lyricidal"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/theiexplorers"><img src="images/twitter-bird-16x16.png"/></a></span>
-<br/>
- Hidaya SEKKAL
-<span style="margin-left:4px"><a href="http://github.com/sekkalhidaya"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a> --></span>
 <br/>
  <a href="http://escapekey.ca">Karan Khiani</a>
 <span style="margin-left:4px"><a href="http://github.com/karancan"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/jtokarchuk"><img src="images/twitter-bird-16x16.png"/></a>--></span>
@@ -127,6 +130,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <br/>
  <a href="http://www.michaeldabydeen.com">Michael Dabydeen</a>
 <span style="margin-left:4px"><a href="http://github.com/mdabydeen"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/firelinks"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Mihail Ivanchev
+<span style="margin-left:4px"><a href="http://github.com/MIvanchev"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mi6x3m"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://mike-hostetler.com/">Mike Hostetler</a>
 <span style="margin-left:4px"><a href="http://github.com/mikehostetler"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mikehostetler"><img src="images/twitter-bird-16x16.png"/></a></span>
