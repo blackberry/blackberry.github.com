@@ -23,6 +23,12 @@
 	"loc_description": "Burnaby, British Columbia, Canada",
 	"loc_coordinates": "-123.002579,49.229492,0.000000"
     },
+    "Alex Mednis": {
+	"name": "Alex Mednis",
+	"github": "subnez",
+	"loc_description": "Sydney, NSW, Australia",
+	"loc_coordinates": "151.206985,-33.867489,0.000000"
+    },
     "Amritpal Multani": {
 	"name": "Amritpal Multani",
 	"github": "1ap1",
@@ -40,7 +46,8 @@
     "Andy (Xiang) WU": {
 	"name": "Andy (Xiang) WU",
 	"github": "andywu89",
-	"loc_description": "Requires confirmation to release"
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
     },
     "Angel Sanchez Morales": {
 	"name": "Angel Sanchez Morales",
@@ -53,7 +60,8 @@
     "Arman Fallah": {
 	"name": "Arman Fallah",
 	"github": "starpax",
-	"loc_description": "Requires confirmation to release"
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
     },
     "Arturo Linares": {
 	"name": "Arturo Linares",
@@ -89,13 +97,15 @@
 	"github": "davejohnson",
 	"twitter": "davejohnson",
 	"website": "http://nullisnotanobject.com",
-	"loc_description": "Requires confirmation to release"
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
     },
     "David Clarke": {
 	"name": "David Clarke",
 	"github": "xandOr",
 	"twitter": "xandOr",
-	"loc_description": "Requires confirmation to release"
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
     },
     "David Guimard": {
 	"name": "David Guimard",
@@ -142,7 +152,8 @@
 	"github": "mortoray",
 	"twitter": "edaqa",
 	"website": "http://mortoray.com",
-	"loc_description": "Requires confirmation to release"
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
     },
     "Evgeny Yurchenko": {
 	"name": "Evgeny Yurchenko",
@@ -229,7 +240,7 @@
 	"github": "kariem2k",
 	"twitter": "kariem2k",
 	"website": "http://kariem2k.blogspot.ca",
-	"loc_description": "Requires confirmation to release",
+	"loc_description": "TBD",
 	"loc_coordinates": "TBD"
     },
     "Karl Quinsland": {
@@ -274,7 +285,7 @@
 	"github": "maklesoft",
 	"twitter": "maklesoft",
 	"website": "http://MaKleSoft.com",
-	"loc_description": "Requires confirmation to release",
+	"loc_description": "TBD",
 	"loc_coordinates": "TBD"
     },
     "Michael Brooks": {
@@ -282,7 +293,7 @@
 	"github": "mwbrooks",
 	"twitter": "mwbrooks",
 	"website": "http://michaelbrooks.ca",
-	"loc_description": "Requires confirmation to release",
+	"loc_description": "TBD",
 	"loc_coordinates": "TBD"
     },
     "Michael Dabydeen": {
@@ -292,6 +303,12 @@
 	"website": "http://www.michaeldabydeen.com",
 	"loc_description": "Brampton, Ontario, Canada",
 	"loc_coordinates": "-79.766670,43.683334,0.000000"
+    },
+    "Michael Delong": {
+	"name": "Michael Delong",
+	"github": "mdelong",
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
     },
     "Michael Robinson": {
 	"name": "Michael Robinson",
@@ -313,7 +330,7 @@
 	"github": "mikehostetler",
 	"twitter": "mikehostetler",
 	"website": "http://mike-hostetler.com/",
-	"loc_description": "Requires confirmation to release",
+	"loc_description": "TBD",
 	"loc_coordinates": "TBD"
     },
     "Nuno Da Silva Donato": {
@@ -441,7 +458,7 @@
     "Ya Chuan ZHANG": {
 	"name": "Ya Chuan ZHANG",
 	"github": "windameister",
-	"loc_description": "Requires confirmation to release",
+	"loc_description": "TBD",
 	"loc_coordinates": "TBD"
     },
     "Yoshiaki NATSUME": {
@@ -449,7 +466,7 @@
 	"github": "natsumesou",
 	"twitter": "natsumesou",
 	"website": "http://natsu.me/",
-	"loc_description": "Requires confirmation to release",
+	"loc_description": "TBD",
 	"loc_coordinates": "TBD"
     }
 }
