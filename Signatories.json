@@ -23,6 +23,12 @@
 	"loc_description": "Burnaby, British Columbia, Canada",
 	"loc_coordinates": "-123.002579,49.229492,0.000000"
     },
+    "Alex Mednis": {
+	"name": "Alex Mednis",
+	"github": "subnez",
+	"loc_description": "Sydney, NSW, Australia",
+	"loc_coordinates": "151.206985,-33.867489,0.000000"
+    },
     "Amritpal Multani": {
 	"name": "Amritpal Multani",
 	"github": "1ap1",
