@@ -71,6 +71,14 @@
 	"loc_description": "Corregidora, Querétaro, Mexico",
 	"loc_coordinates": "-100.441101,20.536591,0.000000"
     },
+        "Ashish Kumar": {
+	"name": "Ashish Kumar",
+	"github": "ashii007",
+	"twitter": "kumar_ashish",
+	"website": "http://www.AshishKumar.Org",
+	"loc_description": "Minneapolis, MN, USA",
+	"loc_coordinates": "-93.266667,44.983333,0.000000"
+    },
     "Bob Cripps": {
 	"name": "Bob Cripps",
 	"github": "bobcripps",
