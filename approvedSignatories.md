@@ -41,6 +41,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="http://arturolinar.es/">Arturo Linares</a>
 <span style="margin-left:4px"><a href="http://github.com/arturolinares"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/arturo_linares"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://www.ashishkumar.org">Ashish Kumar</a>
+<span style="margin-left:4px"><a href="http://github.com/ashii007"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/ashii007"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Bob Cripps
 <span style="margin-left:4px"><a href="http://github.com/bobcripps"><img src="images/github-favicon.png"/></a></span>
 <br/>
