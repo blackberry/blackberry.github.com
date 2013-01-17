@@ -176,6 +176,12 @@
 	"loc_description": "Vancouver, BC, Canada",
 	"loc_coordinates": "-123.113930,49.261227,0.000000"
     },
+    "Frederico Silva": {
+	"name": "Frederico Silva",
+	"github": "fredericosilva",
+	"loc_description": "Lisbon, Portugal",
+	"loc_coordinates": "-9.150036,38.725300,0.000000"
+    },
     "Haixuan Chen": {
 	"name": "Haixuan Chen",
 	"github": "haixuanc",

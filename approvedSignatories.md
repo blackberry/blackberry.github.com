@@ -83,6 +83,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  Filip Maj
 <span style="margin-left:4px"><a href="http://github.com/filmaj"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ Frederico Silva
+<span style="margin-left:4px"><a href="http://github.com/fredericosilva"><img src="images/github-favicon.png"/></a></span>
+<br/>
  Haixuan Chen
 <span style="margin-left:4px"><a href="http://github.com/haixuanc"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/haixuanc"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
