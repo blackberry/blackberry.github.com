@@ -53,6 +53,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  Brandon Slack
 <span style="margin-left:4px"><a href="http://github.com/bslack"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/bslack"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://cesarpachon.com">Cesar Pachon</a>
+<span style="margin-left:4px"><a href="http://github.com/cesarpachon"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/cesarpachon"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://nullisnotanobject.com">Dave Johnson</a>
 <span style="margin-left:4px"><a href="http://github.com/davejohnson"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/davejohnson"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>

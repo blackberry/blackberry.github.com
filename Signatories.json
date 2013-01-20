@@ -100,6 +100,13 @@
  	"loc_description": "Etobicoke, Ontario, Canada",
 	"loc_coordinates": "-79.513199,43.620495,0.000000"
     },
+    "Cesar Pachon": {
+	"name": "Cesar Pachon",
+	"github": "cesarpachon",
+	"twitter": "cesarpachon",
+ 	"loc_description": "Socorro, Santander, Colombia",
+	"loc_coordinates": "-73.265663,6.460415,0.000000"
+    },
     "Dave Johnson": {
 	"name": "Dave Johnson",
 	"github": "davejohnson",
