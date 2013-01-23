@@ -362,6 +362,13 @@
 	"loc_description": "Portugal",
 	"loc_coordinates": "-9.150036,38.725300,0.000000"
     },
+    "Panutat (Jimmy) Tejasen": {
+	"name": "Panutat (Jimmy) Tejasen",
+	"github": "mozeal",
+	"twitter": "mozeal",
+	"loc_description": "Chiang Mai, Thailand",
+	"loc_coordinates": "98.660057,18.796465,0.000000"
+    },
     "Peter Aldrian": {
 	"name": "Peter Aldrian",
 	"github": "paldrian",
