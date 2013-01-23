@@ -261,8 +261,8 @@
 	"github": "kariem2k",
 	"twitter": "kariem2k",
 	"website": "http://kariem2k.blogspot.ca",
-	"loc_description": "TBD",
-	"loc_coordinates": "TBD"
+	"loc_description": "Oldham, UK",
+	"loc_coordinates": "-2.118732,53.544544,0.000000"
     },
     "Karl Quinsland": {
 	"name": "Karl Quinsland",
@@ -361,6 +361,13 @@
 	"website": "http://thebbthing.wordpress.com/",
 	"loc_description": "Portugal",
 	"loc_coordinates": "-9.150036,38.725300,0.000000"
+    },
+    "Panutat (Jimmy) Tejasen": {
+	"name": "Panutat (Jimmy) Tejasen",
+	"github": "mozeal",
+	"twitter": "mozeal",
+	"loc_description": "Chiang Mai, Thailand",
+	"loc_coordinates": "98.660057,18.796465,0.000000"
     },
     "Peter Aldrian": {
 	"name": "Peter Aldrian",
