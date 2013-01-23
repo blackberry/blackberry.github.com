@@ -158,6 +158,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="http://thebbthing.wordpress.com/">Nuno Da Silva Donato</a>
 <span style="margin-left:4px"><a href="http://github.com/nunodonato"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/nunodonato"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Panutat (Jimmy) Tejasen
+<span style="margin-left:4px"><a href="http://github.com/mozeal"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mozeal"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://www.mappau.com">Peter Aldrian</a>
 <span style="margin-left:4px"><a href="http://github.com/paldrian"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
