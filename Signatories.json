@@ -429,6 +429,14 @@
 	"loc_description": "Vancouver, BC, Canada",
 	"loc_coordinates": "-123.113930,49.261227,0.000000"
     },
+    "Sacha Refshauge": {
+	"name": "Sacha Refshauge",
+	"github": "xsacha",
+	"twitter": "QtnessDev",
+	"website": "http://www.qtness.com",
+	"loc_description": "Brisbane, Queensland, Australia",
+	"loc_coordinates": "153.023453,-27.471010,0.000000"
+    },
     "Shane Cridlebaugh": {
 	"name": "Shane Cridlebaugh",
 	"github": "SCrid2000",
