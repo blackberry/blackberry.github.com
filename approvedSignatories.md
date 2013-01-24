@@ -185,6 +185,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  Ruo Jin YAN
 <span style="margin-left:4px"><a href="http://github.com/john852"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a> --></span>
 <br/>
+ <a href="http://www.qtness.com">Sacha Refshauge</a>
+<span style="margin-left:4px"><a href="http://github.com/xsacha"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/QtnessDev"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://www.opensourcebb.com">Shane Cridlebaugh</a>
 <span style="margin-left:4px"><a href="http://github.com/SCrid2000"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/GShaneC"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
