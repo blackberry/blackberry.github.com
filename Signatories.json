@@ -1,5 +1,5 @@
 {
-    "Full_Name": {
+    "_comment_": {
 	"name": "legal name",
 	"github": "GitHub id",
 	"twitter": "Twitter id (optional)",
@@ -158,7 +158,7 @@
 	"name": "Don Berzley",
 	"twitter": "blkscorp33",
 	"website": "http://opensourcebb.com",
-	"github": "BlackScorpion3"
+	"github": "BlackScorpion3",
 	"loc_description": "Kalamazoo, Michigan, USA",
 	"loc_coordinates": "-85.587227,42.291706,0.000000"
     },
@@ -299,7 +299,7 @@
 	"github": "Muerl",
 	"twitter": "muerl",
 	"loc_description": "Boston, MA, USA",
-	"loc_coordinates": "-71.059776,42.358433,0.000000",
+	"loc_coordinates": "-71.059776,42.358433,0.000000"
     },
     "Martin Kleinschrodt": {
 	"name": "Martin Kleinschrodt",

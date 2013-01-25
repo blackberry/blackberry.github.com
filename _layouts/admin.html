@@ -1,0 +1,71 @@
+{% assign base-url = site.baseurl %}
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>{{ page.title }}</title>
+		<link id="stylesheet" href="{{ base-url }}/css/admin-github.css"
+		      rel="stylesheet" type="text/css"></link>
+{% if page.jsfile != "" %}
+		<link id="stylesheet" href="{{ base-url }}/css/jquery.tablesorter.theme/style.css"
+		      rel="stylesheet" type="text/css"></link>
+		<link id="stylesheet" href="{{ base-url }}/css/tooltip.css"
+		      rel="stylesheet" type="text/css"></link>
+{% endif %}
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<script type="text/javascript">
+
+			function logoClick() {
+				document.location = 'http://' + document.location.host;
+			}
+
+		</script>
+{% if page.jsfile != "" %}
+		<script src="{{ base-url }}/js/jquery-1.7.2.js" type="text/javascript"></script>
+		<script src="{{ base-url }}/js/jquery.tablesorter.js"></script>
+		<script src="{{ base-url }}/js/jquery.url.js"></script>
+		<script src="{{ base-url }}/js/{{ page.jsfile }}" type="text/javascript"></script>
+
+{% endif %}
+<!-- Start of Google Analytics code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28534102-2']);
+  _gaq.push(['_setDomainName', 'github.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End of Google Analytics code -->
+	</head>
+	<body>
+		<div id="header_wrap">
+		  <div id="header">
+			  <p id="blackberry-logo"><img src="{{ base-url }}/images/admin-logo.png" alt="BlackBerry" /> Community Wiki</p>
+			  <a id="github-logo" href="#"><img src="{{ base-url }}/images/admin-github-logo.png" alt="Github" /></a>
+		  </div>
+		</div>
+
+		<div id="wrapper">
+			<div id="content">
+				  <h1>{{ page.title }}</h1>
+
+				  <div id="contentbody">
+				  {{ content }}
+				  </div>
+
+				  <p id="copyright" style="font-size: 8.5pt; text-align: center;">Copyright 1999-2011 Research In Motion Limited. 295 Phillip Street, Waterloo, Ontario, Canada, N2L 3W8. All Rights Reserved.</p>
+			</div>
+			
+			
+		</div>
+
+	</body>
+</html>
