@@ -1,0 +1,84 @@
+/* Simple Tooltip code.  Since I'm a total noob on CSS, I borrowed it from
+ * http://www.davidjrush.com/blog/2011/12/simple-jquery-tooltip
+ */
+
+/* Style the question mark and the warning */
+span.question, span.warning {
+  cursor: pointer;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  color: White;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 8px;
+  text-align: center;
+  position: relative;
+}
+span.question {
+  background-color: #89A4CC;
+}
+span.warning {
+  background-color: #F05959;
+}
+span.question:hover, span.warning:hover {
+  background-color: #3D6199;
+}
+/* Right and Left Tooltip */
+div.tooltip, div.tooltipLeft {
+  background-color: #3D6199;
+  color: White;
+  position: absolute;
+  top: -25px;
+  z-index: 1000000;
+  width: 250px;
+  border-radius: 5px;
+}
+div.tooltip {
+ left: 25px;
+}
+div.tooltipLeft {
+  left: -260px;
+}
+div.tooltip:before, div.tooltipLeft:before {
+  border-right: 6px solid #3D6199;
+  border-style: solid;
+  content: "";
+  display: block;
+  height: 0;
+  width: 0;
+  line-height: 0;
+  position: absolute;
+  top: 40%;
+}
+div.tooltip:before {
+  border-color: transparent #3D6199 transparent transparent;
+  border-width: 6px 6px 6px 0px;
+  left: -6px;
+}
+div.tooltipLeft:before {
+  border-color: transparent transparent transparent #3D6199;
+  border-width: 6px 6px 6px 6px;
+  right: -12px;
+}
+div.tooltip p, div.tooltipLeft p {
+  margin: 10px;
+  color: White;
+}
+div.tooltip a:link, div.tooltipLeft a:link {
+  color: #ffeeaa;
+  background: #3D6199;
+}
+div.tooltip a:active, div.tooltipLeft a:active {
+  color: #ffeeaa;
+  background: #3D6199;
+}
+div.tooltip a:visited, div.tooltipLeft a:visited {
+  color: #ffeeaa;
+  background: #3D6199;
+}
+div.tooltip a:hover, div.tooltipLeft a:hover {
+  color: #ffeeaa;
+  background: #3D6199;
+}
