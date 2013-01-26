@@ -8,7 +8,7 @@ layout: default
 This page lists the persons and companies who have signed and submitted [Contributor Agreement](howToContribute.html) forms to Research In Motion.
 
 ### Research In Motion Contributor Agreement Signatories
-The Research In Motion Contributor Agreement covers contributions to all RIM open source projects, not just BlackBerry WebWorks. All Research In Motion Contributor Agreement signatories are listed below (also see the [JSON file](Signatories.json)).
+The Research In Motion Contributor Agreement covers contributions to all RIM open source projects, not just BlackBerry WebWorks. All Research In Motion Contributor Agreement signatories are listed below.
 
 ## Individuals
 
@@ -28,6 +28,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <br/>
  <a href="http://www.mappau.com">Andre Pura</a>
 <span style="margin-left:4px"><a href="http://github.com/andrepura"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ <a href="http://www.dreamfarmgames.com">Andrew Karpushin</a>
+<span style="margin-left:4px"><a href="http://github.com/reven86"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/reven86"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  Andy (Xiang) WU
 <span style="margin-left:4px"><a href="http://github.com/andywu89"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a>--></span>
@@ -103,6 +106,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <br/>
  <a href="http://kisailabs.com">Jerome Carty</a>
 <span style="margin-left:4px"><a href="github.com/jcarty"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/jcarty"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ <a href="http://johnbrandle.com">John Brandle</a>
+<span style="margin-left:4px"><a href="http://github.com/jhonbrandle"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/jhnbrndl"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://miblackberry.com">Josep Maria Herrando</a>
 <span style="margin-left:4px"><a href="http://github.com/miamon"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/miblackberry"><img src="images/twitter-bird-16x16.png"/></a></span>

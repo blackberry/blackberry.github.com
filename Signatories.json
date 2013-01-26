@@ -1,5 +1,5 @@
 {
-    "Full_Name": {
+    "_comment_": {
 	"name": "legal name",
 	"github": "GitHub id",
 	"twitter": "Twitter id (optional)",
@@ -42,6 +42,14 @@
 	"website": "http://www.mappau.com",
 	"loc_description": "Graz, Austria",
 	"loc_coordinates": "15.439504,47.070713,0.000000"
+    },
+    "Andrew Karpushin": {
+	"name": "Andrew Karpushin",
+	"github": "reven86",
+	"twitter": "reven86",
+	"website": "http://www.dreamfarmgames.com",
+	"loc_description": "Voronezh, Russian Federation",
+	"loc_coordinates": "39.187557,51.655998,0.000000"
     },
     "Andy (Xiang) WU": {
 	"name": "Andy (Xiang) WU",
@@ -158,7 +166,7 @@
 	"name": "Don Berzley",
 	"twitter": "blkscorp33",
 	"website": "http://opensourcebb.com",
-	"github": "BlackScorpion3"
+	"github": "BlackScorpion3",
 	"loc_description": "Kalamazoo, Michigan, USA",
 	"loc_coordinates": "-85.587227,42.291706,0.000000"
     },
@@ -224,6 +232,14 @@
 	"website": "http://kisailabs.com",
 	"loc_description": "Queens, NY, USA",
 	"loc_coordinates": "-73.794853,40.728226,0.000000"
+    },
+    "John Brandle": {
+	"name": "John Brandle",
+	"github": "johnbrandle",
+	"twitter": "jhnbrndl",
+	"website": "http://johnbrandle.com",
+	"loc_description": "Mariposa, California, USA",
+	"loc_coordinates": "-119.966286,37.484940,0.000000"
     },
     "Josep Maria Herrando": {
 	"name": "Josep Maria Herrando",
@@ -299,7 +315,7 @@
 	"github": "Muerl",
 	"twitter": "muerl",
 	"loc_description": "Boston, MA, USA",
-	"loc_coordinates": "-71.059776,42.358433,0.000000",
+	"loc_coordinates": "-71.059776,42.358433,0.000000"
     },
     "Martin Kleinschrodt": {
 	"name": "Martin Kleinschrodt",
