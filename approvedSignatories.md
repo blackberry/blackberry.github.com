@@ -29,6 +29,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
  <a href="http://www.mappau.com">Andre Pura</a>
 <span style="margin-left:4px"><a href="http://github.com/andrepura"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://www.dreamfarmgames.com">Andrew Karpushin</a>
+<span style="margin-left:4px"><a href="http://github.com/reven86"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/reven86"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Andy (Xiang) WU
 <span style="margin-left:4px"><a href="http://github.com/andywu89"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
