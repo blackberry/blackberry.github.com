@@ -233,6 +233,14 @@
 	"loc_description": "Queens, NY, USA",
 	"loc_coordinates": "-73.794853,40.728226,0.000000"
     },
+    "John Brandle": {
+	"name": "John Brandle",
+	"github": "johnbrandle",
+	"twitter": "jhnbrndl",
+	"website": "http://johnbrandle.com",
+	"loc_description": "Mariposa, California, USA",
+	"loc_coordinates": "-119.966286,37.484940,0.000000"
+    },
     "Josep Maria Herrando": {
 	"name": "Josep Maria Herrando",
 	"github": "miamon",
