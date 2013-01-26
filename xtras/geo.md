@@ -17,6 +17,7 @@ sharing their geographic information.
 </p>
 
 ### Index
+* [raw JSON file](../Signatories.json)
 * [Contributors Table](#geoTable)
 * [Contributors KML](#geoKML)
 
