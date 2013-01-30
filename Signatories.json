@@ -162,6 +162,14 @@
 	"loc_description": "San Jose, California, USA",
 	"loc_coordinates": "-121.894958,37.339386,0.000000"
     },
+    "Dmitry Kichenko": {
+	"name": "Dmitry Kichenko",
+	"github": "dmkc",
+	"twitter": "imissjuno",
+	"website": "http://ohnotaga.in",
+	"loc_description": "Toronto, ON, Canada",
+	"loc_coordinates": "-79.385323,43.648560,0.000000"
+    },
     "Don Berzley": {
 	"name": "Don Berzley",
 	"twitter": "blkscorp33",
@@ -169,6 +177,14 @@
 	"github": "BlackScorpion3",
 	"loc_description": "Kalamazoo, Michigan, USA",
 	"loc_coordinates": "-85.587227,42.291706,0.000000"
+    },
+    "Dustin Steiner": {
+	"name": "Dustin Steiner",
+	"twitter": "alopix",
+	"website": "http://dev.alopix.net",
+	"github": "alopix",
+	"loc_description": "Weißenbach bei Liezen, Austria",
+	"loc_coordinates": "14.202092,47.572796,0.000000"
     },
     "Edaqa Mortoray": {
 	"name": "Edaqa Mortoray",
@@ -224,6 +240,12 @@
 	"website": "http://opensourcebb.com",
 	"loc_description": "Auburn, Alabama, USA",
 	"loc_coordinates": "-105.996094,33.431442,0.000000"
+    },
+    "Jeremy Karlson": {
+	"name": "Jeremy Karlson",
+	"github": "germinator",
+	"loc_description": "Vancouver, BC, Canada",
+	"loc_coordinates": "-123.113930,49.261227,0.000000"
     },
     "Jerome Carty": {
 	"name": "Jerome Carty",
@@ -309,6 +331,13 @@
 	"twitter": "dineenma",
 	"loc_description": "Kitchener, Ontario, Canada",
 	"loc_coordinates": "-80.477745,43.434311,0.000000"
+    },
+    "Matt Lewandowsky": {
+	"name": "Matt Lewandowsky",
+	"github": "lewellyn",
+	"twitter": "lewellyn",
+	"loc_description": "San Mateo, California, USA",
+	"loc_coordinates": "-122.325523,37.562992,0.000000"
     },
     "Matthew Haag": {
 	"name": "Matthew Haag",
