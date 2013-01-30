@@ -225,6 +225,12 @@
 	"loc_description": "Auburn, Alabama, USA",
 	"loc_coordinates": "-105.996094,33.431442,0.000000"
     },
+    "Jeremy Karlson": {
+	"name": "Jeremy Karlson",
+	"github": "germinator",
+	"loc_description": "Vancouver, BC, Canada",
+	"loc_coordinates": "-123.113930,49.261227,0.000000"
+    },
     "Jerome Carty": {
 	"name": "Jerome Carty",
 	"github": "jcarty",

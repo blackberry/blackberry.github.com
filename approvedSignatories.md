@@ -7,10 +7,10 @@ layout: default
 
 This page lists the persons and companies who have signed and submitted [Contributor Agreement](howToContribute.html) forms to Research In Motion.
 
-### Research In Motion Contributor Agreement Signatories
 The Research In Motion Contributor Agreement covers contributions to all RIM open source projects, not just BlackBerry WebWorks. All Research In Motion Contributor Agreement signatories are listed below.
 
 ## Individuals
+Most members have also agreed to share their [approximate location](http://blackberry.github.com/geomap).
 
 <!-- pull requests with better HTML gratefully accepted -->
 <div id="col3">
@@ -78,7 +78,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <span style="margin-left:4px"><a href="http://github.com/dkonigsberg"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/dkonigs"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://opensourcebb.com">Don Berzley</a>
-<span style="margin-left:4px"><a href="http://twitter.com/blkscorp33"><img src="images/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/BlackScorpion3"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/blkscorp33"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://mortoray.com">Edaqa Mortoray</a>
 <span style="margin-left:4px"><a href="http://github.com/mortoray"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/edaqa"><img src="images/twitter-bird-16x16.png"/></a></span>
@@ -103,6 +103,9 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <br/>
  <a href="http://opensourcebb.com">Jeremy Duke</a>
 <span style="margin-left:4px"><a href="http://twitter.com/berryinformed"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Jeremy Karlson
+<span style="margin-left:4px"><a href="http://github.com/germinator"><img src="images/github-favicon.png"/></a></span>
 <br/>
  <a href="http://kisailabs.com">Jerome Carty</a>
 <span style="margin-left:4px"><a href="github.com/jcarty"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/jcarty"><img src="images/twitter-bird-16x16.png"/></a></span>
