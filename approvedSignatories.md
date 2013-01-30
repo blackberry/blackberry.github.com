@@ -143,6 +143,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://TBD">Mark Dineen</a>
 <span style="margin-left:4px"><a href="http://github.com/mdineen"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/dineenma"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://greenviolet.net">Matt Lewandowsky</a>
+<span style="margin-left:4px"><a href="http://github.com/lewellyn"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/lewellyn"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Matthew Haag
 <span style="margin-left:4px"><a href="http://github.com/Muerl"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/muerl"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>

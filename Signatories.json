@@ -324,6 +324,13 @@
 	"loc_description": "Kitchener, Ontario, Canada",
 	"loc_coordinates": "-80.477745,43.434311,0.000000"
     },
+    "Matt Lewandowsky": {
+	"name": "Matt Lewandowsky",
+	"github": "lewellyn",
+	"twitter": "lewellyn",
+	"loc_description": "San Mateo, California, USA",
+	"loc_coordinates": "-122.325523,37.562992,0.000000"
+    },
     "Matthew Haag": {
 	"name": "Matthew Haag",
 	"github": "Muerl",
