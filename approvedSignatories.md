@@ -83,6 +83,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://opensourcebb.com">Don Berzley</a>
 <span style="margin-left:4px"><a href="http://github.com/BlackScorpion3"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/blkscorp33"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://dev.alopix.net">Dustin Steiner</a>
+<span style="margin-left:4px"><a href="http://github.com/alopix"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/alopix"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://mortoray.com">Edaqa Mortoray</a>
 <span style="margin-left:4px"><a href="http://github.com/mortoray"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/edaqa"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>

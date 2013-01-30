@@ -178,6 +178,14 @@
 	"loc_description": "Kalamazoo, Michigan, USA",
 	"loc_coordinates": "-85.587227,42.291706,0.000000"
     },
+    "Dustin Steiner": {
+	"name": "Dustin Steiner",
+	"twitter": "alopix",
+	"website": "http://dev.alopix.net",
+	"github": "alopix",
+	"loc_description": "Weißenbach bei Liezen, Austria",
+	"loc_coordinates": "14.202092,47.572796,0.000000"
+    },
     "Edaqa Mortoray": {
 	"name": "Edaqa Mortoray",
 	"github": "mortoray",
