@@ -162,6 +162,14 @@
 	"loc_description": "San Jose, California, USA",
 	"loc_coordinates": "-121.894958,37.339386,0.000000"
     },
+    "Dmitry Kichenko": {
+	"name": "Dmitry Kichenko",
+	"github": "dmkc",
+	"twitter": "imissjuno",
+	"website": "http://ohnotaga.in",
+	"loc_description": "Toronto, ON, Canada",
+	"loc_coordinates": "-79.385323,43.648560,0.000000"
+    },
     "Don Berzley": {
 	"name": "Don Berzley",
 	"twitter": "blkscorp33",
