@@ -59,6 +59,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://cesarpachon.com">Cesar Pachon</a>
 <span style="margin-left:4px"><a href="http://github.com/cesarpachon"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/cesarpachon"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://daniellucas.net/blackberry">Daniel Lucas</a>
+<span style="margin-left:4px"><a href="http://github.com/daniellucas"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/dlcunha"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://nullisnotanobject.com">Dave Johnson</a>
 <span style="margin-left:4px"><a href="http://github.com/davejohnson"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/davejohnson"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -188,6 +191,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://peternewhook.com">Peter Newhook</a>
 <span style="margin-left:4px"><a href="http://github.com/pnewhook"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/p337er"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://blog.rachelbrindle.com">Rachel Brindle</a>
+<span style="margin-left:4px"><a href="http://github.com/younata"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/younata"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Richard Joseph
 <span style="margin-left:4px"><a href="http://github.com/sixman9"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
@@ -226,6 +232,9 @@ Most members have also agreed to share their [approximate location](http://black
 <br/>
  Willie Kwok
 <span style="margin-left:4px"><a href="http://github.com/williekwok"><img src="images/github-favicon.png"/></a></span>
+<br/>
+ <a href="http://www.xitijpatel.com">Xitij Patel</a>
+<span style="margin-left:4px"><a href="http://github.com/HorizonXP"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/xitijpatel"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  Ya Chuan ZHANG
 <span style="margin-left:4px"><a href="http://github.com/windameister"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/natsumesou"><img src="images/twitter-bird-16x16.png"/></a>--></span>
