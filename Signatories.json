@@ -115,6 +115,14 @@
  	"loc_description": "Socorro, Santander, Colombia",
 	"loc_coordinates": "-73.265663,6.460415,0.000000"
     },
+    "Daniel Lucas": {
+	"name": "Daniel Lucas",
+	"github": "daniellucas",
+	"twitter": "dlcunha",
+	"website": "http://daniellucas.net/blackberry",
+	"loc_description": "Natal, Rio Grande do Norte, Brazil",
+	"loc_coordinates": "-35.210953,-5.794478,0.000000"
+    },
     "Dave Johnson": {
 	"name": "Dave Johnson",
 	"github": "davejohnson",
@@ -444,6 +452,14 @@
 	"loc_description": "Leicestershire, England (UK)",
 	"loc_coordinates": "-1.140592,52.740124,0.000000"
     },
+    "Rachel Brindle": {
+	"name": "Rachel Brindle",
+	"github": "younata",
+	"twitter": "younata",
+	"website": "http://blog.rachelbrindle.com",
+	"loc_description": "San Jose, California, USA",
+	"loc_coordinates": "-121.894958,37.339386,0.000000"
+    },
     "Rod Nolan": {
 	"name": "Rod Nolan",
 	"github": "rodnolan",
@@ -535,6 +551,14 @@
 	"github": "williekwok",
 	"loc_description": "Vancouver, BC, Canada",
 	"loc_coordinates": "-123.113930,49.261227,0.000000"
+    },
+    "Xitij Patel": {
+	"name": "Xitij Patel",
+	"github": "HorizonXP",
+	"twitter": "xitijpatel",
+	"website": "www.xitijpatel.com",
+	"loc_description": "Brampton, Ontario, Canada",
+	"loc_coordinates": "-79.766670,43.683334,0.000000"
     },
     "Ya Chuan ZHANG": {
 	"name": "Ya Chuan ZHANG",
