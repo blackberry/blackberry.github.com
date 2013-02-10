@@ -85,9 +85,9 @@ layout: default
   <td style="text-align:center"><a href="https://github.com/blackberry/WebGL-Samples/contributors">See List</a></td>
   </tr>
   <tr>  
-    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/jQuery-Mobile-Samples" target="_blank">jQuery-Mobile-Samples</a></td>
+    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/jQueryMobile-Samples" target="_blank">jQueryMobile-Samples</a></td>
     <td>Samples to be used in the jQuery Mobile Cookbook project</td>
-  <td style="text-align:center"><a href="https://github.com/blackberry/jQuery-Mobile-Samples/contributors">See List</a></td>
+  <td style="text-align:center"><a href="https://github.com/blackberry/jQueryMobile-Samples/contributors">See List</a></td>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/PictureWall" target="_blank">PictureWall</a></td>
