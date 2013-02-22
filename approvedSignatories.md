@@ -83,6 +83,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://ohnotaga.in">Dmitry Kichenko</a>
 <span style="margin-left:4px"><a href="http://github.com/dmkc"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/imissjuno"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://sanoweb.eu">Dirk-Jan Mollema</a>
+<span style="margin-left:4px"><a href="http://github.com/gtoniser"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/GtoNiseR"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://opensourcebb.com">Don Berzley</a>
 <span style="margin-left:4px"><a href="http://github.com/BlackScorpion3"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/blkscorp33"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
