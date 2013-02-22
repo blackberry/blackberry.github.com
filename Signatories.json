@@ -236,6 +236,14 @@
 	"loc_description": "Burnaby, British Columbia, Canada",
 	"loc_coordinates": "-123.002579,49.229492,0.000000"
     },
+    "Hendrik Jan Mollema": {
+	"name": "Hendrik Jan (Dirk-Jan) Mollema",
+	"github": "gtoniser",
+	"twitter": "GtoNiseR",
+	"website": "http://sanoweb.eu",
+	"loc_description": "Delft, The Netherlands",
+	"loc_coordinates": "4.360515,52.009506,0.000000"
+    },
     "Hidaya SEKKAL": {
 	"name": "Hidaya SEKKAL",
 	"github": "sekkalhidaya",
