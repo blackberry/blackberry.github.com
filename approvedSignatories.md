@@ -7,7 +7,7 @@ layout: default
 
 This page lists the persons and companies who have signed and submitted [Contributor Agreement](howToContribute.html) forms to Research In Motion.
 
-The Research In Motion Contributor Agreement covers contributions to all RIM open source projects, not just BlackBerry WebWorks. All Research In Motion Contributor Agreement signatories are listed below.
+The Research In Motion Contributor Agreement covers contributions to all BlackBerry open source projects, not just BlackBerry WebWorks. All Research In Motion Contributor Agreement signatories are listed below.
 
 ## Individuals
 Most members have also agreed to share their [approximate location](http://blackberry.github.com/geomap).

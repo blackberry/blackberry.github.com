@@ -3,9 +3,9 @@ title: BlackBerry Open Source
 layout: default
 ---
 
-# Research In Motion at GitHub
+# BlackBerry at GitHub
 
-This is the official main website for [RIM](http://rim.com) projects at GitHub.
+This is the official main website for [BlackBerry](http://blackberry.com) projects at GitHub.
 
 ## Catalogs
 
@@ -40,25 +40,25 @@ and
 ## Types of Projects
 
 Projects in the BlackBerry Organization at GitHub fall into one of the following categories:
-*RIM-led Projects* or *RIM-sponsored Projects*.
+*BlackBerry-led Projects* or *BlackBerry-sponsored Projects*.
 
-**Rim-Led Projects** - These are projects for which RIM sets the direction,
+**BlackBerry-Led Projects** - These are projects for which BlackBerry sets the direction,
 assigning the technical leader, allocating development resources and driving decisions like
 the release schedule and key features.
 Development in these projects is transparent, and we [welcome contributions](howToContribute.html).
 
-**RIM-Sponsored Projects** - These are non-RIM-led Open Source projects in which RIM participates actively.
+**BlackBerry-Sponsored Projects** - These are non-BlackBerry-led Open Source projects in which BlackBerry participates actively.
 Some projects are transient; for instance, after completing a port and upstreaming the changes,
 a project may just point to the upstream community.
 
-The majority of Rim-led projects are licensed under ASL2
+The majority of BlackBerry-led projects are licensed under ASL2
 ([wikipedia](http://en.wikipedia.org/wiki/Apache_Software_License), [Apache](http://www.apache.org/licenses/));
-but some may use other licenses like LGPL or MIT.  The license in Rim-sponsored projects vary depending
+but some may use other licenses like LGPL or MIT.  The license in BlackBerry-sponsored projects vary depending
 on their goal; for instance porting projects will follow the same license as their upstream communities.
 
 ### Other Open Source Projects
 
-In addition to projects at GitHub, RIM also actively participate in a number of other Open Source Projects, including:
+In addition to projects at GitHub, BlackBerry also actively participate in a number of other Open Source Projects, including:
 * [Webkit](http://webkit.org)
 * [Apache Cordova](http://incubator.apache.org/cordova/)
 * [Qt Project](http://qt-project.org/)
@@ -68,7 +68,7 @@ In addition to projects at GitHub, RIM also actively participate in a number of 
 
 We are in the process of defining the exact role that
 the [Community Wiki](http://blackberry.github.com/Community/Community_Wiki.html) will play in documenting these projects.
-Currently, most of the desdcription of the RIM-led projects is kept in these pages and in the repository projects
+Currently, most of the desdcription of the BlackBerry-led projects is kept in these pages and in the repository projects
 directly.
 
 Using WebWorks as an example:
