@@ -514,6 +514,14 @@
 	"loc_description": "Provo, Utah, USA",
 	"loc_coordinates": "-111.658531,40.233845,0.000000"
     },
+    "Steven Kader": {
+	"name": "Steven Kader",
+	"github": "jaredco",
+	"twitter": "stevenkader",
+	"website": "http://jaredco.com",
+	"loc_description": "Montreal, Quebec, Canada",
+	"loc_coordinates": "-73.553993,45.508671,0.000000"
+    },
     "Thomas Wolcott": {
 	"name": "Thomas Wolcott",
 	"github": "osbbx-ph03n1x",

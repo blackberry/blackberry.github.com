@@ -218,6 +218,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://www.opensourcebb.com">Shane Cridlebaugh</a>
 <span style="margin-left:4px"><a href="http://github.com/SCrid2000"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/GShaneC"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://jaredco.com">Steven Kader</a>
+<span style="margin-left:4px"><a href="http://github.com/jaredco"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/stevenkader"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://www.opensourcebb.com/osbbx">Thomas Wolcott</a>
 <span style="margin-left:4px"><a href="http://github.com/osbbx-ph03n1x"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/ph03n1x"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
