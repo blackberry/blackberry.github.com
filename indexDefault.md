@@ -5,26 +5,26 @@ layout: default
 
 # Research In Motion at GitHub
 
-Welcome to the home for [RIM](http://rim.com) projects at GitHub.
+Welcome to the home for [BlackBerry](http://blackberry.com) projects at GitHub.
 
 The first repository in this [organization](https://github.com/blog/674-introducing-organizations) was [WebWorks](https://github.com/blackberry/WebWorks/commit/1a7373cb155756fb6be7ccce893d6d790ec10abf), created during [DevCon 2010](http://devblog.blackberry.com/2010/09/blackberry-webworks-and-the-open-source-community/).  Since then we have added six more repositories covering runtimes, tools, documentation, and code samples and we expect more projects to follow.
 For the latest, and an archive of older, news, check [here](news); also see the official [BlackBerry DevBlog](http://devblog.blackberry.com/).
 
 Projects fall into one of the following categories:
 
-**RIM-led Projects** - In these projects:
+**BlackBerry-led Projects** - In these projects:
 
-* The overal direction of the project is under RIM leadership,
-* RIM assigns a _technical lead_ to represent it in the project,
-* RIM assigns several of its engineers to contribute to the project.
-* We welcome and encourage participation from non-RIM employees at any level.
+* The overal direction of the project is under BlackBerry leadership,
+* BlackBerry assigns a _technical lead_ to represent it in the project,
+* BlackBerry assigns several of its engineers to contribute to the project.
+* We welcome and encourage participation from non-BlackBerry employees at any level.
 * The majority (all so far) of the projects are licensed under ASL2 ([wikipedia](http://en.wikipedia.org/wiki/Apache_Software_License), [Apache](http://www.apache.org/licenses/)).
 * We strive to operate transparently
 
-Participation details at [How to Contribute](howToContribute.html).  Note that contributions from non-RIM employees require an agreement like at ASF: [CCLA](http://www.blackberry.com/legal/pdfs/webworks/Research_In_Motion_Limited_CCLA_021811_cl.pdf), [ICLA](http://www.blackberry.com/legal/pdfs/webworks/Research_In_Motion_Limited_ICLA_021811_cl.pdf).
+Participation details at [How to Contribute](howToContribute.html).  Note that contributions from non-BlackBerry employees require an agreement like at ASF: [CCLA](http://www.blackberry.com/legal/pdfs/webworks/Research_In_Motion_Limited_CCLA_021811_cl.pdf), [ICLA](http://www.blackberry.com/legal/pdfs/webworks/Research_In_Motion_Limited_ICLA_021811_cl.pdf).
 
 
-**RIM-Sponsored Projects** - These are non-RIM-led Open Source projects in which RIM participates actively.  In general RIM will participate in the relevant open source community, but some projects may also be listed here for several reasons.  More information on this category shortly.
+**BlackBerry-Sponsored Projects** - These are non-BlackBerry-led Open Source projects in which BlackBerry participates actively.  In general BlackBerry will participate in the relevant open source community, but some projects may also be listed here for several reasons.  More information on this category shortly.
 
 ## A Tour through a Project
 
@@ -44,9 +44,9 @@ Projects are encouraged to maintain information in these pages.  Using WebWorks 
 * [WebWorks](http://github.com/blackberry/WebWorks) - The runtime for the BlackBerry OS Platform.
 * [WebWorks-TabletOS](http://github.com/blackberry/WebWorks-TabletOS) - The runtime for the QNX-based BlackBerry Tablet OS Platform.
 * [WebWorks-API-Docs](https://github.com/blackberry/WebWorks-API-Docs) - The official API documentation.
-* [WebWorks-Samples](https://github.com/blackberry/WebWorks-Samples) - RIM and Community-provided samples for WebWorks.
+* [WebWorks-Samples](https://github.com/blackberry/WebWorks-Samples) - BlackBerry and Community-provided samples for WebWorks.
 * [bbUI.js](https://github.com/blackberry/bbUI.js) - BlackBerry UI Look and Feel JavaScript toolkit for WebWorks.
-* [WebWorks-Community-APIs](http://github.com/blackberry/WebWorks-Community-APIs) - New APIs, contributed by RIM and the Community, that could be considered for move to the official APIs.
+* [WebWorks-Community-APIs](http://github.com/blackberry/WebWorks-Community-APIs) - New APIs, contributed by BlackBerry and the Community, that could be considered for move to the official APIs.
 
 ### Ripple Emulator
 
@@ -59,10 +59,10 @@ Projects are encouraged to maintain information in these pages.  Using WebWorks 
 
 ### WebKit
 
-* [WebKit-SmartPhone](https://github.com/blackberry/WebKit-Smartphone) - RIM contributions to WebKit for BlackBerry Smartphones.
-* [WebKit-PlayBook](https://github.com/blackberry/WebKit-PlayBook) - RIM contributions to WebKit for BlackBerry PlayBook.
+* [WebKit-SmartPhone](https://github.com/blackberry/WebKit-Smartphone) - BlackBerry contributions to WebKit for BlackBerry Smartphones.
+* [WebKit-PlayBook](https://github.com/blackberry/WebKit-PlayBook) - BlackBerry contributions to WebKit for BlackBerry PlayBook.
 
-WebWorks, Ripple, and Alice are RIM-led projects.  These repositories are the "master" repositories.
+WebWorks, Ripple, and Alice are BlackBerry-led projects.  These repositories are the "master" repositories.
 WebKit is maintained by the [WebKit.org](http://webkit.org) community.
 
 ### Native
