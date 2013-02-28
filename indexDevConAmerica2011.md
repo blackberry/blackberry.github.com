@@ -5,15 +5,15 @@ layout: default
 
 # Announcing the Native Open Source Components Initiative
 
-(Oct 18th, 2011) Today [Research in Motion](http://rim.com) announced its Native Open Source Components Initiative at DevCon 2011 America.
-As part of this initiative, RIM is contributing initial ports
+(Oct 18th, 2011) Today [BlackBerry](http://blackberry.com) announced its Native Open Source Components Initiative at DevCon 2011 America.
+As part of this initiative, BlackBerry is contributing initial ports
 of commonly used Open Source Libraries and Games to the QNX-based BlackBerry&copy; Tablet OS,
 to be used in conjuction with the
 [BlackBerry Native SDK for Tablet OS](http://developer.blackberry.com/native) (NDK).
-Following this release, RIM will collaborate with the existing open source communities to
+Following this release, BlackBerry will collaborate with the existing open source communities to
 incorporate these changes into the upstream repositories.
 
-RIM is also releasing under an Open Source license some new convenience libraries and frameworks and some samples that show how
+BlackBerry is also releasing under an Open Source license some new convenience libraries and frameworks and some samples that show how
 to use all this components to create applications for the BlackBerry&copy; PlayBook.
 
 These components extend an already very comprehensive list of [libraries available with Tablet OS](http://developer.blackberry.com/native/documentation/com.qnx.doc.native_sdk.devguide/com.qnx.doc.native_sdk.devguide/topic/libraries.html).

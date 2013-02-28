@@ -6,12 +6,12 @@ layout: default
 # Welcome to GDC 2012
 
 (March 7th, 2012) Welcome to the [Game Developers Conference](http://gdconf.com).
-RIM is an sponsor, has a booth at the Expo (#1909),
+BlackBerry is an sponsor, has a booth at the Expo (#1909),
 and also has
 [several sessions](http://devblog.blackberry.com/2012/03/game-developers-conference-2012).
 
 Our Open Source projects are a key part of the sessions.
-Some of the repos you will encounter at RIM's sessions at GDC include:
+Some of the repos you will encounter at BlackBerry's sessions at GDC include:
 
 * [GamePlay](http://github.com/blackberry/gameplay) - our cross-platform 3D native gaming framework,
 * [NDK-Samples](http://github.com/blackberry/NDK-Samples) - showing the capabilities of the Native PlayBook platform, including social gaming using BBM and Scoreloop,
