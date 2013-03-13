@@ -143,6 +143,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://karlquinsland.com">Karl Quinsland</a>
 <span style="margin-left:4px"><a href="http://github.com/kquinsland"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/kquinsland"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
+ Krzystof Hofman
+<span style="margin-left:4px"><a href="http://github.com/krzystof-hofman"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a>--></span>
+<br/>
  <a href="http://www.opensourcebb.com/osbbx">Lloyd Summers</a>
 <span style="margin-left:4px"><a href="http://github.com/KermEd"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/kerm_ed"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
