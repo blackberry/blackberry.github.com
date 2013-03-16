@@ -185,6 +185,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://thebbthing.wordpress.com/">Nuno Da Silva Donato</a>
 <span style="margin-left:4px"><a href="http://github.com/nunodonato"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/nunodonato"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://r0ly.fr">Olivier Gonthier</a>
+<span style="margin-left:4px"><a href="http://github.com/OlivierGonthier"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/rolios"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Panutat (Jimmy) Tejasen
 <span style="margin-left:4px"><a href="http://github.com/mozeal"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mozeal"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
