@@ -429,6 +429,13 @@
 	"loc_description": "Portugal",
 	"loc_coordinates": "-9.150036,38.725300,0.000000"
     },
+    "Olivier Gonthier": {
+	"name": "Olivier Gonthier",
+	"github": "OlivierGonthier",
+	"twitter": "rolios",
+	"loc_description": "Paris, France",
+	"loc_coordinates": "2.352222,48.856613,0.000000"
+    },
     "Panutat (Jimmy) Tejasen": {
 	"name": "Panutat (Jimmy) Tejasen",
 	"github": "mozeal",
