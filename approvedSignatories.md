@@ -305,13 +305,18 @@ Most members have also agreed to share their [approximate location](http://black
 <table>
   <tr>
     <td>
-     <a href="http://mappau.com" target="_blank" style="text-decoration:none; font-size: 200%; margin-top: 80px;">mappau OG</a>
+     <a href="http://mappau.com" target="_blank" style="text-decoration:none; font-size: 200%; line-height: 1.8;">mappau OG</a>
     </td>
     <!-- Andre Pura, Peter Aldrian, Uwe Meier -->
    </tr>
   <tr>
     <td>
-     <a href="http://truphone.com" target="_blank"><img src="../images/truphone-logo-invert.png" width="160" style="margin-top: 40px"></a>
+     <a href="http://truphone.com" target="_blank"><img src="../images/truphone-logo-invert.png" width="160" style="margin-top: 30px"></a>
+    </td>
+   </tr>
+  <tr>
+    <td>
+     <a href="http://zenika.com" target="_blank"><img src="../images/logo_zenika.png" width="160" style="margin-top: 20px"></a>
     </td>
    </tr>
 </table>
