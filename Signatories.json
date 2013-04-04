@@ -467,12 +467,6 @@
 	"loc_description": "Toronto, ON, Canada",
 	"loc_coordinates": "-79.385323,43.648560,0.000000"
     },
-    "Richard Joseph": {
-	"name": "Richard Joseph",
-	"github": "sixman9",
-	"loc_description": "Leicestershire, England (UK)",
-	"loc_coordinates": "-1.140592,52.740124,0.000000"
-    },
     "Rachel Brindle": {
 	"name": "Rachel Brindle",
 	"github": "younata",
@@ -480,6 +474,19 @@
 	"website": "http://blog.rachelbrindle.com",
 	"loc_description": "San Jose, California, USA",
 	"loc_coordinates": "-121.894958,37.339386,0.000000"
+    },
+    "Richard Joseph": {
+	"name": "Richard Joseph",
+	"github": "sixman9",
+	"loc_description": "Leicestershire, England (UK)",
+	"loc_coordinates": "-1.140592,52.740124,0.000000"
+    },
+    "Robert Paskowitz": {
+	"name": "Robert Paskowitz",
+	"github": "rpaskowitz",
+	"twitter": "rpaskowitz",
+	"loc_description": "Toronto, ON, Canada",
+	"loc_coordinates": "-79.385323,43.648560,0.000000"
     },
     "Rod Nolan": {
 	"name": "Rod Nolan",
