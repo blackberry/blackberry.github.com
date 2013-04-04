@@ -206,6 +206,9 @@ Most members have also agreed to share their [approximate location](http://black
  Richard Joseph
 <span style="margin-left:4px"><a href="http://github.com/sixman9"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
+ Robert Paskowitz
+<span style="margin-left:4px"><a href="http://github.com/rpaskowitz"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/rpaskowitz"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://www.newyyz.com">Rod Nolan</a>
 <span style="margin-left:4px"><a href="http://github.com/rodnolan"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/rodnolan"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
