@@ -16,6 +16,13 @@
 	"loc_description": "Oshawa, ON, Canada",
 	"loc_coordinates": "-78.865791,43.897095,0.000000"
     },
+    "Ahmed El Naggar": {
+	"name": "Ahmed El Naggar",
+	"github": "ahmsayat",
+        "twitter": "ahmsayat",
+	"loc_description": "Hurghada, Egypt",
+	"loc_coordinates": "33.811607,27.257896,0.000000"
+    },
     "Alex Kwan": {
 	"name": "Alex Kwan",
 	"github": "alexkwan0",
@@ -229,6 +236,13 @@
 	"loc_description": "Lisbon, Portugal",
 	"loc_coordinates": "-9.150036,38.725300,0.000000"
     },
+    "George McKinney": {
+	"name": "George McKinney",
+	"github": "georgemck",
+        "twitter": "georgemck",
+	"loc_description": "Los Angeles, California",
+	"loc_coordinates": "-118.243683,34.052235,0.000000"
+    },
     "Haixuan Chen": {
 	"name": "Haixuan Chen",
 	"github": "haixuanc",
@@ -346,6 +360,13 @@
 	"website": "http://blogplay.eu",
 	"loc_description": "Gliwice, Poland",
 	"loc_coordinates": "18.671379,50.294491,0.000000"
+    },
+    "Marc Plano-Lesay": {
+	"name": "Marc Plano-Lesay",
+	"github": "marcpl31",
+        "twitter": "kernald",
+	"loc_description": "Toulouse, France",
+	"loc_coordinates": "1.444209,43.604652,0.000000"
     },
     "Mark Dineen": {
 	"name": "Mark Dineen",
@@ -534,6 +555,13 @@
 	"loc_description": "Provo, Utah, USA",
 	"loc_coordinates": "-111.658531,40.233845,0.000000"
     },
+    "Simon Booth": {
+	"name": "Simon Booth",
+	"github": "peardox",
+        "twitter": "peardox",
+	"loc_description": "Manchester, UK",
+	"loc_coordinates": "-2.247926,53.479252,0.000000"
+    },
     "Steven Kader": {
 	"name": "Steven Kader",
 	"github": "jaredco",
@@ -557,6 +585,13 @@
 	"website": "http://www.timvelopment.com/",
 	"loc_description": "Dublin, Ireland",
 	"loc_coordinates": "-6.260082,53.349442,0.000000"
+    },
+    "Ustun Ergenoglu": {
+	"name": "Üstün Ergenoglu",
+	"github": "rgngl",
+        "twitter": "rgngl",
+	"loc_description": "Espoo, Finland",
+	"loc_coordinates": "24.655899,60.205490,0.000000"
     },
     "Uwe Meier": {
 	"name": "Uwe Meier",

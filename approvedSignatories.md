@@ -17,6 +17,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://adamw523.com">Adam Wisniewski</a>
 <span style="margin-left:4px"><a href="http://github.com/adamw523"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/adamw523"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://itmagic.tk">Ahmed El Naggar</a>
+<span style="margin-left:4px"><a href="http://github.com/ahmsayat"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/ahmsayat"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Alex Kwan
 <span style="margin-left:4px"><a href="http://github.com/alexkwan0"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/greentea0"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -107,6 +110,9 @@ Most members have also agreed to share their [approximate location](http://black
  Frederico Silva
 <span style="margin-left:4px"><a href="http://github.com/fredericosilva"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ <a href="http://www.georgemckinney.com">George McKinney</a>
+<span style="margin-left:4px"><a href="http://github.com/georgemck"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/georgemck"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Haixuan Chen
 <span style="margin-left:4px"><a href="http://github.com/haixuanc"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/haixuanc"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -151,6 +157,9 @@ Most members have also agreed to share their [approximate location](http://black
 <br/>
  <a href="http://blogplay.eu">Lukasz Dzierzak</a>
 <span style="margin-left:4px"><a href="http://github.com/ddluk"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/ddluk"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Marc Plano-Lesay
+<span style="margin-left:4px"><a href="http://github.com/marcpl31"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/marcpl31"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://TBD">Mark Dineen</a>
 <span style="margin-left:4px"><a href="http://github.com/mdineen"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/dineenma"><img src="images/twitter-bird-16x16.png"/></a></span>
@@ -227,6 +236,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://www.opensourcebb.com">Shane Cridlebaugh</a>
 <span style="margin-left:4px"><a href="http://github.com/SCrid2000"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/GShaneC"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Simon Booth
+<span style="margin-left:4px"><a href="http://github.com/peardox"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/peardox"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://jaredco.com">Steven Kader</a>
 <span style="margin-left:4px"><a href="http://github.com/jaredco"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/stevenkader"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -235,6 +247,9 @@ Most members have also agreed to share their [approximate location](http://black
 <br/>
  <a href="http://www.timvelopment.com/">Timothy Costigan</a>
 <span style="margin-left:4px"><a href="http://github.com/costigt"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/costigt"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ <a href="http://ustun.fi">Üstün Ergenoglu</a>
+<span style="margin-left:4px"><a href="http://github.com/rgngl"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/rgngl"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://www.mappau.com">Uwe Meier</a>
 <span style="margin-left:4px"><a href="http://github.com/uwemeier"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
