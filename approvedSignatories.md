@@ -248,7 +248,7 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://www.timvelopment.com/">Timothy Costigan</a>
 <span style="margin-left:4px"><a href="http://github.com/costigt"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/costigt"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
- <a href="http://ustun.fi">Üstün Ergenoglu</a>
+ <a href="http://ustun.fi">Ustun Ergenoglu</a>
 <span style="margin-left:4px"><a href="http://github.com/rgngl"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/rgngl"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://www.mappau.com">Uwe Meier</a>
