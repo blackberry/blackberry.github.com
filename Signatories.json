@@ -586,6 +586,13 @@
 	"loc_description": "Dublin, Ireland",
 	"loc_coordinates": "-6.260082,53.349442,0.000000"
     },
+    "Tolga Yilmaz": {
+	"name": "Tolga Yilmaz",
+	"github": "tolgamyth",
+	"twitter": "yilmaz_tolga",
+	"loc_description": "Ankara, Turkey",
+	"loc_coordinates": "32.854111,39.920769,0.000000"
+    },
     "Ustun Ergenoglu": {
 	"name": "Üstün Ergenoglu",
 	"github": "rgngl",
