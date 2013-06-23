@@ -131,6 +131,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://johnbrandle.com">John Brandle</a>
 <span style="margin-left:4px"><a href="http://github.com/jhonbrandle"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/jhnbrndl"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Jonathan Frazer
+<span style="margin-left:4px"><a href="http://github.com/listedegarde"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/listedegarde"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://miblackberry.com">Josep Maria Herrando</a>
 <span style="margin-left:4px"><a href="http://github.com/miamon"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/miblackberry"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
