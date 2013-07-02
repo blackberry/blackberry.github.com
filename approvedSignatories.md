@@ -26,6 +26,9 @@ Most members have also agreed to share their [approximate location](http://black
  Alex Mednis
 <span style="margin-left:4px"><a href="http://github.com/subnez"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ Alexander Devaykin
+<span style="margin-left:4px"><a href="http://github.com/xwaffelx"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/xaxellx"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Amritpal Multani
 <span style="margin-left:4px"><a href="http://github.com/1ap1"><img src="images/github-favicon.png"/></a></span>
 <br/>
