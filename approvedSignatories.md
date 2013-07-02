@@ -56,11 +56,11 @@ Most members have also agreed to share their [approximate location](http://black
  Bob Cripps
 <span style="margin-left:4px"><a href="http://github.com/bobcripps"><img src="images/github-favicon.png"/></a></span>
 <br/>
- <a href="http://bbcascadescode.tumblr.com/">Brian Scheirer</a>
-<span style="margin-left:4px"><a href="http://github.com/bcs925"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/BrianScheirer"><img src="images/twitter-bird-16x16.png"/></a></span>
-<br/>
  Brandon Slack
 <span style="margin-left:4px"><a href="http://github.com/bslack"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/bslack"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ <a href="http://bbcascadescode.tumblr.com/">Brian Scheirer</a>
+<span style="margin-left:4px"><a href="http://github.com/bcs925"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/BrianScheirer"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://cesarpachon.com">Cesar Pachon</a>
 <span style="margin-left:4px"><a href="http://github.com/cesarpachon"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/cesarpachon"><img src="images/twitter-bird-16x16.png"/></a></span>
@@ -86,11 +86,11 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://hecgeek.blogspot.com">Derek Konigsberg</a>
 <span style="margin-left:4px"><a href="http://github.com/dkonigsberg"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/dkonigs"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
- <a href="http://ohnotaga.in">Dmitry Kichenko</a>
-<span style="margin-left:4px"><a href="http://github.com/dmkc"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/imissjuno"><img src="images/twitter-bird-16x16.png"/></a></span>
-<br/>
  <a href="http://sanoweb.eu">Dirk-Jan Mollema</a>
 <span style="margin-left:4px"><a href="http://github.com/gtoniser"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/GtoNiseR"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ <a href="http://ohnotaga.in">Dmitry Kichenko</a>
+<span style="margin-left:4px"><a href="http://github.com/dmkc"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/imissjuno"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://opensourcebb.com">Don Berzley</a>
 <span style="margin-left:4px"><a href="http://github.com/BlackScorpion3"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/blkscorp33"><img src="images/twitter-bird-16x16.png"/></a></span>
@@ -101,11 +101,11 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://mortoray.com">Edaqa Mortoray</a>
 <span style="margin-left:4px"><a href="http://github.com/mortoray"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/edaqa"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
- Evgeny Yurchenko
-<span style="margin-left:4px"><a href="http://github.com/BGmot"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/evgenyyurchenko"><img src="images/twitter-bird-16x16.png"/></a></span>
-<br/>
  <a href="http://opensourcebb.com">Ekke Gentz</a>
 <span style="margin-left:4px"><a href="http://github.com/ekke"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/ekkescorner"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Evgeny Yurchenko
+<span style="margin-left:4px"><a href="http://github.com/BGmot"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/evgenyyurchenko"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  Filip Maj
 <span style="margin-left:4px"><a href="http://github.com/filmaj"><img src="images/github-favicon.png"/></a></span>
@@ -140,11 +140,11 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://miblackberry.com">Josep Maria Herrando</a>
 <span style="margin-left:4px"><a href="http://github.com/miamon"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/miblackberry"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
- <a href="http://jtdev.blogspot.ca">Justin Tokarchuk</a>
-<span style="margin-left:4px"><a href="http://github.com/jtokarchuk"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/jtokarchuk"><img src="images/twitter-bird-16x16.png"/></a></span>
-<br/>
  <a href="http://www.opensourcebb.com/osbbx">Justin DaSilva</a>
 <span style="margin-left:4px"><a href="http://github.com/lyricidal"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/theiexplorers"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ <a href="http://jtdev.blogspot.ca">Justin Tokarchuk</a>
+<span style="margin-left:4px"><a href="http://github.com/jtokarchuk"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/jtokarchuk"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://escapekey.ca">Karan Khiani</a>
 <span style="margin-left:4px"><a href="http://github.com/karancan"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/jtokarchuk"><img src="images/twitter-bird-16x16.png"/></a>--></span>
@@ -170,14 +170,14 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://TBD">Mark Dineen</a>
 <span style="margin-left:4px"><a href="http://github.com/mdineen"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/dineenma"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://MaKleSoft.com">Martin Kleinschrodt</a>
+<span style="margin-left:4px"><a href="http://github.com/maklesoft"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/maklesoft"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://greenviolet.net">Matt Lewandowsky</a>
 <span style="margin-left:4px"><a href="http://github.com/lewellyn"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/lewellyn"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  Matthew Haag
 <span style="margin-left:4px"><a href="http://github.com/Muerl"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/muerl"><img src="images/twitter-bird-16x16.png"/></a></span>
-<br/>
- <a href="http://MaKleSoft.com">Martin Kleinschrodt</a>
-<span style="margin-left:4px"><a href="http://github.com/maklesoft"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/maklesoft"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://michaelbrooks.ca">Michael Brooks</a>
 <span style="margin-left:4px"><a href="http://github.com/mwbrooks"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mwbrooks"><img src="images/twitter-bird-16x16.png"/></a></span>
@@ -188,14 +188,14 @@ Most members have also agreed to share their [approximate location](http://black
  Michael Delong
 <span style="margin-left:4px"><a href="http://github.com/mdelong"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ <a href="http://badtoyz.tumblr.com">Michael Robinson</a>
+<span style="margin-left:4px"><a href="http://github.com/badtoyz"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/badtoyz"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Mihail Ivanchev
 <span style="margin-left:4px"><a href="http://github.com/MIvanchev"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mi6x3m"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://mike-hostetler.com/">Mike Hostetler</a>
 <span style="margin-left:4px"><a href="http://github.com/mikehostetler"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mikehostetler"><img src="images/twitter-bird-16x16.png"/></a></span>
-<br/>
- <a href="http://badtoyz.tumblr.com">Michael Robinson</a>
-<span style="margin-left:4px"><a href="http://github.com/badtoyz"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/badtoyz"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://thebbthing.wordpress.com/">Nuno Da Silva Donato</a>
 <span style="margin-left:4px"><a href="http://github.com/nunodonato"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/nunodonato"><img src="images/twitter-bird-16x16.png"/></a></span>
