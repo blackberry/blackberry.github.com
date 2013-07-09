@@ -101,6 +101,12 @@
 	"loc_description": "Minneapolis, Minnesota, USA",
 	"loc_coordinates": "-93.266670,44.983334,0.000000"
     },
+    "Benjamin Bromberg": {
+	"name": "Benjamin Bromberg",
+	"github": "bpbromberg",
+	"loc_description": "Cambridge, MA, USA",
+	"loc_coordinates": "-71.109734,42.373615,0.000000"
+    },
     "Bob Cripps": {
 	"name": "Bob Cripps",
 	"github": "bobcripps",
