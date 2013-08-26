@@ -284,12 +284,12 @@
 	"loc_description": "Ottawa, Ontario, Canada",
 	"loc_coordinates": "-75.697189,45.421532,0.000000"
     },
-    "Jonathan Frazer": {
-	"name": "Jonathan Frazer",
-	"twitter": "listedegarde",
-	"github": "listedegarde",
-	"loc_description": "Sherbrooke, Quebec, Canada",
-	"loc_coordinates": "-71.882431,45.400993,0.000000"
+    "Jakub Nietrzeba": {
+	"name": "Jakub Nietrzeba",
+	"github": "gluth",
+	"website": "http://nietrzeba.pl",
+	"loc_description": "Rzeszow, Poland",
+	"loc_coordinates": "21.999281,50.040947,0.000000"
     },
     "Jeremy Duke": {
 	"name": "Jeremy Duke",
@@ -319,6 +319,13 @@
 	"website": "http://johnbrandle.com",
 	"loc_description": "Mariposa, California, USA",
 	"loc_coordinates": "-119.966286,37.484940,0.000000"
+    },
+    "Jonathan Frazer": {
+	"name": "Jonathan Frazer",
+	"twitter": "listedegarde",
+	"github": "listedegarde",
+	"loc_description": "Sherbrooke, Quebec, Canada",
+	"loc_coordinates": "-71.882431,45.400993,0.000000"
     },
     "Josep Maria Herrando": {
 	"name": "Josep Maria Herrando",
