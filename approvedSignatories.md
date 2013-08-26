@@ -65,6 +65,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://bbcascadescode.tumblr.com/">Brian Scheirer</a>
 <span style="margin-left:4px"><a href="http://github.com/bcs925"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/BrianScheirer"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://wallwizz.com">Caner Altinbasak</a>
+<span style="margin-left:4px"><a href="http://github.com/caneraltinbasak"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/caltinbasak"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://cesarpachon.com">Cesar Pachon</a>
 <span style="margin-left:4px"><a href="http://github.com/cesarpachon"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/cesarpachon"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
