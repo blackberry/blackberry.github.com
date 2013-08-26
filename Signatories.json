@@ -128,6 +128,13 @@
  	"loc_description": "Etobicoke, Ontario, Canada",
 	"loc_coordinates": "-79.513199,43.620495,0.000000"
     },
+    "Caner Altinbasak": {
+	"name": "Caner Altinbasak",
+	"github": "caneraltinbasak",
+	"twitter": "caltinbasak",
+ 	"loc_description": "Cambridge, UK",
+	"loc_coordinates": "0.121817,52.205338,0.000000"
+    },
     "Cesar Pachon": {
 	"name": "Cesar Pachon",
 	"github": "cesarpachon",
