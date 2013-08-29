@@ -409,6 +409,14 @@
 	"loc_description": "Kitchener, Ontario, Canada",
 	"loc_coordinates": "-80.477745,43.434311,0.000000"
     },
+    "Martin Kleinschrodt": {
+	"name": "Martin Kleinschrodt",
+	"github": "maklesoft",
+	"twitter": "maklesoft",
+	"website": "http://MaKleSoft.com",
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
+    },
     "Matt Lewandowsky": {
 	"name": "Matt Lewandowsky",
 	"github": "lewellyn",
@@ -423,13 +431,11 @@
 	"loc_description": "Boston, MA, USA",
 	"loc_coordinates": "-71.059776,42.358433,0.000000"
     },
-    "Martin Kleinschrodt": {
-	"name": "Martin Kleinschrodt",
-	"github": "maklesoft",
-	"twitter": "maklesoft",
-	"website": "http://MaKleSoft.com",
-	"loc_description": "TBD",
-	"loc_coordinates": "TBD"
+    "Merrick ZHANG": {
+	"name": "Merrick ZHANG",
+	"github": "anphorea",
+	"loc_description": "Yangzhou City, Jiangsu, China",
+	"loc_coordinates": "119.412964,32.394211,0.000000"
     },
     "Michael Brooks": {
 	"name": "Michael Brooks",
