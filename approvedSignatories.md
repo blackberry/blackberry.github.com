@@ -192,7 +192,7 @@ Most members have also agreed to share their [approximate location](http://black
 <span style="margin-left:4px"><a href="http://github.com/mwbrooks"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mwbrooks"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  Merrick ZHANG
-<span style="margin-left:4px"><a href="http://github.com/anphorea"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/mwbrooks"><img src="images/twitter-bird-16x16.png"/></a> --></span>
+<span style="margin-left:4px"><a href="http://github.com/anphorea"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/anpho"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://www.michaeldabydeen.com">Michael Dabydeen</a>
 <span style="margin-left:4px"><a href="http://github.com/mdabydeen"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/firelinks"><img src="images/twitter-bird-16x16.png"/></a></span>
