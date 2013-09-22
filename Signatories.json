@@ -36,6 +36,12 @@
 	"loc_description": "Sydney, NSW, Australia",
 	"loc_coordinates": "151.206985,-33.867489,0.000000"
     },
+    "Alex Tough": {
+	"name": "Alex Tough",
+	"github": "alextoughg",
+	"loc_description": "Scarborough, ON, Canada",
+	"loc_coordinates": "-79.231750,43.776424,0.000000"
+    },
     "Alexander Devaykin": {
 	"name": "Alexander Devaykin",
 	"github": "xwaffelx",
@@ -101,6 +107,12 @@
 	"loc_description": "Minneapolis, Minnesota, USA",
 	"loc_coordinates": "-93.266670,44.983334,0.000000"
     },
+    "Ben Irving": {
+	"name": "Ben Irving",
+	"github": "jammin250",
+	"loc_description": "Nelson, BC, Canada",
+	"loc_coordinates": "-117.294830,49.492813,0.000000"
+    },
     "Benjamin Bromberg": {
 	"name": "Benjamin Bromberg",
 	"github": "bpbromberg",
@@ -141,6 +153,18 @@
 	"twitter": "cesarpachon",
  	"loc_description": "Socorro, Santander, Colombia",
 	"loc_coordinates": "-73.265663,6.460415,0.000000"
+    },
+    "Chris Holland": {
+	"name": "Chris Holland",
+	"github": "TBD",
+ 	"loc_description": "Fullerton, CA, USA",
+	"loc_coordinates": "TBD"
+    },
+    "Daniel Dressler": {
+	"name": "Daniel Dressler",
+	"github": "daniel-dressler",
+	"loc_description": "Calgary, Alberta, Canada",
+	"loc_coordinates": "-114.058098,51.045326,0.000000"
     },
     "Daniel Lucas": {
 	"name": "Daniel Lucas",
