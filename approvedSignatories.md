@@ -26,6 +26,9 @@ Most members have also agreed to share their [approximate location](http://black
  Alex Mednis
 <span style="margin-left:4px"><a href="http://github.com/subnez"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ Alex Tough
+<span style="margin-left:4px"><a href="http://github.com/alextoughg"><img src="images/github-favicon.png"/></a></span>
+<br/>
  Alexander Devaykin
 <span style="margin-left:4px"><a href="http://github.com/xwaffelx"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/xaxellx"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -53,6 +56,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://www.ashishkumar.org">Ashish Kumar</a>
 <span style="margin-left:4px"><a href="http://github.com/ashii007"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/ashii007"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Ben Irving
+<span style="margin-left:4px"><a href="http://github.com/jammin250"><img src="images/github-favicon.png"/></a></span>
+<br/>
  Benjamin Bromberg
 <span style="margin-left:4px"><a href="http://github.com/bpbromberg"><img src="images/github-favicon.png"/></a></span>
 <br/>
@@ -70,6 +76,12 @@ Most members have also agreed to share their [approximate location](http://black
 <br/>
  <a href="http://cesarpachon.com">Cesar Pachon</a>
 <span style="margin-left:4px"><a href="http://github.com/cesarpachon"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/cesarpachon"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Chris Holland
+<span style="margin-left:4px"><a href="http://github.com/TBD"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/cesarpachon"><img src="images/twitter-bird-16x16.png"/></a>--></span>
+<br/>
+ Daniel Dressler
+<span style="margin-left:4px"><a href="http://github.com/daniel-dressler"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/dlcunha"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
  <a href="http://daniellucas.net/blackberry">Daniel Lucas</a>
 <span style="margin-left:4px"><a href="http://github.com/daniellucas"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/dlcunha"><img src="images/twitter-bird-16x16.png"/></a></span>
