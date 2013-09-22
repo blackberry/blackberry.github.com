@@ -291,6 +291,12 @@
 	"loc_description": "Rzeszow, Poland",
 	"loc_coordinates": "21.999281,50.040947,0.000000"
     },
+    "Jasmin Auger": {
+	"name": "Jasmin Auger",
+	"github": "freakenk",
+	"loc_description": "Sherbrooke, QC, Canada",
+	"loc_coordinates": "-71.882431,45.400993,0.000000"
+    },
     "Jeremy Duke": {
 	"name": "Jeremy Duke",
 	"twitter": "berryinformed",
