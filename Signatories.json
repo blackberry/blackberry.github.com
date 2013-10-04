@@ -221,6 +221,13 @@
 	"loc_description": "San Jose, California, USA",
 	"loc_coordinates": "-121.894958,37.339386,0.000000"
     },
+    "Diego Anfuso": {
+	"name": "Diego Anfuso",
+	"github": "DiegoAnfuso",
+	"twitter": "diegoanfuso",
+	"loc_description": "Buenos Aires, Argentina",
+	"loc_coordinates": "-58.381592,-34.603722,0.000000"
+    },
     "Dmitry Kichenko": {
 	"name": "Dmitry Kichenko",
 	"github": "dmkc",
