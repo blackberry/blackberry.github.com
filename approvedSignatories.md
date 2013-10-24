@@ -355,6 +355,11 @@ Most members have also agreed to share their [approximate location](http://black
     </td>
   </tr>
 -->
+  <tr>
+    <td>
+      <a href="http://compelab.org/" target="_blank"><img src="../images/compe-logo-scaled.png" border="0"/></a>
+    </td>
+   </tr>
 </table>
 
 </td> <!-- end of LEFT -->
