@@ -72,7 +72,7 @@ We are experimenting with many UI components, with tying in sensors, adding phys
             alice.wobble(["DIV1", "IMG1"], 20, 5, "top-left", 1000, 10, "ease-in-out", -1);
         </script>
 
-In here, we apply the Wobble effect to a DIV and an IMG. Alice.js doesn't touch the contents of the DIVs and respects whatever styling you set — it's up to you to do whatever fits your application goals. The parameters are:
+In here, we apply the Wobble effect to a DIV and an IMG. Alice.js doesn't touch the contents of the DIVs and respects whatever styling you set - it's up to you to do whatever fits your application goals. The parameters are:
 
 - The rotation angle in degrees (here 20).
 - The amount of randomness in % applied to the rotation. So in reality, rotation will be between 19 and 21 (+/- 5%).

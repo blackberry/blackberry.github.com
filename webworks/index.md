@@ -91,7 +91,7 @@ layout: default
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/PictureWall" target="_blank">PictureWall</a></td>
-    <td>A sample application that displays a collection of pictures onto a “wall” of BlackBerry PlayBook tablets</td>
+    <td>A sample application that displays a collection of pictures onto a "wall" of BlackBerry PlayBook tablets</td>
   <td style="text-align:center"><a href="https://github.com/blackberry/PictureWall/contributors">See List</a></td>
   </tr>
 </table>
