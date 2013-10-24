@@ -272,6 +272,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://www.opensourcebb.com">Shane Cridlebaugh</a>
 <span style="margin-left:4px"><a href="http://github.com/SCrid2000"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/GShaneC"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Shulei Zhu
+<span style="margin-left:4px"><a href="http://github.com/dimilar"><img src="images/github-favicon.png"/></a></span>
+<br/>
  Simon Booth
 <span style="margin-left:4px"><a href="http://github.com/peardox"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/peardox"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>

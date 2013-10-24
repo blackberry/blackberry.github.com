@@ -633,6 +633,10 @@
 	"loc_description": "Provo, Utah, USA",
 	"loc_coordinates": "-111.658531,40.233845,0.000000"
     },
+    "Shulei Zhu": {
+	"name": "Shulei Szhu",
+	"github": "dimilar",
+    },
     "Simon Booth": {
 	"name": "Simon Booth",
 	"github": "peardox",
