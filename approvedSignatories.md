@@ -328,33 +328,11 @@ Most members have also agreed to share their [approximate location](http://black
       <a href="http://pyxismobile.com/" target="_blank"><img src="../images/logo_pyxis.jpg" border="0"/></a>
     </td>
    </tr>
-<!-- DELETE
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>Matthew Haag
-<span style="margin-left:4px"><a href="http://github.com/Muerl"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/muerl"><img src="images/twitter-bird-16x16.png"/></a></span>
-</li>
-      </ul>
-    </td>
-  </tr>
--->
   <tr>
     <td>
       <a href="http://neuronasistemas.com/" target="_blank"><img src="../images/logo-neurona-168x60.jpeg" border="0"/></a>
     </td>
    </tr>
-<!-- DELETE
-  <tr>
-    <td valign="top">
-      <ul>
-        <li><a href="http://miblackberry.com">Josep Maria Herrando</a>
-<span style="margin-left:4px"><a href="http://github.com/miamon"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/miblackberry"><img src="images/twitter-bird-16x16.png"/></a></span>
-</li>
-      </ul>
-    </td>
-  </tr>
--->
   <tr>
     <td>
       <a href="http://compelab.org/" target="_blank"><img src="../images/compe-logo-scaled.png" border="0"/></a>
