@@ -74,6 +74,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://wallwizz.com">Caner Altinbasak</a>
 <span style="margin-left:4px"><a href="http://github.com/caneraltinbasak"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/caltinbasak"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Camilo de Campos
+<span style="margin-left:4px"><a href="http://github.com/zeromaisum"><img src="images/github-favicon.png"/></a></span>
+<br/>
  <a href="http://cesarpachon.com">Cesar Pachon</a>
 <span style="margin-left:4px"><a href="http://github.com/cesarpachon"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/cesarpachon"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -104,8 +107,14 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://hecgeek.blogspot.com">Derek Konigsberg</a>
 <span style="margin-left:4px"><a href="http://github.com/dkonigsberg"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/dkonigs"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Dieges da Silva
+<span style="margin-left:4px"><a href="http://github.com/D33"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/DiegesLima"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Diego Anfuso
 <span style="margin-left:4px"><a href="http://github.com/diegoanfuso"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/diegoanfuso"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Diogo de Carvalho
+<span style="margin-left:4px"><a href="http://github.com/sevottharte"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/diogofelipe_"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://sanoweb.eu">Dirk-Jan Mollema</a>
 <span style="margin-left:4px"><a href="http://github.com/gtoniser"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/GtoNiseR"><img src="images/twitter-bird-16x16.png"/></a></span>
@@ -137,11 +146,17 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://www.georgemckinney.com">George McKinney</a>
 <span style="margin-left:4px"><a href="http://github.com/georgemck"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/georgemck"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Gustavo Costa
+<span style="margin-left:4px"><a href="http://github.com/GustavoCostaW"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/GustavoCostaW"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Haixuan Chen
 <span style="margin-left:4px"><a href="http://github.com/haixuanc"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/haixuanc"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  Hidaya SEKKAL
 <span style="margin-left:4px"><a href="http://github.com/sekkalhidaya"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a> --></span>
+<br/>
+ Iago de Barboza
+<span style="margin-left:4px"><a href="http://github.com/IagoBarboza"><img src="images/github-favicon.png"/></a></span>
 <br/>
  <a href="http://nietrzeba.pl">Jakub Nietrzeba</a>
 <span style="margin-left:4px"><a href="http://github.com/gluth"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/berryinformed"><img src="images/twitter-bird-16x16.png"/></a> --></span>
@@ -184,6 +199,9 @@ Most members have also agreed to share their [approximate location](http://black
 <br/>
  Krzystof Hofman
 <span style="margin-left:4px"><a href="http://github.com/krzystof-hofman"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a>--></span>
+<br/>
+ <a href="http://www.leandrosales.com">Leando de Sales</a>
+<span style="margin-left:4px"><a href="http://github.com/leandroal"><img src="images/github-favicon.png"/></a></span>
 <br/>
  <a href="http://www.opensourcebb.com/osbbx">Lloyd Summers</a>
 <span style="margin-left:4px"><a href="http://github.com/KermEd"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/kerm_ed"><img src="images/twitter-bird-16x16.png"/></a></span>
@@ -281,8 +299,14 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://jaredco.com">Steven Kader</a>
 <span style="margin-left:4px"><a href="http://github.com/jaredco"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/stevenkader"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://www.tainaribeiro.com">Taina Ribeiro</a>
+<span style="margin-left:4px"><a href="http://github.com/tdaribeiro"><img src="images/github-favicon.png"/></a></span>
+<br/>
  <a href="http://www.opensourcebb.com/osbbx">Thomas Wolcott</a>
 <span style="margin-left:4px"><a href="http://github.com/osbbx-ph03n1x"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/ph03n1x"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ <a href="http://tiagopreto.com">Tiago de Andrade</a>
+<span style="margin-left:4px"><a href="http://github.com/tiagopreto"><img src="images/github-favicon.png"/></a></span>
 <br/>
  <a href="http://www.timvelopment.com/">Timothy Costigan</a>
 <span style="margin-left:4px"><a href="http://github.com/costigt"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/costigt"><img src="images/twitter-bird-16x16.png"/></a></span>
@@ -335,7 +359,7 @@ Most members have also agreed to share their [approximate location](http://black
    </tr>
   <tr>
     <td>
-      <a href="http://compelab.org/" target="_blank"><img src="../images/compe-logo-scaled.png" border="0"/></a>
+      <a href="http://compelab.org/" target="_blank"><img src="../images/compe-logo.png" border="0"/></a>
     </td>
    </tr>
 </table>
