@@ -147,6 +147,12 @@
  	"loc_description": "Cambridge, UK",
 	"loc_coordinates": "0.121817,52.205338,0.000000"
     },
+    "Camilo de Campos": {
+	"name": "Camilo de Campos",
+	"github": "zeromaisum",
+	"loc_description": "Maceio, Alagoas, Brazil",
+	"loc_coordinates": "-35.735100,-9.666252,0.000000"
+    },
     "Cesar Pachon": {
 	"name": "Cesar Pachon",
 	"github": "cesarpachon",
@@ -228,6 +234,20 @@
 	"loc_description": "Buenos Aires, Argentina",
 	"loc_coordinates": "-58.381592,-34.603722,0.000000"
     },
+    "Dieges da Silva": {
+	"name": "Dieges da Silva",
+	"github": "D33",
+	"twitter": "DiegesLima",
+	"loc_description": "Maceio, Alagoas, Brazil",
+	"loc_coordinates": "-35.735100,-9.666252,0.000000"
+    },
+    "Diogo de Carvalho": {
+	"name": "Diogo de Carvalho",
+	"github": "sevottharte",
+	"twitter": "diogoelipe_",
+	"loc_description": "Maceio, Alagoas, Brazil",
+	"loc_coordinates": "-35.735100,-9.666252,0.000000"
+    },
     "Dmitry Kichenko": {
 	"name": "Dmitry Kichenko",
 	"github": "dmkc",
@@ -294,6 +314,13 @@
 	"loc_description": "Los Angeles, California",
 	"loc_coordinates": "-118.243683,34.052235,0.000000"
     },
+    "Gustavo Costa": {
+	"name": "Gustavo Costa",
+	"github": "GustavoCostaW",
+	"twitter": "GustavoCostaW",
+	"loc_description": "Maceio, Alagoas, Brazil",
+	"loc_coordinates": "-35.735100,-9.666252,0.000000"
+    },
     "Haixuan Chen": {
 	"name": "Haixuan Chen",
 	"github": "haixuanc",
@@ -314,6 +341,12 @@
 	"github": "sekkalhidaya",
 	"loc_description": "Ottawa, Ontario, Canada",
 	"loc_coordinates": "-75.697189,45.421532,0.000000"
+    },
+    "Iago de Barboza": {
+	"name": "Iago de Barboza",
+	"github": "IagoBarboza",
+	"loc_description": "Maceio, Alagoas, Brazil",
+	"loc_coordinates": "-35.735100,-9.666252,0.000000"
     },
     "Jakub Nietrzeba": {
 	"name": "Jakub Nietrzeba",
@@ -415,6 +448,13 @@
 	"github": "krzystof-Hofman",
 	"loc_description": "Lodz, Poland",
 	"loc_coordinates": "19.455982,51.759247,0.000000"
+    },
+    "Leandro de Sales": {
+	"name": "Leandro de Sales",
+	"github": "leandroal",
+	"website": "http://www.leandrosales.com",
+	"loc_description": "Maceio, Alagoas, Brazil",
+	"loc_coordinates": "-35.735100,-9.666252,0.000000"
     },
     "Lloyd Summers": {
 	"name": "Lloyd Summers",
@@ -635,7 +675,7 @@
     },
     "Shulei Zhu": {
 	"name": "Shulei Szhu",
-	"github": "dimilar",
+	"github": "dimilar"
     },
     "Simon Booth": {
 	"name": "Simon Booth",
@@ -652,6 +692,12 @@
 	"loc_description": "Montreal, Quebec, Canada",
 	"loc_coordinates": "-73.553993,45.508671,0.000000"
     },
+    "Taina de Ribeiro": {
+	"name": "Taina de Ribeiro",
+	"github": "tdaribeiro",
+	"loc_description": "Maceio, Alagoas, Brazil",
+	"loc_coordinates": "-35.735100,-9.666252,0.000000"
+    },
     "Thomas Wolcott": {
 	"name": "Thomas Wolcott",
 	"github": "osbbx-ph03n1x",
@@ -659,6 +705,13 @@
 	"website": "http://www.opensourcebb.com/osbbx",
 	"loc_description": "Brooklyn, New York, USA",
 	"loc_coordinates": "-73.949997,40.650002,0.000000"
+    },
+    "Tiago de Andrade": {
+	"name": "Tiago de Andrade",
+	"github": "giagopreto",
+	"website": "http://tiagopreto.com",
+	"loc_description": "Maceio, Alagoas, Brazil",
+	"loc_coordinates": "-35.735100,-9.666252,0.000000"
     },
     "Timothy Costigan": {
 	"name": "Timothy Costigan",
