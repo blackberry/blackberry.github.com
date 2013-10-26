@@ -342,6 +342,12 @@
 	"loc_description": "Ottawa, Ontario, Canada",
 	"loc_coordinates": "-75.697189,45.421532,0.000000"
     },
+    "Hristo Hristov": {
+	"name": "Hristo Hristov",
+	"github": "Zingam",
+	"loc_description": "Plovdiv, Bulgaria",
+	"loc_coordinates": "24.745291,42.135406,0.000000"
+    },
     "Iago de Barboza": {
 	"name": "Iago de Barboza",
 	"github": "IagoBarboza",
@@ -581,6 +587,12 @@
 	"twitter": "mozeal",
 	"loc_description": "Chiang Mai, Thailand",
 	"loc_coordinates": "98.660057,18.796465,0.000000"
+    },
+    "Paul-Arthur Sauvageot": {
+	"name": "Paul-Arthur Sauvageot",
+	"github": "Kyew",
+	"loc_description": "Toulouse, France",
+	"loc_coordinates": "1.444209,43.604652,0.000000"
     },
     "Peter Aldrian": {
 	"name": "Peter Aldrian",

@@ -155,6 +155,9 @@ Most members have also agreed to share their [approximate location](http://black
  Hidaya SEKKAL
 <span style="margin-left:4px"><a href="http://github.com/sekkalhidaya"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a> --></span>
 <br/>
+ Hristo Hristov
+<span style="margin-left:4px"><a href="http://github.com/zingam"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a> --></span>
+<br/>
  Iago de Barboza
 <span style="margin-left:4px"><a href="http://github.com/IagoBarboza"><img src="images/github-favicon.png"/></a></span>
 <br/>
@@ -253,6 +256,9 @@ Most members have also agreed to share their [approximate location](http://black
 <br/>
  Panutat (Jimmy) Tejasen
 <span style="margin-left:4px"><a href="http://github.com/mozeal"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mozeal"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Paul-Arthur Sauvageot
+<span style="margin-left:4px"><a href="http://github.com/kyew"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/mozeal"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
  <a href="http://www.mappau.com">Peter Aldrian</a>
 <span style="margin-left:4px"><a href="http://github.com/paldrian"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
