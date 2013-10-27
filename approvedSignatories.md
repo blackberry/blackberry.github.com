@@ -261,7 +261,7 @@ Most members have also agreed to share their [approximate location](http://black
 <span style="margin-left:4px"><a href="http://github.com/mozeal"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mozeal"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  Paul-Arthur Sauvageot
-<span style="margin-left:4px"><a href="http://github.com/kyew"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/mozeal"><img src="images/twitter-bird-16x16.png"/></a>--></span>
+<span style="margin-left:4px"><a href="http://github.com/kyew"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/kyewpixelized"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://www.mappau.com">Peter Aldrian</a>
 <span style="margin-left:4px"><a href="http://github.com/paldrian"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
