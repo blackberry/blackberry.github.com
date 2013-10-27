@@ -403,6 +403,13 @@
 	"loc_description": "Sherbrooke, Quebec, Canada",
 	"loc_coordinates": "-71.882431,45.400993,0.000000"
     },
+    "Jon Webb": {
+	"name": "Jon Webb",
+	"twitter": "brainsforrent",
+	"github": "jonwebb",
+	"loc_description": "Ultrecht, The Netherlands",
+	"loc_coordinates": "-71.882431,45.400993,0.000000"
+    },
     "Josep Maria Herrando": {
 	"name": "Josep Maria Herrando",
 	"github": "miamon",
