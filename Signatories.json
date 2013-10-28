@@ -456,6 +456,14 @@
 	"loc_description": "Sacramento Area, California",
 	"loc_coordinates": "-121.494400,38.581573,0.000000"
     },
+    "Kristian Lavereau": {
+	"name": "Kristian Lavereau",
+	"github": "TBD",
+	"twitter": "KiiMobileTech1",
+	"website": "http://www.kiimobiletech.com",
+	"loc_description": "Toronto, ON, Canada",
+	"loc_coordinates": "-79.385323,43.648560,0.000000"
+    },
     "Krzystof Hofman": {
 	"name": "Krzyzstof Hofman",
 	"github": "krzystof-Hofman",

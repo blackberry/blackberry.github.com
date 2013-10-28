@@ -203,6 +203,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://karlquinsland.com">Karl Quinsland</a>
 <span style="margin-left:4px"><a href="http://github.com/kquinsland"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/kquinsland"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
+ <a href="http://www.kiimobiletech.com">Kristian Lavereau</a>
+<span style="margin-left:4px"><a href="http://github.com/TBD"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/KiiMobileTech1"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Krzystof Hofman
 <span style="margin-left:4px"><a href="http://github.com/krzystof-hofman"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
@@ -357,17 +360,17 @@ Most members have also agreed to share their [approximate location](http://black
 
 <table>
   <tr>
-    <td>
+    <td align="center" valign="center">
       <a href="http://pyxismobile.com/" target="_blank"><img src="../images/logo_pyxis.jpg" border="0"/></a>
     </td>
    </tr>
   <tr>
-    <td>
+    <td align="center" valign="center">
       <a href="http://neuronasistemas.com/" target="_blank"><img src="../images/logo-neurona-168x60.jpeg" border="0"/></a>
     </td>
    </tr>
   <tr>
-    <td>
+    <td align="center" valign="center">
       <a href="http://compelab.org/" target="_blank"><img src="../images/compe-logo.png" border="0"/></a>
     </td>
    </tr>
@@ -380,18 +383,18 @@ Most members have also agreed to share their [approximate location](http://black
 
 <table>
   <tr>
-    <td>
+    <td align="center" valign="center">
      <a href="http://mappau.com" target="_blank" style="text-decoration:none; font-size: 200%; line-height: 1.8;">mappau OG</a>
     </td>
     <!-- Andre Pura, Peter Aldrian, Uwe Meier -->
    </tr>
   <tr>
-    <td>
+    <td align="center" valign="center">
      <a href="http://truphone.com" target="_blank"><img src="../images/truphone-logo-invert.png" width="160" style="margin-top: 30px"></a>
     </td>
    </tr>
   <tr>
-    <td>
+    <td align="center" valign="center">
      <a href="http://zenika.com" target="_blank"><img src="../images/logo_zenika.png" width="160" style="margin-top: 20px"></a>
     </td>
    </tr>
@@ -404,16 +407,21 @@ Most members have also agreed to share their [approximate location](http://black
 
 <table>
   <tr>
-    <td>
+    <td align="center" valign="center">
       <a href="http://adobe.com" target="_blank" style="text-decoration:none; font-size: 200%">Adobe Systems Inc.</a>
 <br/>(originally as <a href="http://www.nitobi.com/">Nitobi</a>)
     </td>
     <!-- Dave Johnson, Michael Brooks, Filip Maj -->
   </tr>
 <tr>
-<td>
-<a href="http://appendto.com" target="_blank"><img src="../images/appendTo-logo-clean.png" width="180" style="margin-top: 20px"></a>
-</td>
+    <td align="center" valign="center">
+    <a href="http://appendto.com" target="_blank"><img src="../images/appendTo-logo-clean.png" width="180" style="margin-top: 20px"></a>
+    </td>
+</tr>
+<tr>
+    <td align="center" valign="center">
+    <a href="http://www.kimobiletech.com" target="_blank"><img src="../images/kii-logo-105x60.png" style="margin-top: 20px"></a>
+    </td>
 </tr>
 </table>
 
