@@ -814,5 +814,11 @@
 	"website": "http://natsu.me/",
 	"loc_description": "TBD",
 	"loc_coordinates": "TBD"
+    },
+    "Nikolay Khramchenkov": {
+	"name": "Nikolay Khramchenkov",
+	"github": "xnike",
+	"loc_description": "Moscow, Russia",
+	"loc_coordinates": "55.7500,37.6167,0.000000"
     }
 }
