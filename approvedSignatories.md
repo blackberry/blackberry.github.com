@@ -254,6 +254,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://mike-hostetler.com/">Mike Hostetler</a>
 <span style="margin-left:4px"><a href="http://github.com/mikehostetler"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mikehostetler"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+Nikolay Khramchenkov
+<span style="margin-left:4px"><a href="http://github.com/xnike"><img src="images/github-favicon.png"/></a></span>
+<br/>
  <a href="http://thebbthing.wordpress.com/">Nuno Da Silva Donato</a>
 <span style="margin-left:4px"><a href="http://github.com/nunodonato"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/nunodonato"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
