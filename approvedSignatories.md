@@ -272,7 +272,7 @@ Nikolay Khramchenkov
  Paul-Arthur Sauvageot
 <span style="margin-left:4px"><a href="http://github.com/kyew"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/kyewpixelized"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
- Paweł Górny 
+ Pawel Gorny
 <span style="margin-left:4px"><a href="http://github.com/PawelGorny"><img src="images/github-favicon.png"/></a></span>
 <br/>
  <a href="http://www.mappau.com">Peter Aldrian</a>
