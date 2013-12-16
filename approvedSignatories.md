@@ -212,6 +212,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://www.leandrosales.com">Leando de Sales</a>
 <span style="margin-left:4px"><a href="http://github.com/leandroal"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ Livan Du
+<span style="margin-left:4px"><a href="http://github.com/stonedu"><img src="images/github-favicon.png"/></a></span>
+<br/>
  <a href="http://www.opensourcebb.com/osbbx">Lloyd Summers</a>
 <span style="margin-left:4px"><a href="http://github.com/KermEd"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/kerm_ed"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -269,6 +272,9 @@ Nikolay Khramchenkov
  Paul-Arthur Sauvageot
 <span style="margin-left:4px"><a href="http://github.com/kyew"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/kyewpixelized"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Paweł Górny 
+<span style="margin-left:4px"><a href="http://github.com/PawelGorny"><img src="images/github-favicon.png"/></a></span>
+<br/>
  <a href="http://www.mappau.com">Peter Aldrian</a>
 <span style="margin-left:4px"><a href="http://github.com/paldrian"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -325,6 +331,9 @@ Nikolay Khramchenkov
 <br/>
  <a href="http://www.timvelopment.com/">Timothy Costigan</a>
 <span style="margin-left:4px"><a href="http://github.com/costigt"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/costigt"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Tim Shi
+<span style="margin-left:4px"><a href="https://github.com/timkiimobiletech"><img src="images/github-favicon.png"/></a></span>
 <br/>
  Tolga Yilmaz
 <span style="margin-left:4px"><a href="http://github.com/tolgamyth"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/yilmaz_tolga"><img src="images/twitter-bird-16x16.png"/></a></span>
