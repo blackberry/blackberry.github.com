@@ -9,7 +9,7 @@ layout: default
 	<tr>
 		<td><img src="../images/logo_webworks.png"/></td>
 		<td valign="top" style="padding-top:15px">
-			BlackBerry&reg; WebWorks&trade; allows web and mobile web developers to use the SDK in combination with their development tooling of choice to develop, test and package up their web applications for BlackBerry tablets and smartphones. 
+			BlackBerry&reg; WebWorks&trade; allows web and mobile web developers to use the SDK in combination with their development tooling of choice to develop, test and package up their web applications for BlackBerry smartphones. 
 			<br/><br/>
 			The project is open sourced under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html" target="_blank">Apache 2.0 license</a>. 
 		</td>
@@ -19,15 +19,7 @@ layout: default
 
 **SDK Roadmap:**
 
-* [Roadmap for Smartphones](https://github.com/blackberry/WebWorks/issues/milestones?state=open)
-* [Roadmap for Tablet OS](https://github.com/blackberry/WebWorks-TabletOS/issues/milestones)
-* [Previous Releases before Github was used for tracking Milestones](roadmap.html)
-
-**Feature Requests:**
-
-* [Feature Requests for Smartphones](https://github.com/blackberry/WebWorks/issues?sort=created&labels=Request&direction=desc&state=open)
-* [Feature Requests for Tablet OS](https://github.com/blackberry/WebWorks-TabletOS/issues?labels=Request&sort=created&direction=desc&state=open&page=1)
-
+* [https://developer.blackberry.com/html5/download/roadmap/](https://developer.blackberry.com/html5/download/roadmap/)
 
 **Forums:**
 
@@ -36,8 +28,10 @@ layout: default
 
 **Downloads:**
 
-* [Download Smartphone WebWorks SDK Installer](http://us.blackberry.com/developers/browserdev/widgetsdk.jsp)
-* [Download Tablet OS WebWorks SDK Installer](http://us.blackberry.com/developers/tablet/webworks.jsp)
+* [Download BlackBerry 10 WebWorks SDK 2.0 Beta](https://developer.blackberry.com/html5/download/)
+* [Download BlackBerry 10 WebWorks SDK 1.0](https://developer.blackberry.com/html5/download/#webworks1)
+* [Download BlackBerry WebWorks SDK for Smartphones](http://developer.blackberry.com/bbos/html5/download/)
+* [Download BlackBerry WebWorks SDK for PlayBook OS](http://developer.blackberry.com/playbook/html5/download/)
 
 
 
