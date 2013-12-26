@@ -26,7 +26,6 @@ layout: default
 **Forums:**
 
 * [User Forums](http://supportforums.blackberry.com/t5/Web-Development/bd-p/browser_dev)
-* [OSS Project Discussion Forums](http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/bd-p/ww_con)
 
 **Downloads:**
 
@@ -48,32 +47,32 @@ layout: default
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/cordova-blackberry" target="_blank">cordova-blackberry</a></td>
     <td>BlackBerry 10 Apache Cordova platform implementation</td>
-    <td style="text-align:center"><a href="https://github.com/blackberry/cordova-blackberry/graphs/contributors">See List</a></td>
+    <td style="text-align:center"><a href="https://github.com/blackberry/cordova-blackberry/graphs/contributors" target="_blank">See List</a></td>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/cordova-blackberry-plugins" target="_blank">cordova-blackberry-plugins</a></td>
     <td>Contains all of the BlackBerry WebWorks custom plugins APIs implemented as Apache Cordova plugins</td>
-    <td style="text-align:center"><a href="https://github.com/blackberry/cordova-blackberry-plugins/graphs/contributors">See List</a></td>
+    <td style="text-align:center"><a href="https://github.com/blackberry/cordova-blackberry-plugins/graphs/contributors" target="_blank">See List</a></td>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/BB10-WebWorks-Samples/tree/WebWorks-2.0" target="_blank">BB10-WebWorks-Samples</a></td>
     <td>Sample BlackBerry 10 WebWorks applications built in the Apache Cordova style</td>
-    <td style="text-align:center"><a href="https://github.com/blackberry/BB10-WebWorks-Samples/graphs/contributors">See List</a></td>
+    <td style="text-align:center"><a href="https://github.com/blackberry/BB10-WebWorks-Samples/graphs/contributors" target="_blank">See List</a></td>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10-Cordova" target="_blank">WebWorks-Community-APIs</a></td>
     <td>Community built APIs for BlackBerry 10 WebWorks applications based on Apache Cordova.  These are not part of the official SDK</td>
-    <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/graphs/contributors">See List</a></td>
+    <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/graphs/contributors" target="_blank">See List</a></td>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/bbUI.js" target="_blank">bbUI.js</a></td>
     <td>Home for BlackBerry UI look and feel JavaScript toolkit for WebWorks</td>
-  <td style="text-align:center"><a href="https://github.com/blackberry/bbui.js/graphs/contributors">See List</a></td>
+  <td style="text-align:center"><a href="https://github.com/blackberry/bbui.js/graphs/contributors" target="_blank">See List</a></td>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-API-Docs/tree/webworks2" target="_blank">WebWorks-API-Docs</a></td>
     <td>API reference documentation source for the WebWorks 2.0 Beta</td>
-  <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks-API-Docs/graphs/contributors">See List</a></td>
+  <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks-API-Docs/graphs/contributors" target="_blank">See List</a></td>
   </tr>
   </table>
 
