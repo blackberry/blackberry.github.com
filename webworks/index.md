@@ -99,7 +99,7 @@ BlackBerry WebWorks is a unique platform in the mobile market and is designed to
 
 3. **Open**
 
-    * RIM is putting its resources on the table to become contributing members of the top web open source communities including Apache Cordova, WebKit, jQuery, and Sencha. This is a beginning, and our strategy is to broadly advance the state of the art in mobile web applications.
+    * BlackBerry is putting its resources on the table to become contributing members of the top web open source communities including Apache Cordova, WebKit, jQuery, and Sencha. This is a beginning, and our strategy is to broadly advance the state of the art in mobile web applications.
     * We open source practically all of the work we do on our web application platform here under the Apache 2.0 license, so you can be a driving force in its future.
     * This new BlackBerry web application platform is open in every way possible.
 
