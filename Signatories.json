@@ -227,6 +227,12 @@
 	"loc_description": "San Jose, California, USA",
 	"loc_coordinates": "-121.894958,37.339386,0.000000"
     },
+    "Deric Cheng": {
+	"name": "Deric Cheng",
+	"github": "dericc",
+	"loc_description": "Princeton, New Jersey, USA",
+	"loc_coordinates": "40.3571,74.6702,0.000000"
+    },
     "Diego Anfuso": {
 	"name": "Diego Anfuso",
 	"github": "DiegoAnfuso",
