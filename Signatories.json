@@ -361,6 +361,12 @@
 	"loc_description": "Rzeszow, Poland",
 	"loc_coordinates": "21.999281,50.040947,0.000000"
     },
+     "James Paul Wood": {
+	"name": "James Paul Wood",
+	"github": "wood-jp",
+	"loc_description": "Waterloo, Ontario, Canada",
+	"loc_coordinates": "-80.520409,43.464256,0.000000"
+    },
     "Jasmin Auger": {
 	"name": "Jasmin Auger",
 	"github": "freakenk",
