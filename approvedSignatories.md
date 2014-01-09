@@ -107,6 +107,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://hecgeek.blogspot.com">Derek Konigsberg</a>
 <span style="margin-left:4px"><a href="http://github.com/dkonigsberg"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/dkonigs"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Deric Cheng
+<span style="margin-left:4px"><a href="http://github.com/dericc"><img src="images/github-favicon.png"/></a></span>
+<br/>
  Dieges da Silva
 <span style="margin-left:4px"><a href="http://github.com/D33"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/DiegesLima"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
