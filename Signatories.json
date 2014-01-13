@@ -367,6 +367,12 @@
 	"loc_description": "Rzeszow, Poland",
 	"loc_coordinates": "21.999281,50.040947,0.000000"
     },
+     "James Grisdale": {
+	"name": "James Grisdale",
+	"github": "jgrisdale",
+	"loc_description": "St Catharines, Ontario, Canada",
+	"loc_coordinates": "43.1833,79.2333,0.000000"
+    },
      "James Paul Wood": {
 	"name": "James Paul Wood",
 	"github": "wood-jp",
