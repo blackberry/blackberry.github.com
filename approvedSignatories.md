@@ -167,6 +167,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://nietrzeba.pl">Jakub Nietrzeba</a>
 <span style="margin-left:4px"><a href="http://github.com/gluth"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/berryinformed"><img src="images/twitter-bird-16x16.png"/></a> --></span>
 <br/>
+ James Grisdale
+<span style="margin-left:4px"><a href="http://github.com/jgrisdale"><img src="images/github-favicon.png"/></a></span>
+<br/>
  James Paul Wood
 <span style="margin-left:4px"><a href="http://github.com/wood-jp"><img src="images/github-favicon.png"/></a></span>
 <br/>
