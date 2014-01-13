@@ -593,6 +593,13 @@
 	"loc_description": "TBD",
 	"loc_coordinates": "TBD"
     },
+    "Morgan Parlee": {
+	"name": "Morgan Parlee",
+	"github": "mkparlee",
+	"twitter": "mkparlee",
+	"loc_description": "Surrey, British Columbia",
+	"loc_coordinates": "49.19881,-122.84578,0.000000"
+    },
     "Nikolay Khramchenkov": {
 	"name": "Nikolay Khramchenkov",
 	"github": "xnike",
