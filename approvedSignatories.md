@@ -447,7 +447,7 @@ Nikolay Khramchenkov
 </tr>
 <tr>
     <td align="center" valign="center">
-    <a href="http://www.kimobiletech.com" target="_blank"><img src="../images/kii-logo-105x60.png" style="margin-top: 20px"></a>
+    <a href="http://www.kimobiletech.com" target="_blank"><img src="../images/Kii-logo-105x60.png" style="margin-top: 20px"></a>
     </td>
 </tr>
 </table>
