@@ -188,6 +188,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://kisailabs.com">Jerome Carty</a>
 <span style="margin-left:4px"><a href="github.com/jcarty"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/jcarty"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://individual.utoronto.ca/jram/">Jeyaram Jeyaraj</a>
+<span style="margin-left:4px"><a href="https://github.com/jjeyaraj"><img src="images/github-favicon.png"/></a></span>
+<br/>
  <a href="http://johnbrandle.com">John Brandle</a>
 <span style="margin-left:4px"><a href="http://github.com/jhonbrandle"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/jhnbrndl"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>

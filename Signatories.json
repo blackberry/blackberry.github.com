@@ -49,6 +49,12 @@
 	"loc_description": "Aachen, Germany",
 	"loc_coordinates": "6.083887,50.775345,0.000000"
     },
+    "Alexandre Huot": {
+	"name": "Alexandre Huot",
+	"github": "alexhuot1",
+	"loc_description": "tbd",
+	"loc_coordinates": "tbd"
+    },
     "Amritpal Multani": {
 	"name": "Amritpal Multani",
 	"github": "1ap1",
@@ -405,6 +411,13 @@
 	"website": "http://kisailabs.com",
 	"loc_description": "Queens, NY, USA",
 	"loc_coordinates": "-73.794853,40.728226,0.000000"
+    },
+    "Jeyaram Jeyaraj": {
+	"name": "Jeyaram Jeyaraj",
+	"github": "jjeyaraj",
+	"website": "http://individual.utoronto.ca/jram/",
+	"loc_description": "Toronto, Ontario, Canada",
+	"loc_coordinates": "-79.385323,43.648560,0.000000"
     },
     "John Brandle": {
 	"name": "John Brandle",
