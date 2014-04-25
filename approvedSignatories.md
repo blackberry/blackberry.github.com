@@ -20,6 +20,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://itmagic.tk">Ahmed El Naggar</a>
 <span style="margin-left:4px"><a href="http://github.com/ahmsayat"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/ahmsayat"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+<a href="http://zukkadev.net">Alessandro Bellotti</a>
+<span style="margin-left:4px"><a href="http://github.com/Zukka"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/zukka75"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Alex Kwan
 <span style="margin-left:4px"><a href="http://github.com/alexkwan0"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/greentea0"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
