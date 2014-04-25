@@ -23,6 +23,13 @@
 	"loc_description": "Hurghada, Egypt",
 	"loc_coordinates": "33.811607,27.257896,0.000000"
     },
+    "Alessandro Bellotti": {
+	"name": "Alessandro Bellotti",
+	"github": "Zukka",
+	"twitter": "zukka",
+	"loc_description": "Cassano Valcuvia, Italy",
+	"loc_coordinates": "45.933333, 8.766667,0.000000" 
+    },
     "Alex Kwan": {
 	"name": "Alex Kwan",
 	"github": "alexkwan0",
