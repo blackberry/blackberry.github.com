@@ -5,7 +5,7 @@ layout: default
 
 # How To Contribute
 
-This page explains several ways to contribute to the BlackBerry Open Source projects including: code contributions to the [projects at GitHub](http://github.com/blackberry), participations in [Forums](http://supportforums.blackberry.com/t5/Open-Source-Development/ct-p/os_dev), Issues submissions to BlackBerry projects, and to this Wiki.
+This page explains several ways to contribute to the BlackBerry Open Source projects including: code contributions to the [projects at GitHub](http://github.com/blackberry), participations in Forums, Issues submissions to BlackBerry projects, and to this Wiki.
 
 There are many ways to contribute depending on your specific interests, skill-sets and time availability.  The only thing you need is a desire to help improve a project.  The contribution processes are intended to be lightweight and yet strong enough to protect the interests of the community and of BlackBerry.
 
@@ -13,7 +13,7 @@ There are many ways to contribute depending on your specific interests, skill-se
 
 ## Forums
 
-The main discussion forums are [BlackBerry WebWorks Contribution](http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/bd-p/ww_con) and [Ripple Contributions](http://supportforums.blackberry.com/t5/Ripple-Contributions/bd-p/ripple).  The WebWorks and Ripple teams at BlackBerry monitor these forums and we will endeavor to provide prompt responses, although we can't guarantee it in all cases.  Legal terms are [here](http://na.blackberry.com/eng/legal/). 
+The main discussion forums are at [BlackBerry Developer Forums](http://supportforums.blackberry.com/t5/Developer-Support-Forums/ct-p/blackberrydev).  The team at BlackBerry monitors the forums and we will endeavor to provide prompt responses, although we can't guarantee it in all cases.  Legal terms are [here](http://na.blackberry.com/eng/legal/). 
 
 ## Blogs
 
@@ -23,7 +23,7 @@ BlackBerry has a number of official [blogs](http://blogs.blackberry.com/), most 
 
 The official Issue Trackers for BlackBerry open source projects are the GitHub "Issues" portion of each of the project repositories. You will require a GitHub account to file a bug or request a feature.
 
-**PENDING** - The official Issue Tracker for BlackBerry's products is via this [JIRA instance](https://www.blackberry.com/jira/secure/Dashboard.jspa); you will need a Developer Zone account - see [issuetracker page](http://us.blackberry.com/developers/resources/issuetracker/). There are multiple categories; the one for WebWorks is [WEBAPI](https://www.blackberry.com/jira/browse/WEBAPI).  As always, we encourage you to verify that your submission is not a duplicate.  Legal terms are the standard [BB terms](http://us.blackberry.com/legal/terms.jsp). We are examining ways to integrate these two systems together
+**PENDING** - The official Issue Tracker for BlackBerry's products is via this [JIRA instance](https://www.blackberry.com/jira/secure/Dashboard.jspa); you will need a Developer Zone account - see [issuetracker page](http://us.blackberry.com/developers/resources/issuetracker/). There are multiple categories.  As always, we encourage you to verify that your submission is not a duplicate.  Legal terms are the standard [BB terms](http://us.blackberry.com/legal/terms.jsp). We are examining ways to integrate these two systems together
 
 
 ## Wiki
