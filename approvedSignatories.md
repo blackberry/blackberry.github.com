@@ -47,6 +47,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://www.dreamfarmgames.com">Andrew Karpushin</a>
 <span style="margin-left:4px"><a href="http://github.com/reven86"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/reven86"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Andrew Wong
+<span style="margin-left:4px"><a href="http://github.com/whyandrew"><img src="images/github-favicon.png"/></a></span>
+<br/>
  Andy (Xiang) WU
 <span style="margin-left:4px"><a href="http://github.com/andywu89"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/mappau"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
@@ -76,6 +79,9 @@ Most members have also agreed to share their [approximate location](http://black
 <br/>
  <a href="http://bbcascadescode.tumblr.com/">Brian Scheirer</a>
 <span style="margin-left:4px"><a href="http://github.com/bcs925"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/BrianScheirer"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Byunghoon Yoon
+<span style="margin-left:4px"><a href="http://github.com/bh2yoon"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/bh2yoon"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://wallwizz.com">Caner Altinbasak</a>
 <span style="margin-left:4px"><a href="http://github.com/caneraltinbasak"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/caltinbasak"><img src="images/twitter-bird-16x16.png"/></a></span>
@@ -382,6 +388,12 @@ Nikolay Khramchenkov
 <br/>
  <a href="http://natsu.me/">Yoshiaki NATSUME</a>
 <span style="margin-left:4px"><a href="http://github.com/natsumesou"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/natsumesou"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Zain Adil
+<span style="margin-left:4px"><a href="http://github.com/zainadil"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/zeeadil"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Zibai Wang
+<span style="margin-left:4px"><a href="http://github.com/g2wangzi"><img src="images/github-favicon.png"/></a></span>
 </div>
 
 ## Corporations
