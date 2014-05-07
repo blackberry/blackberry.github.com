@@ -84,6 +84,12 @@
 	"loc_description": "Voronezh, Russian Federation",
 	"loc_coordinates": "39.187557,51.655998,0.000000"
     },
+    "Andrew Wong": {
+	"name": "Andrew Wong",
+	"github": "whyandrew",
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
+    },
     "Andy (Xiang) WU": {
 	"name": "Andy (Xiang) WU",
 	"github": "andywu89",
@@ -152,6 +158,13 @@
 	"twitter": "bslack",
  	"loc_description": "Etobicoke, Ontario, Canada",
 	"loc_coordinates": "-79.513199,43.620495,0.000000"
+    },
+    "Byunghoon Yoon": {
+	"name": "Byunghoon Yoon",
+	"github": "bh2yoon",
+	"twitter": "bh2yoon",
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
     },
     "Caner Altinbasak": {
 	"name": "Caner Altinbasak",
@@ -863,6 +876,19 @@
 	"github": "natsumesou",
 	"twitter": "natsumesou",
 	"website": "http://natsu.me/",
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
+    },
+    "Zain Adil": {
+	"name": "Zain Adil",
+	"github": "zainadil",
+	"twitter": "zeeadil",
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
+    },
+    "Zibai Wang": {
+	"name": "Zibai Wang",
+	"github": "g2wangzi",
 	"loc_description": "TBD",
 	"loc_coordinates": "TBD"
     }
