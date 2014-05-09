@@ -674,6 +674,14 @@
 	"loc_description": "Toulouse, France",
 	"loc_coordinates": "1.444209,43.604652,0.000000"
     },
+    "Pawel Hofman": {
+	"name": "Pawel Hofman",
+	"github": "phofman",
+	"twitter": "codetitans",
+	"website": "http://www.codetitans.pl",
+	"loc_description": "Wroclaw, Poland",
+	"loc_coordinates": "17.038333,51.107778,0.000000"
+    },
     "Peter Aldrian": {
 	"name": "Peter Aldrian",
 	"github": "paldrian",
