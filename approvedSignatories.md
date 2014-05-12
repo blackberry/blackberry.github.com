@@ -185,6 +185,9 @@ Most members have also agreed to share their [approximate location](http://black
  James Paul Wood
 <span style="margin-left:4px"><a href="http://github.com/wood-jp"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ Janelle Hinds
+<span style="margin-left:4px"><a href="https://github.com/MobileAppQueen"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/MobileAppQueen"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Jasmin Auger
 <span style="margin-left:4px"><a href="http://github.com/freakenk"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a> --></span>
 <br/>
