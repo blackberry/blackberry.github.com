@@ -350,6 +350,9 @@ Nikolay Khramchenkov
  Simon Booth
 <span style="margin-left:4px"><a href="http://github.com/peardox"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/peardox"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Simon Hsu
+<span style="margin-left:4px"><a href="http://github.com/icetingyu"><img src="images/github-favicon.png"/></a></span>
+<br/>
  <a href="http://jaredco.com">Steven Kader</a>
 <span style="margin-left:4px"><a href="http://github.com/jaredco"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/stevenkader"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
