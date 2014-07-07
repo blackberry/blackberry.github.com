@@ -791,6 +791,10 @@
 	"loc_description": "Manchester, UK",
 	"loc_coordinates": "-2.247926,53.479252,0.000000"
     },
+    "Simon Hsu": {
+	"name": "Simon Hsu",
+	"github": "icetingyu",
+    },
     "Steven Kader": {
 	"name": "Steven Kader",
 	"github": "jaredco",
