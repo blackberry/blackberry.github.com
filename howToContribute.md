@@ -23,7 +23,7 @@ BlackBerry has a number of official [blogs](http://blogs.blackberry.com/), most 
 
 The official Issue Trackers for BlackBerry open source projects are the GitHub "Issues" portion of each of the project repositories. You will require a GitHub account to file a bug or request a feature.
 
-**PENDING** - The official Issue Tracker for BlackBerry's products is via this [JIRA instance](https://www.blackberry.com/jira/secure/Dashboard.jspa); you will need a Developer Zone account - see [issuetracker page](http://us.blackberry.com/developers/resources/issuetracker/). There are multiple categories.  As always, we encourage you to verify that your submission is not a duplicate.  Legal terms are the standard [BB terms](http://us.blackberry.com/legal/terms.jsp). We are examining ways to integrate these two systems together
+The official Issue Tracker for BlackBerry's products is via this [JIRA instance](https://www.blackberry.com/jira/secure/Dashboard.jspa); you will need to use your BlackBerry Id - see [issuetracker page](http://us.blackberry.com/developers/resources/issuetracker/). There are multiple categories.  As always, we encourage you to verify that your submission is not a duplicate.  Legal terms are the standard [BB terms](http://us.blackberry.com/legal/terms.jsp).
 
 
 ## Wiki
