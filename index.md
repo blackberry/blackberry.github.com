@@ -15,7 +15,7 @@ The following pages are dynamic, searchable, catalogs:
 <strong><a href="http://blackberry.github.com/Community/All_Repos.html" target="_blank">GH Repositories</a></strong> - A list of all the repositories at GitHub.com/BlackBerry
 <br/>
 <strong><a href="http://blackberry.github.io/Catalogs/All_Samples.html" target="_blank">GH Samples</a></strong> - A list of all the samples at GitHub.com/BlackBerry
-</br>
+</p>
 
 We will add more catalogs as time permits.
 
