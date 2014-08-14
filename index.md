@@ -14,10 +14,8 @@ The following pages are dynamic, searchable, catalogs:
 <p>
 <strong><a href="http://blackberry.github.com/Community/All_Repos.html" target="_blank">GH Repositories</a></strong> - A list of all the repositories at GitHub.com/BlackBerry
 <br/>
-<strong><a href="http://blackberry.github.com/Community/All_Repos.html" target="_blank">GH Samples</a></strong> - A list of all the samples at GitHub.com/BlackBerry
+<strong><a href="http://blackberry.github.io/Catalogs/All_Samples.html" target="_blank">GH Samples</a></strong> - A list of all the samples at GitHub.com/BlackBerry
 </br>
-<strong><a href="http://blackberry.github.com/Community/TBD.html">Components</a></strong> - (TBD) A list of all the OSS Components known to work on BlackBerry Platforms
-</p>
 
 We will add more catalogs as time permits.
 
