@@ -231,10 +231,13 @@ Most members have also agreed to share their [approximate location](http://black
 <span style="margin-left:4px"><a href="http://github.com/kquinsland"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/kquinsland"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
  <a href="http://www.kiimobiletech.com">Kristian Lavereau</a>
-<span style="margin-left:4px"><a href="http://github.com/TBD"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/KiiMobileTech1"><img src="images/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><!-- <a href="http://github.com/TBD"><img src="images/github-favicon.png"/></a> --><a href="http://twitter.com/KiiMobileTech1"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  Krzystof Hofman
 <span style="margin-left:4px"><a href="http://github.com/krzystof-hofman"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a>--></span>
+<br/>
+<a href="https://in.linkedin.com/in/kknows">Kunal Singh</a>
+<span style="margin-left:4px"><a href="http://github.com/Spacena"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
  <a href="http://www.leandrosales.com">Leando de Sales</a>
 <span style="margin-left:4px"><a href="http://github.com/leandroal"><img src="images/github-favicon.png"/></a></span>
