@@ -528,6 +528,12 @@
 	"loc_description": "Lodz, Poland",
 	"loc_coordinates": "19.455982,51.759247,0.000000"
     },
+    "Kunal Singh": {
+	"name": "Kunal Singh",
+	"github": "Spacena",
+	"loc_description": "Bangalore, India",
+	"loc_coordinates": "12.9667,77.5667,0.000000"
+    },
     "Leandro de Sales": {
 	"name": "Leandro de Sales",
 	"github": "leandroal",
