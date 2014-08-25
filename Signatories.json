@@ -828,6 +828,12 @@
 	"loc_description": "Maceio, Alagoas, Brazil",
 	"loc_coordinates": "-35.735100,-9.666252,0.000000"
     },
+    "Tanya Homynyk": {
+	"name": "Tanya Homynyk",
+	"github": "homynyk",
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
+    },
     "Thomas Wolcott": {
 	"name": "Thomas Wolcott",
 	"github": "ph03n1x",
