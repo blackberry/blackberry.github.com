@@ -167,6 +167,9 @@ Most members have also agreed to share their [approximate location](http://black
  Haixuan Chen
 <span style="margin-left:4px"><a href="http://github.com/haixuanc"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/haixuanc"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+<a href="http://sanoweb.eu">Hendrik Jan Mollema</a>
+<span style="margin-left:4px"><a href="http://github.com/gtoniser"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/GtoNiseR"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Hidaya SEKKAL
 <span style="margin-left:4px"><a href="http://github.com/sekkalhidaya"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a> --></span>
 <br/>
