@@ -360,6 +360,12 @@
 	"loc_description": "Burnaby, British Columbia, Canada",
 	"loc_coordinates": "-123.002579,49.229492,0.000000"
     },
+    "Han Wen": {
+	"name": "Han (Jim) Wen",
+	"github": "hwen3",
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
+    },
     "Hendrik Jan Mollema": {
 	"name": "Hendrik Jan (Dirk-Jan) Mollema",
 	"github": "gtoniser",
