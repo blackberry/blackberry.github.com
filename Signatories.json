@@ -921,6 +921,13 @@
 	"loc_description": "TBD",
 	"loc_coordinates": "TBD"
     },
+    "Yen Ting Tung": {
+	"name": "Yen Ting Tung",
+	"website": "http://p2pis.com/",
+	"github": "t470520",
+	"loc_description": "Vancouver, BC, Canada",
+	"loc_coordinates": "-123.113930,49.261227,0.000000"
+    },
     "Yoshiaki NATSUME": {
 	"name": "Yoshiaki NATSUME",
 	"github": "natsumesou",
