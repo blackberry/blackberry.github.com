@@ -482,6 +482,13 @@
 	"loc_description": "Vilanova i la Geltrú, Barcelona, Catalunya",
 	"loc_coordinates": "1.727446,41.215149,0.000000"
     },
+    "Justin Carvalho": {
+	"name": "Justin Carvalho",
+	"github": "jstncarvalho",
+	"website": "http://jcarvalho.ca/",
+	"loc_description": "Guelph, Ontario, Canada",
+	"loc_coordinates": "43.55,-80.25,0.000000"
+    },
     "Justin Tokarchuk": {
 	"name": "Justin Tokarchuk",
 	"github": "jtokarchuk",
