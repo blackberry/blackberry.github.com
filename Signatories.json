@@ -814,6 +814,12 @@
 	"name": "Simon Hsu",
 	"github": "icetingyu",
     },
+    "Stefan Schielke": {
+	"name": "Stefan Schielke",
+	"github": "stefanschielke",
+	"loc_description": "Lee Creek, BC",
+	"loc_coordinates": "50.983333,-119.016667,0.000000"
+    },
     "Steven Kader": {
 	"name": "Steven Kader",
 	"github": "jaredco",
