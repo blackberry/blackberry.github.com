@@ -928,6 +928,12 @@
 	"loc_description": "Vancouver, BC, Canada",
 	"loc_coordinates": "-123.113930,49.261227,0.000000"
     },
+    "Yifan Ren": {
+	"name": "Yifan Ren",
+	"github": "YifanRen",
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
+    },
     "Yoshiaki NATSUME": {
 	"name": "Yoshiaki NATSUME",
 	"github": "natsumesou",

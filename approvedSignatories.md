@@ -416,6 +416,9 @@ Nikolay Khramchenkov
 <a href="http://p2pis.com/">Yen Ting Tung</a>
 <span style="margin-left:4px"><a href="http://github.com/t470520"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ Yifan Ren
+<span style="margin-left:4px"><a href="http://github.com/YifanRen"><img src="images/github-favicon.png"/></a></span>
+<br/>
  <a href="http://natsu.me/">Yoshiaki NATSUME</a>
 <span style="margin-left:4px"><a href="http://github.com/natsumesou"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/natsumesou"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
