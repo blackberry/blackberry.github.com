@@ -167,6 +167,12 @@ Most members have also agreed to share their [approximate location](http://black
  Haixuan Chen
 <span style="margin-left:4px"><a href="http://github.com/haixuanc"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/haixuanc"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Han (Jim) Wen
+<span style="margin-left:4px"><a href="https://github.com/hwen3"><img src="images/github-favicon.png"/></a></span>
+<br/>
+<a href="http://sanoweb.eu">Hendrik Jan Mollema</a>
+<span style="margin-left:4px"><a href="http://github.com/gtoniser"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/GtoNiseR"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  Hidaya SEKKAL
 <span style="margin-left:4px"><a href="http://github.com/sekkalhidaya"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a> --></span>
 <br/>
@@ -217,6 +223,9 @@ Most members have also agreed to share their [approximate location](http://black
 <br/>
  <a href="http://www.opensourcebb.com/osbbx">Justin DaSilva</a>
 <span style="margin-left:4px"><a href="http://github.com/lyricidal"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/theiexplorers"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ <a href="http://jcarvalho.ca/">Justin Carvalho</a>
+<span style="margin-left:4px"><a href="http://github.com/jstncarvalho"><img src="images/github-favicon.png"/></a></span>
 <br/>
  <a href="http://jtdev.blogspot.ca">Justin Tokarchuk</a>
 <span style="margin-left:4px"><a href="http://github.com/jtokarchuk"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/jtokarchuk"><img src="images/twitter-bird-16x16.png"/></a></span>
@@ -356,11 +365,17 @@ Nikolay Khramchenkov
  Simon Hsu
 <span style="margin-left:4px"><a href="http://github.com/icetingyu"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ Stefan Schielke
+<span style="margin-left:4px"><a href="http://github.com/stefanschielke"><img src="images/github-favicon.png"/></a></span>
+<br/>
  <a href="http://jaredco.com">Steven Kader</a>
 <span style="margin-left:4px"><a href="http://github.com/jaredco"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/stevenkader"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://www.tainaribeiro.com">Taina Ribeiro</a>
 <span style="margin-left:4px"><a href="http://github.com/tdaribeiro"><img src="images/github-favicon.png"/></a></span>
+<br/>
+ Tanya Homynyk
+<span style="margin-left:4px"><a href="http://github.com/homynyk"><img src="images/github-favicon.png"/></a></span>
 <br/>
  <a href="http://www.opensourcebb.com/osbbx">Thomas Wolcott</a>
 <span style="margin-left:4px"><a href="http://github.com/ph03n1x"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/ph03n1x"><img src="images/twitter-bird-16x16.png"/></a></span>
@@ -397,6 +412,12 @@ Nikolay Khramchenkov
 <br/>
  Ya Chuan ZHANG
 <span style="margin-left:4px"><a href="http://github.com/windameister"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/natsumesou"><img src="images/twitter-bird-16x16.png"/></a>--></span>
+<br/>
+<a href="http://p2pis.com/">Yen Ting Tung</a>
+<span style="margin-left:4px"><a href="http://github.com/t470520"><img src="images/github-favicon.png"/></a></span>
+<br/>
+ Yifan Ren
+<span style="margin-left:4px"><a href="http://github.com/YifanRen"><img src="images/github-favicon.png"/></a></span>
 <br/>
  <a href="http://natsu.me/">Yoshiaki NATSUME</a>
 <span style="margin-left:4px"><a href="http://github.com/natsumesou"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/natsumesou"><img src="images/twitter-bird-16x16.png"/></a></span>

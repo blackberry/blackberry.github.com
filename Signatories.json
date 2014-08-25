@@ -360,6 +360,12 @@
 	"loc_description": "Burnaby, British Columbia, Canada",
 	"loc_coordinates": "-123.002579,49.229492,0.000000"
     },
+    "Han Wen": {
+	"name": "Han (Jim) Wen",
+	"github": "hwen3",
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
+    },
     "Hendrik Jan Mollema": {
 	"name": "Hendrik Jan (Dirk-Jan) Mollema",
 	"github": "gtoniser",
@@ -475,6 +481,13 @@
 	"website": "http://miblackberry.com",
 	"loc_description": "Vilanova i la Geltrú, Barcelona, Catalunya",
 	"loc_coordinates": "1.727446,41.215149,0.000000"
+    },
+    "Justin Carvalho": {
+	"name": "Justin Carvalho",
+	"github": "jstncarvalho",
+	"website": "http://jcarvalho.ca/",
+	"loc_description": "Guelph, Ontario, Canada",
+	"loc_coordinates": "43.55,-80.25,0.000000"
     },
     "Justin Tokarchuk": {
 	"name": "Justin Tokarchuk",
@@ -801,6 +814,12 @@
 	"name": "Simon Hsu",
 	"github": "icetingyu",
     },
+    "Stefan Schielke": {
+	"name": "Stefan Schielke",
+	"github": "stefanschielke",
+	"loc_description": "Lee Creek, BC",
+	"loc_coordinates": "50.983333,-119.016667,0.000000"
+    },
     "Steven Kader": {
 	"name": "Steven Kader",
 	"github": "jaredco",
@@ -814,6 +833,12 @@
 	"github": "tdaribeiro",
 	"loc_description": "Maceio, Alagoas, Brazil",
 	"loc_coordinates": "-35.735100,-9.666252,0.000000"
+    },
+    "Tanya Homynyk": {
+	"name": "Tanya Homynyk",
+	"github": "homynyk",
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
     },
     "Thomas Wolcott": {
 	"name": "Thomas Wolcott",
@@ -893,6 +918,19 @@
     "Ya Chuan ZHANG": {
 	"name": "Ya Chuan ZHANG",
 	"github": "windameister",
+	"loc_description": "TBD",
+	"loc_coordinates": "TBD"
+    },
+    "Yen Ting Tung": {
+	"name": "Yen Ting Tung",
+	"website": "http://p2pis.com/",
+	"github": "t470520",
+	"loc_description": "Vancouver, BC, Canada",
+	"loc_coordinates": "-123.113930,49.261227,0.000000"
+    },
+    "Yifan Ren": {
+	"name": "Yifan Ren",
+	"github": "YifanRen",
 	"loc_description": "TBD",
 	"loc_coordinates": "TBD"
     },
