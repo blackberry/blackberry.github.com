@@ -198,7 +198,7 @@ Most members have also agreed to share their [approximate location](http://black
 <span style="margin-left:4px"><a href="http://github.com/freakenk"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a> --></span>
 <br/>
  <a href="http://opensourcebb.com">Jeremy Duke</a>
-<span style="margin-left:4px"><a href="http://twitter.com/berryinformed"><img src="images/twitter-bird-16x16.png"/></a></span>
+<span style="margin-left:4px"><a href="http://github.com/sf18443"><img src="images/github-favicon.png"/></a><span style="margin-left:4px"><a href="http://twitter.com/berryinformed"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  Jeremy Karlson
 <span style="margin-left:4px"><a href="http://github.com/germinator"><img src="images/github-favicon.png"/></a></span>
