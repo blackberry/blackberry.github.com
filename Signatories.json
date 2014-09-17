@@ -535,6 +535,12 @@
 	"loc_description": "Toronto, ON, Canada",
 	"loc_coordinates": "-79.385323,43.648560,0.000000"
     },
+    "Kristoffer Flores": {
+	"name": "Kristoffer Flores",
+	"github": "kflores772",
+	"loc_description": "Mississauga, ON, Canada",
+	"loc_coordinates": "-79.644119,43.589046,0.000000"
+    },
     "Krzystof Hofman": {
 	"name": "Krzyzstof Hofman",
 	"github": "krzystof-Hofman",

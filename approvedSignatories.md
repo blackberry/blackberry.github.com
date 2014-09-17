@@ -242,6 +242,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://www.kiimobiletech.com">Kristian Lavereau</a>
 <span style="margin-left:4px"><!-- <a href="http://github.com/TBD"><img src="images/github-favicon.png"/></a> --><a href="http://twitter.com/KiiMobileTech1"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Kristoffer Flores
+<span style="margin-left:4px"><a href="http://github.com/kflores772"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/KiiMobileTech1"><img src="images/twitter-bird-16x16.png"/></a> --></span>
+<br/>
  Krzystof Hofman
 <span style="margin-left:4px"><a href="http://github.com/krzystof-hofman"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/TBD"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
