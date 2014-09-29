@@ -404,6 +404,9 @@ Nikolay Khramchenkov
  <a href="http://www.codeplex.com/site/users/view/rcmaniac25">Vincent Simonetti</a>
 <span style="margin-left:4px"><a href="http://github.com/rcmaniac25"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/rcmaniac25"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+<a href="http://www.walkline.wang/">Walkline Wang</a>
+<span style="margin-left:4px"><a href="http://github.com/walkline80"><img src="images/github-favicon.png"/></a></span>
+<br/>
  <a href="http://wesquire.ca/">Wes Johnson</a>
 <span style="margin-left:4px"><a href="http://github.com/sterlingwes"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/sterlingwes"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
