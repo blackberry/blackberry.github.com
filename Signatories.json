@@ -899,6 +899,14 @@
 	"loc_description": "New York, New York, USA",
 	"loc_coordinates": "-74.005974,40.714352,0.000000"
     },
+    "Walkline Wang": {
+	"name": "Walkline Wang",
+	"github": "walkline80",
+	"twitter": "walklinewang",
+	"website": "http://www.walkline.wang/",
+	"loc_description": "Tianjin, China",
+	"loc_coordinates": "39.133333,117.183333,0.000000"
+    },
     "Wes Johnson": {
 	"name": "Wes Johnson",
 	"github": "sterlingwes",
