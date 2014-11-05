@@ -482,6 +482,12 @@
 	"loc_description": "Vilanova i la Geltrú, Barcelona, Catalunya",
 	"loc_coordinates": "1.727446,41.215149,0.000000"
     },
+    "Junjie Huang": {
+	"name": "Junjie Huang",
+	"github": "umcsdon",
+	"loc_description": "Winnipeg, Manitoba, Canada",
+	"loc_coordinates": "49.899444,-97.139167,0.000000"
+    },
     "Justin Carvalho": {
 	"name": "Justin Carvalho",
 	"github": "jstncarvalho",
