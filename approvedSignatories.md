@@ -224,6 +224,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://www.opensourcebb.com/osbbx">Justin DaSilva</a>
 <span style="margin-left:4px"><a href="http://github.com/lyricidal"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/theiexplorers"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+Junjie Huang
+<span style="margin-left:4px"><a href="http://github.com/umcsdon"><img src="images/github-favicon.png"/></a></span>
+<br/>
  <a href="http://jcarvalho.ca/">Justin Carvalho</a>
 <span style="margin-left:4px"><a href="http://github.com/jstncarvalho"><img src="images/github-favicon.png"/></a></span>
 <br/>
