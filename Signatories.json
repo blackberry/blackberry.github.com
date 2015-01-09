@@ -288,6 +288,12 @@
 	"loc_description": "Toronto, ON, Canada",
 	"loc_coordinates": "-79.385323,43.648560,0.000000"
     },
+    "Domminic Wong": {
+	"name": "Domminic Wong",
+	"github": "dmkc",
+	"loc_description": "Calgary, Alberta, Canada",
+	"loc_coordinates": "-114.058098,51.045326,0.000000"
+    },
     "Don Berzley": {
 	"name": "Don Berzley",
 	"twitter": "blkscorp33",
