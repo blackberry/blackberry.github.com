@@ -335,6 +335,9 @@ Nikolay Khramchenkov
  <a href="http://peternewhook.com">Peter Newhook</a>
 <span style="margin-left:4px"><a href="http://github.com/pnewhook"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/p337er"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://legault.cc/">Philippe Legault</a>
+<span style="margin-left:4px"><a href="http://github.com/Bathlamos"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/Bathlamos"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://blog.rachelbrindle.com">Rachel Brindle</a>
 <span style="margin-left:4px"><a href="http://github.com/younata"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/younata"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>

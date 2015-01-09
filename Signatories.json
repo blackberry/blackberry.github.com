@@ -744,6 +744,14 @@
 	"loc_description": "Toronto, ON, Canada",
 	"loc_coordinates": "-79.385323,43.648560,0.000000"
     },
+    "Philippe Legault": {
+	"name": "Philippe Legault",
+	"github": "Bathlamos",
+	"twitter": "Bathlamos",
+	"website": "http://legault.cc",
+	"loc_description": "Ottawa, ON, Canada",
+	"loc_coordinates": "-75.697189,45.421532,0.000000"
+    },
     "Rachel Brindle": {
 	"name": "Rachel Brindle",
 	"github": "younata",
