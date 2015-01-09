@@ -137,6 +137,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://ohnotaga.in">Dmitry Kichenko</a>
 <span style="margin-left:4px"><a href="http://github.com/dmkc"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/imissjuno"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Dominic Wong
+<span style="margin-left:4px"><a href="http://github.com/dmcwong"><img src="images/github-favicon.png"/></a></span>
+<br/>
  <a href="http://opensourcebb.com">Don Berzley</a>
 <span style="margin-left:4px"><a href="http://github.com/BlackScorpion3"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/blkscorp33"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -335,6 +338,9 @@ Nikolay Khramchenkov
  <a href="http://peternewhook.com">Peter Newhook</a>
 <span style="margin-left:4px"><a href="http://github.com/pnewhook"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/p337er"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://legault.cc/">Philippe Legault</a>
+<span style="margin-left:4px"><a href="http://github.com/Bathlamos"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/Bathlamos"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://blog.rachelbrindle.com">Rachel Brindle</a>
 <span style="margin-left:4px"><a href="http://github.com/younata"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/younata"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -379,6 +385,9 @@ Nikolay Khramchenkov
 <br/>
  <a href="http://www.tainaribeiro.com">Taina Ribeiro</a>
 <span style="margin-left:4px"><a href="http://github.com/tdaribeiro"><img src="images/github-favicon.png"/></a></span>
+<br/>
+ Tangrui Song
+<span style="margin-left:4px"><a href="http://github.com/trsong"><img src="images/github-favicon.png"/></a></span>
 <br/>
  Tanya Homynyk
 <span style="margin-left:4px"><a href="http://github.com/homynyk"><img src="images/github-favicon.png"/></a></span>

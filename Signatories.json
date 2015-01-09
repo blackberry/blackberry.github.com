@@ -288,6 +288,12 @@
 	"loc_description": "Toronto, ON, Canada",
 	"loc_coordinates": "-79.385323,43.648560,0.000000"
     },
+    "Domminic Wong": {
+	"name": "Domminic Wong",
+	"github": "dmkc",
+	"loc_description": "Calgary, Alberta, Canada",
+	"loc_coordinates": "-114.058098,51.045326,0.000000"
+    },
     "Don Berzley": {
 	"name": "Don Berzley",
 	"twitter": "blkscorp33",
@@ -744,6 +750,14 @@
 	"loc_description": "Toronto, ON, Canada",
 	"loc_coordinates": "-79.385323,43.648560,0.000000"
     },
+    "Philippe Legault": {
+	"name": "Philippe Legault",
+	"github": "Bathlamos",
+	"twitter": "Bathlamos",
+	"website": "http://legault.cc",
+	"loc_description": "Ottawa, ON, Canada",
+	"loc_coordinates": "-75.697189,45.421532,0.000000"
+    },
     "Rachel Brindle": {
 	"name": "Rachel Brindle",
 	"github": "younata",
@@ -845,6 +859,12 @@
 	"github": "tdaribeiro",
 	"loc_description": "Maceio, Alagoas, Brazil",
 	"loc_coordinates": "-35.735100,-9.666252,0.000000"
+    },
+    "Tangrui Song": {
+	"name": "Tangrui Song",
+	"github": "trsong",
+	"loc_description": "Waterloo, Ontario, Canada",
+	"loc_coordinates": "-80.520409,43.464256,0.000000"
     },
     "Tanya Homynyk": {
 	"name": "Tanya Homynyk",
