@@ -380,6 +380,9 @@ Nikolay Khramchenkov
  <a href="http://www.tainaribeiro.com">Taina Ribeiro</a>
 <span style="margin-left:4px"><a href="http://github.com/tdaribeiro"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ Tangrui Song
+<span style="margin-left:4px"><a href="http://github.com/trsong"><img src="images/github-favicon.png"/></a></span>
+<br/>
  Tanya Homynyk
 <span style="margin-left:4px"><a href="http://github.com/homynyk"><img src="images/github-favicon.png"/></a></span>
 <br/>

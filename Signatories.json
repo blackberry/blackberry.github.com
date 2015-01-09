@@ -846,6 +846,12 @@
 	"loc_description": "Maceio, Alagoas, Brazil",
 	"loc_coordinates": "-35.735100,-9.666252,0.000000"
     },
+    "Tangrui Song": {
+	"name": "Tangrui Song",
+	"github": "trsong",
+	"loc_description": "Waterloo, Ontario, Canada",
+	"loc_coordinates": "-80.520409,43.464256,0.000000"
+    },
     "Tanya Homynyk": {
 	"name": "Tanya Homynyk",
 	"github": "homynyk",
