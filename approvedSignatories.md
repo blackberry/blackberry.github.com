@@ -155,6 +155,9 @@ Most members have also agreed to share their [approximate location](http://black
  Evgeny Yurchenko
 <span style="margin-left:4px"><a href="http://github.com/BGmot"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/evgenyyurchenko"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ <a href="http://www.sfu.ca/~ffakhrae/">Farzin Fakhraei</a>
+<span style="margin-left:4px"><a href="http://github.com/ffakhrae"><img src="images/github-favicon.png"/></a></span>
+<br/>
  Filip Maj
 <span style="margin-left:4px"><a href="http://github.com/filmaj"><img src="images/github-favicon.png"/></a></span>
 <br/>

@@ -333,6 +333,13 @@
 	"loc_description": "Rosenheim, Germany",
 	"loc_coordinates": "12.118105,47.857128,0.000000"
     },
+    "Farzin Fakhraei": {
+	"name": "Farzin Fakhraei",
+	"github": "ffakhrae",
+	"website": "http://www.sfu.ca/~ffakhrae/",
+	"loc_description": "Vancouver, BC, Canada",
+	"loc_coordinates": "-123.113930,49.261227,0.000000"
+    },
     "Filip Maj": {
 	"name": "Filip Maj",
 	"github": "filmaj",
