@@ -392,6 +392,9 @@ Nikolay Khramchenkov
  Tanya Homynyk
 <span style="margin-left:4px"><a href="http://github.com/homynyk"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ Thomas Fung
+<span style="margin-left:4px"><a href="http://github.com/tfung"><img src="images/github-favicon.png"/></a></span>
+<br/>
  <a href="http://www.opensourcebb.com/osbbx">Thomas Wolcott</a>
 <span style="margin-left:4px"><a href="http://github.com/ph03n1x"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/ph03n1x"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
