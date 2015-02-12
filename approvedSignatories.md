@@ -308,6 +308,9 @@ Junjie Huang
  <a href="http://mike-hostetler.com/">Mike Hostetler</a>
 <span style="margin-left:4px"><a href="http://github.com/mikehostetler"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mikehostetler"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+Mohammad Yaseen Khan
+<span style="margin-left:4px"><a href="http://github.com/MYaseenAKAKhan"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/myaseenakakhan"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
 Morgan Parlee
 <span style="margin-left:4px"><a href="http://github.com/mkparlee"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mkparlee"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
