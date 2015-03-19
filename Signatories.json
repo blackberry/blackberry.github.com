@@ -915,6 +915,14 @@
 	"loc_description": "Dublin, Ireland",
 	"loc_coordinates": "-6.260082,53.349442,0.000000"
     },
+    "Toby Clench": {
+	"name": "Toby Clench",
+	"github": "Tobster619",
+	"twitter": "tobster619",
+	"website": "http://tundracorestudios.co.uk/",
+	"loc_description": "Bristol, England, UK",
+	"loc_coordinates": "51.45,-2.583333,0.000000"
+    },
     "Tolga Yilmaz": {
 	"name": "Tolga Yilmaz",
 	"github": "tolgamyth",
