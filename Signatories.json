@@ -801,6 +801,13 @@
 	"loc_description": "Missisauga, Ontario, Canada",
 	"loc_coordinates": "-79.644119,43.589046,0.000000"
     },
+    "Roger Leblanc": {
+	"name": "Roger Leblanc",
+	"github": "RodgerLeblanc",
+	"twitter": "RodgerLeblanc",
+	"loc_description": "Trois-Rivières, Quebec, Canada",
+	"loc_coordinates": "-72.55,46.35,0.000000"
+    },
     "Roman Verhovšek": {
 	"name": "Roman Verhovšek",
 	"github": "sivko2",
