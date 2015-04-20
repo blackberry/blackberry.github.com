@@ -359,6 +359,9 @@ Nikolay Khramchenkov
  <a href="http://www.newyyz.com">Rod Nolan</a>
 <span style="margin-left:4px"><a href="http://github.com/rodnolan"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/rodnolan"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Roger Leblanc
+<span style="margin-left:4px"><a href="http://github.com/RodgerLeblanc"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/RodgerLeblanc"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
  <a href="http://blackberrydev.si">Roman Verhovsek</a>
 <span style="margin-left:4px"><a href="http://github.com/sivko2"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/sivko2"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
