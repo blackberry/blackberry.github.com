@@ -326,6 +326,9 @@ Nikolay Khramchenkov
  Panutat (Jimmy) Tejasen
 <span style="margin-left:4px"><a href="http://github.com/mozeal"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/mozeal"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Parker Aldric Mar
+<span style="margin-left:4px"><a href="http://github.com/parker-mar"><img src="images/github-favicon.png"/></a></span>
+<br/>
  Paul-Arthur Sauvageot
 <span style="margin-left:4px"><a href="http://github.com/kyew"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/kyewpixelized"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
@@ -373,6 +376,9 @@ Nikolay Khramchenkov
 <br/>
  <a href="http://www.qtness.com">Sacha Refshauge</a>
 <span style="margin-left:4px"><a href="http://github.com/xsacha"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/QtnessDev"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
+ Sean Scheideman
+<span style="margin-left:4px"><a href="http://github.com/scheidemanS"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/Sean_Scheideman"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
  <a href="http://www.opensourcebb.com">Shane Cridlebaugh</a>
 <span style="margin-left:4px"><a href="http://github.com/SCrid2000"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/GShaneC"><img src="images/twitter-bird-16x16.png"/></a></span>

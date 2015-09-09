@@ -725,6 +725,12 @@
 	"loc_description": "Chiang Mai, Thailand",
 	"loc_coordinates": "98.660057,18.796465,0.000000"
     },
+    "Parker Aldric Mar": {
+	"name": "Parker Aldric Mar",
+	"github": "parker-mar",
+	"loc_description": "North York, Ontario, Canada",
+	"loc_coordinates": "-79.385323,43.648560,0.000000"
+    },
     "Paul-Arthur Sauvageot": {
 	"name": "Paul-Arthur Sauvageot",
 	"github": "Kyew",
@@ -837,6 +843,13 @@
 	"website": "http://www.qtness.com",
 	"loc_description": "Brisbane, Queensland, Australia",
 	"loc_coordinates": "153.023453,-27.471010,0.000000"
+    },
+    "Sean Scheideman": {
+	"name": "Sean Scheideman",
+	"github": "scheidemanS",
+	"twitter": "Sean_Scheideman",
+	"loc_description": "Edmonton, Alberta, Canada",
+	"loc_coordinates": "53.533333,-113.5,0.000000"
     },
     "Shane Cridlebaugh": {
 	"name": "Shane Cridlebaugh",
