@@ -186,6 +186,12 @@
  	"loc_description": "Socorro, Santander, Colombia",
 	"loc_coordinates": "-73.265663,6.460415,0.000000"
     },
+    "Chen Hao (John) Hsu": {
+	"name": "Chen Hao (John) Hsu",
+	"github": "Makoz",
+	"loc_description": "Vancouver, BC, Canada",
+	"loc_coordinates": "-123.113930,49.261227,0.000000"
+    },
     "Chris Holland": {
 	"name": "Chris Holland",
 	"github": "TBD",
@@ -659,6 +665,12 @@
 	"github": "mdelong",
 	"loc_description": "Ontario, Canada",
 	"loc_coordinates": "-85.323212,51.253777,0.000000"
+    },
+    "Michael Przystupa": {
+	"name": "Michael Przystupa",
+	"github": "GamerDecathlete",
+	"loc_description": "Vancouver, BC, Canada",
+	"loc_coordinates": "-123.113930,49.261227,0.000000"
     },
     "Michael Robinson": {
 	"name": "Michael Robinson",
