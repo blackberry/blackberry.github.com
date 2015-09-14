@@ -92,6 +92,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://cesarpachon.com">Cesar Pachon</a>
 <span style="margin-left:4px"><a href="http://github.com/cesarpachon"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/cesarpachon"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+ Chen Hao (John) Hsu
+<span style="margin-left:4px"><a href="http://github.com/Makoz"><img src="images/github-favicon.png"/></a></span>
+<br/>
  Chris Holland
 <span style="margin-left:4px"><a href="http://github.com/TBD"><img src="images/github-favicon.png"/></a><!-- <a href="http://twitter.com/cesarpachon"><img src="images/twitter-bird-16x16.png"/></a>--></span>
 <br/>
@@ -298,6 +301,9 @@ Junjie Huang
 <br/>
  Michael Delong
 <span style="margin-left:4px"><a href="http://github.com/mdelong"><img src="images/github-favicon.png"/></a></span>
+<br/>
+ Michael Przystupa
+<span style="margin-left:4px"><a href="http://github.com/GamerDecathlete"><img src="images/github-favicon.png"/></a></span>
 <br/>
  <a href="http://badtoyz.tumblr.com">Michael Robinson</a>
 <span style="margin-left:4px"><a href="http://github.com/badtoyz"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/badtoyz"><img src="images/twitter-bird-16x16.png"/></a></span>
