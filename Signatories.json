@@ -947,6 +947,13 @@
 	"loc_description": "Dublin, Ireland",
 	"loc_coordinates": "-6.260082,53.349442,0.000000"
     },
+    "Tim Windsor": {
+	"name": "Tim Windsor",
+	"github": "timwindsor",
+	"twitter": "timothywindsor",
+	"loc_description": "Waterloo, Ontario, Canada",
+	"loc_coordinates": "-80.520409,43.464256,0.000000"
+    },
     "Toby Clench": {
 	"name": "Toby Clench",
 	"github": "Tobster619",

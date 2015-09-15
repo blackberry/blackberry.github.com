@@ -428,6 +428,9 @@ Nikolay Khramchenkov
  Tim Shi
 <span style="margin-left:4px"><a href="https://github.com/timkiimobiletech"><img src="images/github-favicon.png"/></a></span>
 <br/>
+ Tim Windsor
+<span style="margin-left:4px"><a href="https://github.com/timwindsor"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/timothywindsor"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
 <a href="http://tundracorestudios.co.uk/">Toby Clench</a>
 <span style="margin-left:4px"><a href="http://github.com/Tobster619"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/tobster619"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
