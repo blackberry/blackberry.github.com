@@ -505,7 +505,7 @@ Nikolay Khramchenkov
    </tr>
    <tr>
     <td align="center" valign="center">
-      <a href="http://www.tessmann-media-consulting.de/" target="_blank"><img src="../images/tmc_dark.png" border="0"/></a>
+      <a href="http://www.tessmann-media-consulting.de/" target="_blank"><img src="../images/tmc_dark122x73.png" border="0"/></a>
     </td>
    </tr>
 </table>
