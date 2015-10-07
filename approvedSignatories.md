@@ -503,11 +503,6 @@ Nikolay Khramchenkov
       <a href="http://compelab.org/" target="_blank"><img src="../images/compe-logo.png" border="0"/></a>
     </td>
    </tr>
-   <tr>
-    <td align="center" valign="center">
-      <a href="http://www.tessmann-media-consulting.de/" target="_blank"><img src="../images/tmc_dark122x73.png" border="0"/></a>
-    </td>
-   </tr>
 </table>
 
 </td> <!-- end of LEFT -->
@@ -530,6 +525,11 @@ Nikolay Khramchenkov
   <tr>
     <td align="center" valign="center">
      <a href="http://zenika.com" target="_blank"><img src="../images/logo_zenika.png" width="160" style="margin-top: 20px"></a>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="center">
+      <a href="http://www.tessmann-media-consulting.de/" target="_blank"><img src="../images/tmc_dark122x73.png" border="0"/></a>
     </td>
    </tr>
 </table>
