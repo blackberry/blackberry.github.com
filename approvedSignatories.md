@@ -233,6 +233,9 @@ Most members have also agreed to share their [approximate location](http://black
  <a href="http://www.opensourcebb.com/osbbx">Justin DaSilva</a>
 <span style="margin-left:4px"><a href="http://github.com/lyricidal"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/theiexplorers"><img src="images/twitter-bird-16x16.png"/></a></span>
 <br/>
+Julian Tessman
+<span style="margin-left:4px"><a href="http://github.com/T-M-C"><img src="images/github-favicon.png"/></a><a href="http://twitter.com/julster85"><img src="images/twitter-bird-16x16.png"/></a></span>
+<br/>
 Junjie Huang
 <span style="margin-left:4px"><a href="http://github.com/umcsdon"><img src="images/github-favicon.png"/></a></span>
 <br/>
@@ -498,6 +501,11 @@ Nikolay Khramchenkov
   <tr>
     <td align="center" valign="center">
       <a href="http://compelab.org/" target="_blank"><img src="../images/compe-logo.png" border="0"/></a>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="center">
+      <a href="http://www.tessmann-media-consulting.de/" target="_blank"><img src="../images/tmc_dark.png" border="0"/></a>
     </td>
    </tr>
 </table>
