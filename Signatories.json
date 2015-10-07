@@ -501,6 +501,13 @@
 	"loc_description": "Vilanova i la Geltrú, Barcelona, Catalunya",
 	"loc_coordinates": "1.727446,41.215149,0.000000"
     },
+    "Julian Tessman": {
+	"name": "Julian Tessman",
+	"github": "T-M-C",
+	"twitter": "julster85",
+	"loc_description": "Braunschweig, Germany",
+	"loc_coordinates": "10.516667,52.266667,0.000000"
+    },
     "Junjie Huang": {
 	"name": "Junjie Huang",
 	"github": "umcsdon",
