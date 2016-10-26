@@ -23,7 +23,7 @@ BlackBerry has a number of official [blogs](http://blogs.blackberry.com/), most 
 
 The official Issue Trackers for BlackBerry open source projects are the GitHub "Issues" portion of each of the project repositories. You will require a GitHub account to file a bug or request a feature.
 
-The official Issue Tracker for BlackBerry's products is via this [JIRA instance](https://www.blackberry.com/jira/secure/Dashboard.jspa); you will need to use your BlackBerry Id - see [issuetracker page](http://us.blackberry.com/developers/resources/issuetracker/). There are multiple categories.  As always, we encourage you to verify that your submission is not a duplicate.  Legal terms are the standard [BB terms](http://us.blackberry.com/legal/terms.jsp).
+The official Issue Tracker for BlackBerry's products is via this [JIRA instance](https://www.blackberry.com/jira/secure/Dashboard.jspa); you will need to use your BlackBerry Id - see [issuetracker page](https://ca.blackberry.com/issue-trackers.html). There are multiple categories.  As always, we encourage you to verify that your submission is not a duplicate.  Legal terms are the standard [BB terms](http://us.blackberry.com/legal.html).
 
 
 ## Wiki
@@ -46,4 +46,4 @@ Once we receive your signed documents, we will communicate with you using the em
 
 ## Code Contributions Via Issue Tracker
 
-A common class of code contributions are small bug fixes and small and localized additions to the functionality.  These code changes are often provided in the context of a bug or a request for enhancement submitted through an Issue tracker.  As indicated above, the [JIRA instance](https://www.blackberry.com/jira/secure/Dashboard.jspa) at BB.com is covered by [legal terms](http://us.blackberry.com/legal/terms.jsp) that allow BlackBerry to incorporate the changes, but we encourage contributors to sign the CA for clarity.  Also for clarity, we will require CAs for any substantial contributions.
+A common class of code contributions are small bug fixes and small and localized additions to the functionality.  These code changes are often provided in the context of a bug or a request for enhancement submitted through an Issue tracker.  As indicated above, the [JIRA instance](https://www.blackberry.com/jira/secure/Dashboard.jspa) at BB.com is covered by [legal terms](http://us.blackberry.com/legal.html) that allow BlackBerry to incorporate the changes, but we encourage contributors to sign the CA for clarity.  Also for clarity, we will require CAs for any substantial contributions.
