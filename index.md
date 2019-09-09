@@ -5,7 +5,7 @@ layout: default
 
 # BlackBerry at GitHub
 
-This is the official main website for [BlackBerry](http://blackberry.com) projects at GitHub.
+This is no longer the official main website for [BlackBerry](http://blackberry.com) projects at GitHub. The site will soon be archived. 
 
 ## Catalogs
 
